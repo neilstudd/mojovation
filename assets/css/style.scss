@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media print, screen and (max-width:580px) {
+    header ul {
+      display:block;
+    }
+  
+    header p.view {
+      display:block;
+    }
+  
+    header p {
+      width:100%;
+    }
+  }
