@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Site coming soon...
+
+Stay tuned!
+
+Latest mojovational posts will be listed below.
