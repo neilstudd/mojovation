@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Site coming soon...
+<h1>Site coming soon...</h1>
 
 Stay tuned!
 
