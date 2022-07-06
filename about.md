@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
+title: Frequently Asked Questions
 permalink: /about/
 ---
 
-This will become the About page.
+Coming soon: everything you could ever want to know...
