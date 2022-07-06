@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Site coming soon...
 ---
-
-<h1>Site coming soon...</h1>
 
 Stay tuned!
 
