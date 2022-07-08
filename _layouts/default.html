@@ -7,13 +7,14 @@
 {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     
     {% if page.image %}
     <meta property="og:image" content="{{ page.image }}">
     {% else %}
-    <meta property="og:image" content="assets/img/temporary_logo.png">
+    <meta property="og:image" content="/assets/img/temporary_logo.png">
     {% endif %}
 
     <!--[if lt IE 9]>
