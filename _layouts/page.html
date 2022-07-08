@@ -4,17 +4,10 @@ layout: default
 <article class="post">
 
   <p class="post-meta">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- assign date_format = site.minima.date_format | default: "%-d %B %Y" -%}
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-      {{ page.date | date: date_format }}
+    <img src="/assets/img/avatar.jpg"  style="border-radius: 50%; height: 30px; vertical-align: middle; width: auto; padding-right: 4pt;"/> Published by <a href="https://neilstudd.com" target="_blank"/>Neil Studd</a> on {{ page.date | date: date_format }}
     </time>
-    {%- if page.modified_date -%}
-      ~ 
-      {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-        {{ mdate | date: date_format }}
-      </time>
-    {%- endif -%}
   </p>
 
   <h1 class="post-title">{{ page.title | escape }}</h1>
