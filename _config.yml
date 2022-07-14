@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mojovation
+title: Mojovation Consulting
 email: neil@mojovation.co.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  Just a little bit of daily Mojovation.
+description: Helping agile teams to succeed, grow and flourish.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mojovation.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mojovation.co.uk"
 twitter_username: neilstudd
 github_username:  neilstudd
 
