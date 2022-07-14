@@ -25,25 +25,23 @@ At **Mojovation Consulting**, we want to help individuals and organisations to e
 
 Maybe you're somebody who's trying to advance their career, or recapture the passion that made them set out on their career in the first place. Maybe you're a manager, team leader or executive who's trying to help their squads to find their identity. There are a variety of ways in which we can work with you to help with this: 
 
-**For organisations and teams:**
-* Presentations/workshops (online and in-person) on better agile working
-* Agile coaching and troubleshooting
-* Testing/QA strategies
-* Implementing test automation solutions
+> **For organisations and teams:**
+> * Presentations/workshops (online and in-person) on better agile working
+> * Agile coaching and troubleshooting
+> * Testing/QA strategies
+> * Implementing test automation solutions
+> 
+> **For individuals:**
+> * Career development roadmapping and mentoring 
+> * Advice for your job search, including building the perfect CV 
+> * Confidential discussions around mental health (MHFA certified)
+> * Or let's just have a cuppa and talk through your workplace challenges!
 
-**For individuals:**
-* Career development roadmapping and mentoring 
-* Advice for your job search, including building the perfect CV 
-* Confidential discussions around mental health (MHFA certified)
-* Or let's just have a cup of tea/coffee and talk through your workplace challenges!
-
-If you're interested in how we might be able to work together, send an email to <a href="mailto:hello@mojovation.co.uk">hello@mojovation.co.uk</a> and we'll be happy to set up a free introductory call to learn more about your needs and our service offering.
+If you're interested in how we might be able to work together, send an email to <a href="mailto:hello@mojovation.co.uk">hello@mojovation.co.uk</a> and we'll be happy to set up a free introductory call to learn more about your needs and how our service offering can help you.
 
 ### Why should I listen to you, rather than {Person X}?
 
-Honestly, if Person X comes highly recommended, then you should definitely talk to them - the more voices, the better! What we're bringing to the table is two decades of experience of working on the coal-face of agile teams in a variety of roles, through various levels of seniority (including team lead, scrum-master and head of department), so our experience is more than just theoretical. To quote the classic Baz Luhrmann _Sunscreen_ song: 
-
-> "My advice has no basis more reliable than my own meandering experience."
+Honestly, if Person X comes highly recommended, then you should definitely talk to them - the more voices, the better! What we're bringing to the table is two decades of experience of working on the coal-face of agile teams in a variety of roles, through various levels of seniority (including team lead, scrum-master and head of department), so our experience is more than just theoretical. To quote the classic Baz Luhrmann _Sunscreen_ song: "My advice has no basis more reliable than my own meandering experience."
 
 ### Where did the name come from?
 
