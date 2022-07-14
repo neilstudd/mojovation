@@ -23,6 +23,9 @@ email: neil@mojovation.co.uk
 description: Helping agile teams to succeed, grow and flourish.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mojovation.co.uk"
+contact_cta: >- 
+  ✉️ To learn more about how Mojovation Consulting can help you and your team to flourish, 
+  read our <a href="/about">FAQs</a> or email us at <a href="mailto:hello@mojovation.co.uk">hello@mojovation.co.uk</a>
 twitter_username: neilstudd
 github_username:  neilstudd
 
