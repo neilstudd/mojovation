@@ -10,7 +10,7 @@ This is a reworking of an article that I wrote in 2017, titled "Make limits and 
 
 ### The "just one more thing..." spiral
 
-One of the major challenges of following a scrum or kanban approach to working (and that's a key tenet of the excellent book _Four Thousand Weeks_ by Oliver Burkeman) is that it doesn't inherently contain time for pause, reflection or recharging. (Sure, the scrum process espouses the benefit of an end-of-sprint retrospective, but these tend to be a one-hour pause for thought, often scheduled to run immediately into the planning session for the next sprint.)
+One of the major challenges of following a scrum or kanban approach to working is that it doesn't inherently contain time for pause, reflection or recharging. (Sure, the scrum process espouses the benefit of an end-of-sprint retrospective, but these tend to be a one-hour pause for thought, often scheduled to run immediately into the planning session for the next sprint.)
 
 Frequently we'll fall back on the natural breaks in our calendar - also known as "weekends" - as the time to recentre ourselves, but as anybody who's a parent or caregiver will know, often the weekends will be even busier than your day job (and there's no way of pushing-back against your home responsibilities). I've lost track of the number of times that I've had an exhausting working week, have spent most of Saturday just trying to get over the week gone by, and then much of Sunday gets consumed with psyching myself up for the week to come.
 
