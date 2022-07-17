@@ -36,3 +36,8 @@ I keep these ideas in a column on my personal kanban board which I'd previously 
 While schemes like this seem easier to apply to life outside work, we can use them to benefit ourselves and our teams in the workplace too. I'm sure we've all got a list of things we'd like to do at work which are always getting treated as low-priority, because something more important always seems to come along. Well, a rewards column would be perfect for these. Maybe it's a piece of code that you've been longing to refactor, trialling a new tool which could help with your day job, or watching a conference talk on YouTube. Heck, in reading that last sentence, you've probably thought of ten of them: write them down now! You'll find that you create a virtuous cycle, because now you'll be enthused about completing your everyday work, as it moves you closer to doing one of these things that you _want_ to do.
 
 That said, don't hide important career development into your rewards column. "Learn a new skill" or "Take the next level of that certification exam" should be items that your company are supporting you to complete, rather than something that you try to complete on the side. Training budgets are always a dark art, but at the very least, you won't get it if you don't ask - so start the conversation with your manager today.
+
+> **_Key takeaways_** 📝  
+> * The work is going to keep on coming. If you need a break, you need to create the opportunity for yourself.
+> * Keep a list of small, fun activities that you'd like to do - and reward yourself with them at regular intervals.
+> * You can utilise this technique in both your personal and professional life.

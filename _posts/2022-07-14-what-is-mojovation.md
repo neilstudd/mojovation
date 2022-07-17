@@ -40,3 +40,8 @@ There are a smattering of other usages out there on the web, including a Twitter
 Motivation is an emotion/feeling, which leads to a behaviour/action, often something which requires significant effort. This makes sense; we don't generally need to motivate ourselves to undertake everyday activities, such as making breakfast (although a lack of motivation might make it difficult for us to haul ourselves out of bed sometimes; and [spoon theory](https://en.wikipedia.org/wiki/Spoon_theory) teaches us not to make sweeping generalisations). But when something is going to require effort, focus or stress, we need that voice in our head (or from a friend/colleague) to psych us up for success.
 
 Whether that motivation (from ourselves or others) is successful, then, is dependent on intangible factors which we could easily class as mojo. There are hurdles to be cleared, too - procrastination, for example, is one of the enemies of motivation, and one which made itself known even in the writing of this article. If we could better understand the mojo - what it is that makes us more likely to succeed at motivating - then wouldn't we have better, happier lives?
+
+> **_Key takeaways_** 📝  
+> * Motivation - especially of others - is sometimes a dark art, hence we call it "mojovation". 
+> * The more we discuss what motivates ourselves (and others), the more we can try to tame it.
+> * Urban Dictionary is a really strange place to make an unsubstantiated trademark claim.

@@ -33,3 +33,8 @@ Having too much to do - at both work and home - is a surefire path to burnout, e
 As it happens, my first use of the word "mojovation" was as the title of a Trello board that I created after I left my last permanent role, at a time when I was both physically and mentally strained by the demands of the world. The Trello board was a dumping ground of ideas for potential future work, as well as a list of self-care activities that I planned to tick off before plunging back into employment: this was a doubly beneficial to-do list, because not only did I get my usual endorphin rush from ticking-off items, but the items that I was ticking off were _enjoyable_ activities that I actually _wanted_ to be doing. With this, I was able to give my brain more of what it wanted, whilst also giving my body the rest and relaxation that allowed me to recentre itself.
 
 And, hey presto, here I am today - with the power of mojovation now extending into the name of my consulting practice.
+
+> **_Key takeaways_** 📝  
+> * Being organised is great, until the real world tears your plans to shreds.
+> * There's no point trying to do everything at once - because "everything" is constantly in flux.
+> * Focusing on one key thing per day is a great way to ensure that you complete something important.
