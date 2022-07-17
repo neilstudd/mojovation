@@ -12,16 +12,13 @@ layout: default
   {% assign posts = site.posts %}
   
   {%- if posts.size > 0 -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%-d %B %Y" -%}
+      {%- assign date_format = site.minima.date_format | default: "%-d-%b-%y" -%}
       {%- for post in posts -%}
-      <li>
           {{ post.date | date: date_format }}: <strong><a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
-          </a> </strong>
-      </li>
+          </a> </strong><br/>
       {%- endfor -%}
-    </ul>
 
   {%- endif -%}
+  <br/>
 </div>
