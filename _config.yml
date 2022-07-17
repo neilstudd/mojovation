@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mojovation.co.uk"
 contact_cta: >- 
   ✉️ To learn more about how Mojovation Consulting can help you and your team to flourish, 
-  read our <a href="/about">FAQs</a> or email us at <a href="mailto:hello@mojovation.co.uk">hello@mojovation.co.uk</a>
+  read our <a href="/about">services page</a> or complete our <a href="/contact">contact form</a>.
 twitter_username: neilstudd
 github_username:  neilstudd
 
