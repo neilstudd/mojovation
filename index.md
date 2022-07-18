@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Because it's all about people.
+title: Welcome to Mojovation Consulting
 ---
+
+# Because it's all about people.
 
 ![Anchorman - jumping](/assets/img/anchorman.gif)
 
