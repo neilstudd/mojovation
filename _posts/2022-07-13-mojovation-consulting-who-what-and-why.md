@@ -27,8 +27,9 @@ Maybe you're somebody who's trying to advance their career, or recapture the pas
 > **For organisations and teams:**
 > * Presentations/workshops (online and in-person) on better agile working
 > * Agile coaching and troubleshooting
-> * Testing/QA strategies
+> * Testing/QA strategy planning and execution
 > * Implementing test automation solutions
+> * Exploratory testing sessions
 > 
 > **For individuals:**
 > * Career development roadmapping and mentoring 

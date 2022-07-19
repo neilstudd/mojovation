@@ -2,7 +2,6 @@
 layout: page
 title: About Our Services
 permalink: /about/
-date:   2022-07-14 10:46:36 +0100
 ---
 
 Thanks for visiting our site! We have [an FAQs post]({% post_url 2022-07-13-mojovation-consulting-who-what-and-why %}) if you'd like a bit of further background about how we came to be, but if you've arrived on this page, we're assuming you want to get straight to the juicy stuff.
@@ -14,8 +13,9 @@ Our main areas of expertise are listed below.
 **For organisations and teams:**
 * Presentations/workshops (online and in-person) on better agile working
 * Agile coaching and troubleshooting
-* Testing/QA strategies
+* Testing/QA strategy planning and execution
 * Implementing test automation solutions
+* Exploratory testing sessions
  
 **For individuals:**
 * Career development roadmapping and mentoring 
