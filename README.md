@@ -15,5 +15,6 @@ Add `--drafts` to the above command
 ### Jekyll cheat sheets
 
 [Jekyll docs](https://jekyllrb.com/docs/)  
-[Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+[Jekyll cheat sheet](https://devhints.io/jekyll)  
+[Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)  
 [Date formats - strftime](http://www.strfti.me/)
