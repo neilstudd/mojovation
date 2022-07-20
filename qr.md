@@ -3,6 +3,7 @@ layout: page
 title: You scanned our QR code!
 permalink: /qr/
 sitemap: false
+hide_contact_cta: true
 ---
 
 ![Batman Forever - credit card](/assets/img/bat-credit-card.gif)

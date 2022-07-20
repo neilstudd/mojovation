@@ -33,7 +33,9 @@
 
       {{ content }}
 
-      <div><strong>{{ site.contact_cta }}</strong></div>
+      {% unless page.hide_contact_cta %}
+        <div><strong>{{ site.contact_cta }}</strong></div>
+      {% endunless %}
       </section>
     </div>
     <footer>
