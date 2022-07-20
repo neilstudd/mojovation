@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+  padding: 10px;
+}
+
 @media print, screen and (max-width:580px) {
     header ul {
       display:block;
