@@ -49,12 +49,6 @@ There's no dictionary definition for **mojovation** (although, surprisingly, the
 
 ![Austin Powers has lost his mojo.](/assets/img/austin-mojo.gif)
 
-Stay tuned for a more detailed "What is Mojovation?" post, which will be coming shortly.
-
-### What's with the terrible logo?
-
-Honestly, our (very temporary) [logo](/assets/img/temporary_logo.png) is buried so deep that we were hoping nobody would notice it! Currently it only exists for the purposes of displaying a thumbnail when sharing our posts on social media. We're working on getting something more permanent designed as we grow 🌱 
-
 > **_Key takeaways_** 📝  
 > * We want to help agile teams to grow and succeed, by encouraging them to be themselves.
 > * We want to help managers to support their team, through empathy and openness.
