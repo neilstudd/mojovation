@@ -49,6 +49,6 @@ In my opinion... Fletcher owes a lot of apologies for _how_ he tried.
 If you're a fan of _Whiplash_, and/or you'd like to immerse yourself in the film's approaches to motivation, we talked about this on the [_Whiplash_ episode of the Screen Testing podcast](https://screentesting.libsyn.com/ep-10-whiplash).
 
 > **_Key takeaways_** 📝  
-> * X.
-> * X.
-> * X.
+> * It's not about you, it's about the person who you're trying to help.
+> * Have critical conversations when required, but keep positive feedback flowing when deserved.
+> * By all means, display passion - but abuse (even if it delivers results) can never be justified.
