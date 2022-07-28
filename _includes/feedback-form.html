@@ -1,18 +1,21 @@
 <form action="https://formspree.io/f/mgeqwwng" method="POST">
 
-<p><label><strong>What is your primary motivation for having a coaching session like this?</strong></label><br/>
+<p><label><strong>What is your primary motivation for having a coaching session like this?<font color="red">*</font></strong></label><br/>
   <textarea name="motivation" rows="3" style="width:80%;" required></textarea></p>
 
-<p><label><strong>How did it compare with, for example, a conversation with a workplace manager or mentor?</strong></label><br/>
+<p><label><strong>How did it compare with, for example, a conversation with a workplace manager or mentor?<font color="red">*</font></strong></label><br/>
   <textarea name="comparison" rows="3" style="width:80%;" required></textarea></p>
 
-  <p><label for="sessionReport"><strong>How did you feel about the amount of content in your post-session report?<font color="red">*</font></strong></label><br/>
-    <select name="sessionReport" id="sessionReport" required>
-      <option value="" selected="" disabled="">Please select</option>
-      <option value="1">Too detailed (summarise it more)</option>
-      <option value="2">About right</option>
-      <option value="3">I'd like more detail</option>
-  </select></p>
+<p><label><strong>Do you have any specific feedback for how Neil ran the session?</strong></label><br/>
+  <textarea name="feedback" rows="10" style="width:80%;"></textarea></p>
+
+<p><label for="sessionReport"><strong>How did you feel about the amount of content in your post-session report?<font color="red">*</font></strong></label><br/>
+  <select name="sessionReport" id="sessionReport" required>
+    <option value="" selected="" disabled="">Please select</option>
+    <option value="1">Too detailed (summarise it more)</option>
+    <option value="2">About right</option>
+    <option value="3">I'd like more detail</option>
+</select></p>
 
 <p><label for="sessionLength"><strong>What do you feel would be the optimal length for a typical session such as this?<font color="red">*</font></strong></label><br/>
       <select name="sessionLength" id="sessionLength" required>
@@ -57,8 +60,6 @@
       <option value="6">Ad-hoc / less frequently</option>
   </select></p>
 
-<p><label><strong>Do you have any specific feedback for how Neil ran the session?</strong></label><br/>
-      <textarea name="feedback" rows="10" style="width:80%;"></textarea></p>
 <button type="submit">Send feedback</button>
 </form>
 <br/>
