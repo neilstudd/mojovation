@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My own experiences with mojovation"
+excerpt: "Why this is a particularly important subject for me."
 date:   2022-07-15 10:00:00 +0100
 ---
 

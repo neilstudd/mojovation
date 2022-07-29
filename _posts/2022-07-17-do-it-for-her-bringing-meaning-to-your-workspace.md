@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "'Do It For Her' - bringing meaning to your workspace"
+excerpt: "What our desks and our Zoom backgrounds say about ourselves and our colleagues."
 date:   2022-07-17 10:00:00 +0100
 ---
 

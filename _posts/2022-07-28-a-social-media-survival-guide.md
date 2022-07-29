@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A social media survival guide"
+excerpt: "LinkedIn, Twitter, and the many blessings and curses that they provide."
 date:   2022-07-28 09:00:00 +0100
 ---
 

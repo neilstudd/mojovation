@@ -2,18 +2,21 @@
 layout: default
 ---
 
-<h1 class="post-title">Blog Archive: page {{ paginator.page }} of {{ paginator.total_pages }}</h1>
+<h1 class="post-title">Blog Archive</h1>
+
+<p>There are {{ paginator.total_posts }} articles on this site; you're currently viewing page {{ paginator.page }} of {{ paginator.total_pages }}. 
+If you'd prefer, you can follow our content by subscribing to <a href="/feed.xml">our RSS feed</a> in a relevant reader.</h1></p>
 
 <!-- This loops through the paginated posts -->
-{%- assign date_format = site.minima.date_format | default: "%-d-%b-%y" -%}
+{%- assign date_format = site.minima.date_format | default: "%A %e %B %Y" -%}
 {% for post in paginator.posts %}
-  {{ post.date | date: date_format }}: <strong><a class="post-link" href="{{ post.url | relative_url }}">
-    {{ post.title | escape }}
-  </a> </strong><br/>
-{%- endfor -%}
+  <div>{{ post.date | date: date_format }}<br/>
+  <strong><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></strong><br/>
+  {{ post.excerpt }}<br/><br/>
+  </div>
+  {%- endfor -%}
 
 <!-- Pagination links -->
-<br/>
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous Page</a><br/>

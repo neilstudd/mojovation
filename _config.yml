@@ -20,6 +20,7 @@
 
 title: Mojovation Consulting
 email: neil@mojovation.co.uk
+author: Neil Studd
 description: Helping agile teams to succeed, grow and flourish.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mojovation.co.uk"
@@ -32,6 +33,9 @@ github_username:  neilstudd
 # Pagination settings
 paginate: 20 # Number of posts per page
 paginate_path: "/blog/page:num/"
+
+feed:
+  posts_limit: 20
 
 # Build settings
 theme: jekyll-theme-modernist

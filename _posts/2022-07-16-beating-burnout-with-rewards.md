@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Beating burnout with rewards"
+excerpt: "A neat trick to boost both productivity and your opportunities for self-care."
 date:   2022-07-16 10:00:00 +0100
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Avoiding the Bucket List death march"
+excerpt: "Life is infinitely diverse - let's not overly catalog our dreams."
 date:   2022-07-18 11:00:00 +0100
 ---
 

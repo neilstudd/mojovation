@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Set boundaries with your working time"
+excerpt: "How to make sure work doesn't spill over into our downtime."
 date:   2022-07-22 08:00:00 +0100
 ---
 

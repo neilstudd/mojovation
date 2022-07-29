@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What is your happy place?"
+excerpt: "The importance of having a place to go for some 'me time'."
 date:   2022-07-20 22:00:00 +0100
 ---
 

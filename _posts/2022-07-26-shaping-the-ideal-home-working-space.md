@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Shaping the ideal home working space"
+excerpt: "Maintaining a healthy work-life balance when your home is also your work."
 date:   2022-07-26 08:00:00 +0100
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "BOOK REVIEW: The Happiness Advantage"
+excerpt: "Our attitudes to how to 'achieve' happiness are back-to-front. Let's fix them."
 date:   2022-07-29 08:00:00 +0100
 ---
 

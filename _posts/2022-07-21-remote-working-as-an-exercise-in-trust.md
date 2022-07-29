@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Remote working as an exercise in trust"
+excerpt: "Reflecting on news reports from companies such as Frasers Group, who are removing remote working perks."
 date:   2022-07-21 08:00:00 +0100
 ---
 

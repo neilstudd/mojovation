@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Extreme motivation: the Whiplash effect"
+excerpt: "Pushing people to succeed... but where's the limit?"
 date:   2022-07-25 08:00:00 +0100
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What is mojovation?"
+excerpt: "Let's talk dictionary definitions, dated references, and strange trademark claims."
 date:   2022-07-14 12:00:00 +0100
 ---
 

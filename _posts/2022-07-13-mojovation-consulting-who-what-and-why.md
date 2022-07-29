@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mojovation Consulting: Who, what and why"
+excerpt: "A few frequently asked questions about our service."
 date:   2022-07-13 12:00:00 +0100
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Weekend Wednesday experiment"
+excerpt: "Could we be a more envigorated workforce if we just flipped the week around a bit?"
 date:   2022-07-27 09:00:00 +0100
 ---
 
