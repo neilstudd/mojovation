@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1 class="post-title">Blog Archive: page {{ paginator.page }} of {{ paginator.total_pages }}</h1>
+
+<!-- This loops through the paginated posts -->
+{%- assign date_format = site.minima.date_format | default: "%-d-%b-%y" -%}
+{% for post in paginator.posts %}
+  {{ post.date | date: date_format }}: <strong><a class="post-link" href="{{ post.url | relative_url }}">
+    {{ post.title | escape }}
+  </a> </strong><br/>
+{%- endfor -%}
+
+<!-- Pagination links -->
+<br/>
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous Page</a><br/>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next Page</a>
+  {% endif %}
+</div>
+<br/>
