@@ -7,6 +7,10 @@ header {
   padding: 10px;
 }
 
+.pagination {
+  text-align: center;
+}
+
 @media print, screen and (max-width:580px) {
     header ul {
       display:block;

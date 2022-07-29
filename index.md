@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Welcome to Mojovation Consulting
 ---
@@ -19,4 +16,4 @@ We offer **agile coaching**, **career advice** and **project consultancy** servi
 > * [Learn more about the services we provide.](/about.md) 
 > * [Contact us for a free consultation.](/contact.md)
 
-### Latest articles (<a href="feed.xml">RSS feed</a>)
+### 👉 Read our latest [blog posts](/blog/), or subscribe to our <a href="feed.xml">RSS feed</a>

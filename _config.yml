@@ -29,11 +29,16 @@ contact_cta: >-
 twitter_username: neilstudd
 github_username:  neilstudd
 
+# Pagination settings
+paginate: 20 # Number of posts per page
+paginate_path: "/blog/page:num/"
+
 # Build settings
 theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
