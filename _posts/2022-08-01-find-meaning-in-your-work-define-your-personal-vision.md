@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Find meaning in your work: Define your personal vision"
-excerpt: ""
+excerpt: "An exercise to help you to move closer to your best work, by making change that lasts."
 date:   2022-08-01 18:00:00 +0100
 ---
 
