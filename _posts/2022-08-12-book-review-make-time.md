@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BOOK REVIEW: Make Time"
-excerpt: ""
+excerpt: "How to achieve focus and maintain energy to get important work done."
 date:   2022-08-12 09:00:00 +0100
 ---
 
