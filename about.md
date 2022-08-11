@@ -2,6 +2,7 @@
 layout: page
 title: About Our Services
 permalink: /about/
+hide_contact_cta: true
 ---
 
 Thanks for visiting our site! We have [an FAQs post]({% post_url 2022-07-13-mojovation-consulting-who-what-and-why %}) if you'd like a bit of further background about how we came to be, but if you've arrived on this page, we're assuming you want to get straight to the juicy stuff.
@@ -23,20 +24,28 @@ Our main areas of expertise are listed below.
 * Confidential discussions around mental health (MHFA certified)
 * Or let's just have a cuppa and talk through your workplace challenges!
 
-If you're interested in discussing something that isn't listed above - we undoubtedly have an opinion on the matter (even if it's a recommendation for a better person to speak with) so please don't let that be a barrier to [contacting us](/contact).
+If you're interested in discussing something that isn't listed above - we undoubtedly have an opinion on the matter (even if it's a recommendation for a better person to speak with) so please don't let that be a barrier to contacting us.
 
 ### Prices/Rates
 
-We're still putting together our packages and prices - but one thing's for sure, we'll always be offering **free introductory sessions** to allow us to get to know each other, learn what makes us tick, and discover if we're compatible to work together in the way that you're hoping.
+While we're currently putting together our service plan, we're offering a limited number of **free sessions** on a first-come, first-served basis, to give us time to get to know each other, learn what makes us tick, and discover if we're compatible to work together in the way that you're hoping. We'll be giving priority sessions to graduates, job-seekers, or anybody else who's starting out on a tech career for the first time.
 
-We'll also offer **cheaper rates** for graduates, or anybody else who's starting out on a tech career for the first time.
-
-This is a short way of saying... Come and [speak with us](/contact). We'll figure something out :)
+This is a short way of saying... Speak with us by completing the form below. We'll figure something out :)
 
 ### Testimonials
 
-Feedback from people we've worked with in the past will appear here soon!
+Here are a few kind words from people who've spoken with us recently:
 
-### What's the next step?
+* "I found an experienced, insightful, empathic, third-person perspective on motivations and problems."
+* "I felt like you knew where I was coming from which was already a leg up on plenty of other conversations!"
+* "There's no reason to be tactful, you can say what's on your mind without fear of it affecting your workplace reputation."
+* "I like the shared suggestions & notes that Neil sends at the end of each session."
+* "It's brilliant that you had resources that were new to me."
 
-If you'd like to speak to us about how we might work together, please complete our [contact form](/contact).
+### <a name="contact"></a>Contact Us
+
+If you're interested in learning more about how we might work together, simply complete the form below and we'll aim to respond by the following working day.
+
+Alternatively, you can email us directly at <a href="mailto:hello@mojovation.co.uk">hello@mojovation.co.uk</a>
+
+{% include contact-form.html %}
