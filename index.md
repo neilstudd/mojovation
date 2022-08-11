@@ -16,4 +16,17 @@ We offer **agile coaching**, **career advice** and **project consultancy** servi
 > * [Learn more about the services we provide.](/about.md) 
 > * [Contact us for a free consultation.](/contact.md)
 
-### 👉 Read our latest [blog posts](/blog/), or subscribe to our <a href="feed.xml">RSS feed</a>
+
+
+### 👉 This week's [blog posts](/blog/):
+
+<ul>
+{%- assign date_format = site.minima.date_format | default: "%e-%b" -%}
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date: date_format }}: <i>{{ post.title }}</i></a>
+    </li>
+  {% endfor %}
+  <li>Read all {{ site.posts | size}} posts in our <a href="/blog/">blog archive</a></li>
+  <li>Subscribe to our <a href="feed.xml">RSS feed</a></li>
+</ul>
