@@ -3,6 +3,8 @@ layout: post
 title:  "BOOK REVIEW: The One Thing"
 excerpt: "Rather than multi-tasking, narrow your focus and knock down those dominoes."
 date:   2022-08-19 10:00:00 +0100
+tags: books
+cover: book-the-one-thing.jpg
 ---
 
 ![Bridge of Spies - Tom Hanks: "One Thing"](/assets/img/bridge-of-spies-one-thing.gif)

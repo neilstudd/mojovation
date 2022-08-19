@@ -3,6 +3,8 @@ layout: post
 title:  "BOOK REVIEW: The Happiness Advantage"
 excerpt: "Our attitudes to how to 'achieve' happiness are back-to-front. Let's fix them."
 date:   2022-07-29 08:00:00 +0100
+tags: books
+cover: book-the-happiness-advantage.jpg
 ---
 
 ![Pharrell Williams - Happy](/assets/img/pharrell-williams-happy.gif)

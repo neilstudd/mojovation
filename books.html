@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /books/
+title: Book Reviews
+---
+
+<p>Here at Mojovation Consulting, we 💖 reading, so much that we're publishing a new review of a particularly impactful book every Friday. These potted summaries will by no means capture every salient point from their respective titles, but if you find yourself hooked or intrigued, they come heartily recommended.</p>
+
+<p>To learn about a title, click on its thumbnail or scroll down for the full list of books with descriptions.</p>
+
+{% for post in site.tags.books %}
+<a href="{{ post.url | relative_url }}" title="{{ post.title | escape}}"><img src="/assets/img/{{ post.cover }}" width="130" height="200"></a> 
+{% endfor %}
+<br/><br/>
+<h3>The complete list of books:</h3>
+
+{%- assign date_format = site.minima.date_format | default: "%A %e %B %Y" -%}
+{% for post in site.tags.books %}
+<div>{{ post.date | date: date_format }}<br/>
+  <strong><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></strong><br/>
+  {{ post.excerpt }}<br/><br/>
+  </div>
+{% endfor %}
+
+<p>If there's a book that you'd like to learn more about, or that you want to see listed on this page, please get in touch - we'd love to hear your recommendations.</p>

@@ -3,6 +3,8 @@ layout: post
 title:  "BOOK REVIEW: Four Thousand Weeks"
 excerpt: "Embracing hard truths about the finitude of our existence, so that we can accomplish more."
 date:   2022-08-05 09:00:00 +0100
+tags: books
+cover: book-four-thousand-weeks.jpg
 ---
 
 ![Jean-Luc Picard: I'm running out of time.](/assets/img/picard-running-out-of-time.gif)

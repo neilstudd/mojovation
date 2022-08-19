@@ -3,6 +3,8 @@ layout: post
 title:  "BOOK REVIEW: Make Time"
 excerpt: "How to achieve focus and maintain energy to get important work done."
 date:   2022-08-12 01:00:00 +0100
+tags: books
+cover: book-make-time.jpg
 ---
 
 ![Unbreakable Kimmy Schmidt - Scrolling, Scrolling](/assets/img/unbreakable-kimmy-schmidt-scrolling.gif)

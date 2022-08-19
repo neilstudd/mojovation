@@ -28,5 +28,6 @@ We offer **agile coaching**, **career advice** and **project consultancy** servi
     </li>
   {% endfor %}
   <li>Read all {{ site.posts | size}} posts in our <a href="/blog/">blog archive</a></li>
+  <li>Check out our {{ site.tags.books | size}} <a href="/books/">book reviews</a></li>
   <li>Subscribe to our <a href="feed.xml">RSS feed</a></li>
 </ul>
