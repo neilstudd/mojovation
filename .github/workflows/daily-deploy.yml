@@ -2,7 +2,7 @@ name: Daily Deploy
 
 on:
   schedule:
-    - cron:  '10 18 * * *' # Runs every day at 6:10pm UTC
+    - cron:  '0 7 * * *' # Runs every morning (7am in GMT, 8am BST)
 
 jobs:
   refresh:
