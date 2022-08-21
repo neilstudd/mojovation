@@ -1,4 +1,4 @@
-name: Daily Deploy
+name: Trigger daily deployment
 
 on:
   schedule:
