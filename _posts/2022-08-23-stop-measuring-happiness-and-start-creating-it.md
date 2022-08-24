@@ -9,7 +9,7 @@ date:   2022-08-23 01:00:00 +0100
 
 We're obsessed with measuring happiness within our organisations. For the most part, this is well-intentioned: we want to identify room for improvement, and address it. Sometimes, plotting the data can also give us actionable information, for instance if we observe happiness trending downwards. But the more we turn it into a numbers game, the more it becomes empirical data rather than a means for improvement. 
 
-Observe what happens when we tie our happiness scores into objectives, for example ("Attain a 90% team happiness score in Q1") or advertise our happiness scores externally to encourage new hires. Will people give honest feedback if they think it could adversely affect their bonuses or make it harder to recruit? And what do raw numbers even men? 
+Observe what happens when we tie our happiness scores into objectives, for example ("Attain a 90% team happiness score in Q1") or advertise our happiness scores externally to encourage new hires. Will people give honest feedback if they think it could adversely affect their bonuses or make it harder to recruit? And what do raw numbers even mean? 
 
 ### The perils of turning people into numbers
 
