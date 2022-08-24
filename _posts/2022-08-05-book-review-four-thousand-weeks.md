@@ -37,7 +37,7 @@ While we're not all privileged enough to be so selective with where our money go
 
 > "My newborn son would do something adorable, and I'd catch myself speculating about how I might describe it in a tweet, as if what mattered wasn't the experience but my (unpaid!) role as a provider of content for Twitter."
 
-While Burkeman acknowledges the important role of technology in our working lives, he suggests one interesting tweak; we should try to make our technology more "boring" (for instance, by using the accessibility features on our phone to set the screen to greyscale, making the device feel more like a tool) or by selecting "devices with only one purpose"; for instance, reading digital books on a Kindle, rather than on the Kindle app on our phones, because you won't have the distraction of a hundred other apps while you're trying to read.
+While Burkeman acknowledges the important role of technology in our working lives, he suggests one interesting tweak; we should try to make our technology more "boring" (for instance, by using the accessibility features on our phone to set the screen to grayscale, making the device feel more like a tool) or by selecting "devices with only one purpose"; for instance, reading digital books on a Kindle, rather than on the Kindle app on our phones, because you won't have the distraction of a hundred other apps while you're trying to read.
 
 > **_Key takeaways_** 📝  
 > * We only have a short, precious amount of time in our lives - use this realisation to create focus and purpose.

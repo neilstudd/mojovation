@@ -25,7 +25,7 @@ Without wanting to over-generalise, so many of us talk about how little time we'
 
 > **Infinity Pools** are apps and other sources of endlessly replenishing content. If you can pull to refresh, it's an Infinity Pool. If it streams, it's an Infinity Pool. This always-available, always-new entertainment is your reward for the exhaustion of constant busyness.
 
-Most of us have our eyes open to the dangers of being a social media these days, and the saying "If you're not paying for the product, you _are_ the product". Networks are primed to measure for metrics such as "engagement" and "stickyness", regardless of the quality of the interaction that you experience: that is to say, if you're compelled to respond to a negative post, that's as valuable an interaction to the network as if you were making a positive contribution. It's all pageviews and ad impressions. (For a well-rounded primer on the subject, the 2020 Netflix documentary [The Social Dilemma](https://www.netflix.com/title/81254224) is a surprisingly good start.)
+Most of us have our eyes open to the dangers of being a social media these days, and the saying "If you're not paying for the product, you _are_ the product". Networks are primed to measure for metrics such as "engagement" and "stickiness", regardless of the quality of the interaction that you experience: that is to say, if you're compelled to respond to a negative post, that's as valuable an interaction to the network as if you were making a positive contribution. It's all pageviews and ad impressions. (For a well-rounded primer on the subject, the 2020 Netflix documentary [The Social Dilemma](https://www.netflix.com/title/81254224) is a surprisingly good start.)
 
 ### You do you
 

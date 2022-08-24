@@ -7,7 +7,7 @@ date:   2022-08-01 18:00:00 +0100
 
 ![Twin Peaks - Go on whatever vision quest you require.](/assets/img/twin-peaks-vision-quest.gif)
 
-Recently I've found myself having conversations with people who are looking at their careers, and wondering whether they should be finding their day job more meaningful. While it's perfectly possible to make a healthy living as a skilled practitioner who remains detatched from the substance of their role, having a sense of purpose about your work can help to deliver that motivational kick to get you through your toughest projects. ("Purpose" is one of the three tenets of motivation, as outlined by Daniel Pink in his seminal book _Drive_.)
+Recently I've found myself having conversations with people who are looking at their careers, and wondering whether they should be finding their day job more meaningful. While it's perfectly possible to make a healthy living as a skilled practitioner who remains detached from the substance of their role, having a sense of purpose about your work can help to deliver that motivational kick to get you through your toughest projects. ("Purpose" is one of the three tenets of motivation, as outlined by Daniel Pink in his seminal book _Drive_.)
 
 A less well-known book which has recently given me a lot of personal insight on this subject is [Tom Morin's _Your Best Work_](https://workfeelsgood.com/your-best-work/), in which the author shares his own stories of pursuing roles which were seen externally as being "meaningful" (including military service, and intensive labour work), before realising - typically after his job had actively tried to kill him - that he needed to personally reassess what was important to him.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Weekend Wednesday experiment"
-excerpt: "Could we be a more envigorated workforce if we just flipped the week around a bit?"
+excerpt: "Could we be a more invigorated workforce if we just flipped the week around a bit?"
 date:   2022-07-27 09:00:00 +0100
 ---
 
@@ -19,7 +19,7 @@ I'm not sure that many of us would be willing to sacrifice our Saturdays for thi
 
 Yet while CGP Grey espouses some of the benefits of "having a day off when everyone is working" (fewer queues! less traffic!), there is evidence to suggest that we achieve significant psychological benefits when we're off work at the same time as our friends and family. There are several studies cited in Oliver Burkeman's _Four Thousand Weeks_, including this example from the Soviet Union, which in 1929 introduced a system of "four days' work, one days' rest" with the workforce split into five colour-coded groups, all of whom had a different day off, with the expectation of maximising workforce productivity:
 
-> The main effect for ordinary citizens of the USSR [...] was to destroy the possibility of social life. It was a simple question of scheduling. Two friends assigned to two different calendar groups would never be free to socialise on the same day. Husbands and wives were supposed to be assigned to the same group, but they often weren't, placing intense stress on families [...] the Soviet government had inadvertantly demonstrated how much of the value of time comes not from the sheer quantity you have, but from whether you're in sync with the people you care about most.
+> The main effect for ordinary citizens of the USSR [...] was to destroy the possibility of social life. It was a simple question of scheduling. Two friends assigned to two different calendar groups would never be free to socialise on the same day. Husbands and wives were supposed to be assigned to the same group, but they often weren't, placing intense stress on families [...] the Soviet government had inadvertently demonstrated how much of the value of time comes not from the sheer quantity you have, but from whether you're in sync with the people you care about most.
 
 At the very least, I hope that this video has made you pause to think about some of the working values that we believe we're beholden to - and to think about whether there are opportunities to modify the status quo, in order to increase your happiness (and maybe even your productivity as a happy by-product).
 

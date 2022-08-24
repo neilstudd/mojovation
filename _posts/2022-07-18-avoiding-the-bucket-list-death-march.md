@@ -13,13 +13,13 @@ We tend to see such lists as aspirational, and at the very least, a little bit o
 
 ### There's a hole in the bucket
 
-The nature of the bucket list is touched upon by Oliver Burkeman in his book _Four Thousand Weeks_, where he describes their creation as leading to "a deeper sense in which merely to be alive on the planet today is to be haunted by the feeling of having 'too much to do', whether or not you lead a busy life in any convential sense".
+The nature of the bucket list is touched upon by Oliver Burkeman in his book _Four Thousand Weeks_, where he describes their creation as leading to "a deeper sense in which merely to be alive on the planet today is to be haunted by the feeling of having 'too much to do', whether or not you lead a busy life in any conventional sense".
 
 Creating a list is all well and good - I'd be hypocritical to say otherwise, given I've created one myself - but if you keep it too close to the front of your mind, it can simply serve to highlight the gap between "things I'm _actually_ doing" and "things I actually _want_ to be doing", which can lead to a loss of morale, a decrease in wellbeing and waning productivity.
 
 Burkeman muses that:
 
-> "_[bucket list addicts]_ are arguably just as overwhelmed as the exhausted social worker or corporate lawyer. It's true that the things by which they're being overwhelmed are nominally more enjoyable [...] But it remains the case that their fulfilment still seems to depend on their managing to do more than they **can** do [...] It's an attempt to devour the experiences the world has to offer, to feel like you've truly **lived** - but the world has an effectively infinite number of experiences to offer, so getting a handful of them under your belt brings you no closer to a sense of having feasted on life's possibilities."
+> "_[bucket list addicts]_ are arguably just as overwhelmed as the exhausted social worker or corporate lawyer. It's true that the things by which they're being overwhelmed are nominally more enjoyable [...] But it remains the case that their fulfillment still seems to depend on their managing to do more than they **can** do [...] It's an attempt to devour the experiences the world has to offer, to feel like you've truly **lived** - but the world has an effectively infinite number of experiences to offer, so getting a handful of them under your belt brings you no closer to a sense of having feasted on life's possibilities."
 
 In essence: By all means, know what you'd like to do with your future, but don't picture the completion of this list as being a sign that you've "completed" life. To quote John Lennon, "Life is what happens to you when you're busy making other plans": don't become so wrapped-up in living a task-based existence that you miss the unforeseen adventures along the way.
 

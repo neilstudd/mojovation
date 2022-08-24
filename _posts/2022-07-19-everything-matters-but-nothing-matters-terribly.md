@@ -19,7 +19,7 @@ I said as much to a colleague recently, after they admitted having mixed feeling
 
 ### Find your meaning
 
-I'm currently in the midst of reading Tom Morin's _Your Best Work_, which is deeply rooted in this area (and you can expect to hear more when I start my weekly series of book reviews). It seeks to tackle some of the major problems with modern working culture and The Great Resignation, such as disengagement, disillusionment and unfulfilment, and flip them on their head by making us understand what we each individually find meaningful.
+I'm currently in the midst of reading Tom Morin's _Your Best Work_, which is deeply rooted in this area (and you can expect to hear more when I start my weekly series of book reviews). It seeks to tackle some of the major problems with modern working culture and The Great Resignation, such as disengagement, disillusionment and unfulfillment, and flip them on their head by making us understand what we each individually find meaningful.
 
 When we find meaning and purpose in our work, we're intrinsically motivated to succeed; some might even tell you that "work doesn't feel like work" when its very nature sustains you. For some, this might mean working for a product which changes the world, or makes people's lives easier. For others, it may simply mean a job which supports your ability to be a parent or a caregiver more easily. And while we can't all change the world (much as we might like to), the era of having to settle for "it pays the bills" is long gone.
 

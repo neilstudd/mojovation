@@ -29,7 +29,7 @@ And remember, particularly in a post-lockdown culture, "remote working" doesn't 
 
 ### Don't fall into the sedentary trap
 
-Another reason for promoting the coffee shop idea is because it gets us out of our chairs. If you're working from home full-time, and you're in a busy job (let's face it, most of us are), you'll probably have had days when you've barely stood up, let alone actually left the house. Bathing ourselves in artifical light all day is as unhealthy at home as if we were in an office - and if we were in an office, at least we'd have the commute to make sure that we get some fresh air.
+Another reason for promoting the coffee shop idea is because it gets us out of our chairs. If you're working from home full-time, and you're in a busy job (let's face it, most of us are), you'll probably have had days when you've barely stood up, let alone actually left the house. Bathing ourselves in artificial light all day is as unhealthy at home as if we were in an office - and if we were in an office, at least we'd have the commute to make sure that we get some fresh air.
 
 Something which kept me sane when working through lockdown was to create myself an artificial "walk to work": rather than just going into the laptop and powering-on my laptop, I'd put on my shoes and take a 15-minute walk around our neighourhood, before returning to my desk at home. (And I'd repeat this at the end of the working day.) This gives our minds more chance to switch in and out of "work mode", and gives us a chance to plan for our working day, or to decompress when we've finished.
 

@@ -15,7 +15,7 @@ One of the major challenges of following a scrum or kanban approach to working i
 
 Frequently we'll fall back on the natural breaks in our calendar - also known as "weekends" - as the time to recentre ourselves, but as anybody who's a parent or caregiver will know, often the weekends will be even busier than your day job (and there's no way of pushing-back against your home responsibilities). I've lost track of the number of times that I've had an exhausting working week, have spent most of Saturday just trying to get over the week gone by, and then much of Sunday gets consumed with psyching myself up for the week to come.
 
-All this means that "me time" can be quite hard for us to come by, and again this is doubled for anybody with significant familial responsibilities, even during unprecedented periods of lockdown. (Our son was born on the day before the first UK COVID lockdown; donwntime? What downtime!)
+All this means that "me time" can be quite hard for us to come by, and again this is doubled for anybody with significant familial responsibilities, even during unprecedented periods of lockdown. (Our son was born on the day before the first UK COVID lockdown; downtime? What downtime!)
 
 ### Make rewards a part of your development plan
 

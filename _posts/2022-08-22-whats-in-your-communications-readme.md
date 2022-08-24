@@ -13,7 +13,7 @@ When Simon shared his post, I'd been looking for _something like this_ for a whi
 
 ### Why create a Readme?
 
-Remote communication can make it very easy for misunderstandings to occur, and a lack of understanding can sometimes be perceived as a micr-oaggression, which can be difficult to correct if you're not even aware that it's happened. And as our teams change and grow, it can be difficult to hold everyone's preferred ways of working in our heads, or even to broach the conversation in the first place.
+Remote communication can make it very easy for misunderstandings to occur, and a lack of understanding can sometimes be perceived as a micro-aggression, which can be difficult to correct if you're not even aware that it's happened. And as our teams change and grow, it can be difficult to hold everyone's preferred ways of working in our heads, or even to broach the conversation in the first place.
 
 You might only want to include a handful of points in your readme. Or you might want to codify your way of working more formally, especially if you have many people reporting into you, such as Oren Ellenbogen's excellent resource [Manager Readme](https://managerreadme.com/). Whatever your preference, surely having this written-down and accessible can only be a benefit?
 
@@ -29,7 +29,7 @@ If you're wanting do codify some of your working preferences, here are the headi
 * **How to book a meeting with me:** Preferred days/times, preferred notice periods, etc.
 * **Icebreaker topics:** Things which interest you which can get the conversation going.
 * **What makes me tick:** How you do your best work.
-* **What quirks do I have which you should be aware of?:** Things which people might find unusual, or might not have encountered when working with others. (Note from [Hiba Amin's "The pros and cons of manager READMEs"](https://hypercontext.com/blog/communication/manager-readme), that "quirks" shouldnt' be an excuse to always behave this way - you should be actively working to improve them.)
+* **What quirks do I have which you should be aware of?:** Things which people might find unusual, or might not have encountered when working with others. (Note from [Hiba Amin's "The pros and cons of manager READMEs"](https://hypercontext.com/blog/communication/manager-readme), that "quirks" shouldn't be an excuse to always behave this way - you should be actively working to improve them.)
 * **Things that frustrate me:** What should people avoid when communicating with you.
 
 For transparency, you can [click here to view my Readme for inspiration](https://github.com/neilstudd/neilstudd/blob/main/CommunicationsReadme.md). It's a living document, as I may discover new things that I want to highlight (or learn about things which are so ingrained in company culture that they don't require calling-out). I'd be delighted if you bookmarked it, or if you took inspiration and created your own.
