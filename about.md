@@ -30,6 +30,8 @@ If you're interested in discussing something that isn't listed above - we undoub
 
 While we're currently putting together our service plan, we're offering a limited number of **free sessions** on a first-come, first-served basis, to give us time to get to know each other, learn what makes us tick, and discover if we're compatible to work together in the way that you're hoping. We'll be giving priority sessions to graduates, job-seekers, or anybody else who's starting out on a tech career for the first time.
 
+If you'd like to make a donation for our time, we'd be grateful for a small donation to [Neil's Ecologi profile](https://ecologi.com/neilstudd) (via the "Gift more impact" button). Currently, Neil has planted {{ site.data.ecologi.trees }} trees, and offset {{ site.data.ecologi.carbonOffset }} tonnes of carbon. 🌳
+
 This is a short way of saying... Speak with us by completing the form below. We'll figure something out :)
 
 ### Testimonials
