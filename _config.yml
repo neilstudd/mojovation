@@ -43,6 +43,11 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-get-json
+
+jekyll_get_json:
+  data: ecologi
+  json: 'https://public.ecologi.com/users/neilstudd/impact'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
