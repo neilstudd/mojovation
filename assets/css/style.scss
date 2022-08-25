@@ -11,6 +11,10 @@ header {
   text-align: center;
 }
 
+.PageNavigation {
+  text-align: center;
+}
+
 @media print, screen and (max-width:580px) {
     header ul {
       display:block;
