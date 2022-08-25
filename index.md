@@ -16,7 +16,7 @@ We offer **agile coaching**, **career advice** and **project consultancy** servi
 > * [Learn more about the services we provide.](/about.md) 
 > * [Contact us for a free consultation.](/about.md#contact)
 
-Neil has planted {{ site.data.ecologi.trees }} trees and offset {{ site.data.ecologi.carbonOffset }} tonnes of carbon.
+
 
 ### 👉 This week's [blog posts](/blog/):
 
