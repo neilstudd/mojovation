@@ -14,7 +14,7 @@ The Bradford Factor is a weighting system that's designed to highlight employees
 * Person A who has one 5-day period of sickness would have a Bradford score of 5 (1<sup>2</sup> * 5)
 * Person B who has five 1-day periods of sickness would have a score of 125 (5<sup>2</sup> * 5)
 
-You can see the outcome of this calculation on websites such as the [Bradford Factor Calculator](https://www.bradfordfactorcalculator.com/) (which I'm wary of linking-to, in case somebody thinks that it's a good idea to use it). We'll get into the many, many dangers of such a system, but while we're considering the above examples, look what happens if both of the above people are now sick for _exactly the same reason_ (let's imagine they both test positive for COVID:
+You can see the outcome of this calculation on websites such as the [Bradford Factor Calculator](https://www.bradfordfactorcalculator.com/) (which I'm wary of linking-to, in case somebody thinks that it's a good idea to use it). We'll get into the many, many dangers of such a system, but while we're considering the above examples, look what happens if both of the above people are now sick for _exactly the same reason_ (let's imagine they both test positive for COVID):
 
 * If Person A is off sick for one day, their Bradford score becomes 24 (2<sup>2</sup> * 6)
 * If Person B is off sick for one day, their Bradford score becomes 216 (6<sup>2</sup> * 6)
