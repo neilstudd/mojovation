@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Creating buffers and boundaries in your working life"
-excerpt: ""
-date:   2022-08-25 01:00:00 +0100
+excerpt: "Learning to recognise (and enforce) limits to your working."
+date:   2022-08-29 01:00:00 +0100
 ---
 
 ![Star Trek: Lower Decks - What is "Buffer Time"?](/assets/img/lower-decks-buffer-time.gif)
