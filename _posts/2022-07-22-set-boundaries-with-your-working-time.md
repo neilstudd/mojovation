@@ -15,7 +15,7 @@ These distractions can also be impactful during the working day, if we're trying
 
 ### Tips for taking back your time
 
-One of the most explicit ways that you can make your communication preferences known to the team, is by declaring it to them! You could formalise it via some form of [Communications Readme](https://simon-prior.uk/2021/07/05/introducing-the-communications-readme/). Although that's a lot for people to keep in their heads, especially if they work with dozens of different people each day; a simpler way is to self-manage your status within your productivity tools. If you're away, ensure that your status is marked as Away - there is no ambiguity here!
+One of the most explicit ways that you can make your communication preferences known to the team, is by declaring it to them! You could formalise it via some form of [Communications Readme](% post_url 2022-08-22-whats-in-your-communications-readme %). Although that's a lot for people to keep in their heads, especially if they work with dozens of different people each day; a simpler way is to self-manage your status within your productivity tools. If you're away, ensure that your status is marked as Away - there is no ambiguity here!
 
 If you're going to be away/unavailable for a significant period (which is totally acceptable in a flexible working situation), it's extra helpful to give people a clear estimate of when you'll be back, so that they can manage their own workloads, and take their question to somebody else if necessary. For instance, "On lunch" isn't necessarily a helpful status, if I don't know when you started (or plan to finish). "On lunch, back 2pm" might be useful for somebody else to know.
 
