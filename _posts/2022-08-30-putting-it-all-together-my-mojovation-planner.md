@@ -11,7 +11,7 @@ In previous posts, we've looked at the theories behind the concept of a "work-li
 
 > In your effort to attend to all things, everything gets shortchanged and nothing gets its due. [...] Toying with time will lead you down a rabbit hole with no way out. Believing this lie does its harm by convincing you to do things you shouldn't and stop doing things you should.
 
-This was the position that I found myself in when I recently decided to take a couple of months' break from work, a "nuclear" scenario that I outlined in yesterday's blog post, [Creating buffers and boundaries in your working life](% post_url 2022-08-29-creating-buffers-and-boundaries-in-your-working-life %). I simultaneously wanted to spend more time with my family, take some time to relax, pursue some hobbies that I wouldn't be able to fit into an ordinary week, and begin to think about my future career options. That's a lot of concepts to juggle within any given week!
+This was the position that I found myself in when I recently decided to take a couple of months' break from work, a "nuclear" scenario that I outlined in yesterday's blog post, [Creating buffers and boundaries in your working life]({% post_url 2022-08-29-creating-buffers-and-boundaries-in-your-working-life %}). I simultaneously wanted to spend more time with my family, take some time to relax, pursue some hobbies that I wouldn't be able to fit into an ordinary week, and begin to think about my future career options. That's a lot of concepts to juggle within any given week!
 
 ### Planning my week ahead
 
