@@ -40,7 +40,9 @@ Here are a few kind words from people who've spoken with us recently:
 
 * "I found an experienced, insightful, empathic, third-person perspective on motivations and problems."
 * "I felt like you knew where I was coming from which was already a leg up on plenty of other conversations!"
+* "I felt like he was really listening, asking me follow-on questions and he said quite a few things that made me step back and think."
 * "There's no reason to be tactful, you can say what's on your mind without fear of it affecting your workplace reputation."
+* "I like the fact that Neil took some of the issues I was thinking about and provided very pointed and targeted reading."
 * "I like the shared suggestions & notes that Neil sends at the end of each session."
 * "It's brilliant that you had resources that were new to me."
 
