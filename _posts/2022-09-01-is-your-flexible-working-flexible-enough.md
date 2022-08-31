@@ -3,9 +3,8 @@ layout: post
 title:  "Is your flexible working flexible enough?"
 excerpt: "Looking at the reality of whether your company supports working non-standard hours."
 date:   2022-09-01 01:00:00 +0100
+image: friends-flexible-hours.gif
 ---
-
-![Friends - Flexible hours.](/assets/img/friends-flexible-hours.gif)
 
 The changing shape of our workplaces means that flexible working options are a hot topic, and are often now presented much more as a perk that's worth shouting about. Gone are the days when you were lucky to be able to work from home for just one day a week; now there's a wide array of options available for people who have parental or caregiver responsibilities, or any other desire to shift or downsize their hours.
 

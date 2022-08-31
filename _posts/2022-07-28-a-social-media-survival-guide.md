@@ -3,9 +3,8 @@ layout: post
 title:  "A social media survival guide"
 excerpt: "LinkedIn, Twitter, and the many blessings and curses that they provide."
 date:   2022-07-28 09:00:00 +0100
+image: this-is-us-doomscrolling.gif
 ---
-
-![This Is Us - Doomscrolling](/assets/img/this-is-us-doomscrolling.gif)
 
 At various points, I'm sure we've all been advised that building our online presence is essential to making that next big leap in our career. And social networks are a huge part of that - after all, the word "network" is right there in the name!
 

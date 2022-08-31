@@ -3,9 +3,8 @@ layout: post
 title:  "Forget the Bucket List: Make yourself a F***-It List"
 excerpt: "Don't delay what you want to do, because sometimes life really is too short."
 date:   2022-08-11 09:00:00 +0100
+image: big-lebowski-f-it.gif
 ---
-
-![The Big Lebowski - Ah, fuck it Dude. Let's go bowling.](/assets/img/big-lebowski-f-it.gif)
 
 A few weeks back, I wrote about the pros and the cons of [having a bucket list]({% post_url 2022-07-18-avoiding-the-bucket-list-death-march %}), with one of the dangers being that it can turn enjoyable experiences into another long workstream of tasks to be completed. And given our bucket lists tend to be grandiose and hard to complete (Visit Australia! Attend a football World Cup final!), they tend to fester as a reminder of all the things that we'd be doing if we weren't so busy with our everyday lives.
 

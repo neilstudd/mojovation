@@ -3,9 +3,8 @@ layout: post
 title:  "Set boundaries with your working time"
 excerpt: "How to make sure work doesn't spill over into our downtime."
 date:   2022-07-22 08:00:00 +0100
+image: sherlock-phone.gif
 ---
-
-![Sherlock - Watson scowling at phone](/assets/img/sherlock-phone.gif)
 
 The rise in popularity of smartphone and productivity tools have created a communications revolution, the sort of which we haven't seen since the first invention of the telephone. Even 10-15 years ago, if somebody needed to talk to you while you were out of the office, they'd have to either wait until you arrived the next day, or they'd need to telephone you at home. (In more recent years, they could send you an SMS, but that would still be weird and rude to many people.)
 

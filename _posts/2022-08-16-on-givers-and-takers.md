@@ -3,9 +3,8 @@ layout: post
 title:  "On givers and takers"
 excerpt: "How do we help others without being exploited?"
 date:   2022-08-16 19:00:00 +0100
+image: new-radicals-you-get-what-you-give.gif
 ---
-
-![New Radicals - You Get What You Give](/assets/img/new-radicals-you-get-what-you-give.gif)
 
 Do we give as good as we get? That's the subject of [Adam Grant's TED talk, "Are you a giver or a taker?"](https://www.ted.com/talks/adam_grant_are_you_a_giver_or_a_taker). While many of us strive to be Givers ("What can I do for you?"), our workplaces nevertheless tend to contain their fair share of self-serving Takers: "What can _you_ do for me?"
 

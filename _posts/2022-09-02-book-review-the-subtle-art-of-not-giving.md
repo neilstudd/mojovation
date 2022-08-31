@@ -4,10 +4,9 @@ title:  "BOOK REVIEW: The Subtle Art of Not Giving A F*ck"
 excerpt: "This one should obviously come with a NSFW warning."
 date:   2022-09-02 01:00:00 +0100
 tags: books
+image: the-wire-i-dont-give.gif
 cover: book-the-subtle-art.jpg
 ---
-
-![The Wire - I don't give a fuck.](/assets/img/the-wire-i-dont-give.gif)
 
 <img src="/assets/img/book-the-subtle-art.jpg" align="right">Sometimes, the perfect book enters your life at just the right moment. That was the case for me with Mark Manson's _The Subtle Art Of Not Giving A F*ck_, a provocatively (but aptly) titled tome which I first read in early 2019. It was a time of great upheaval for me personally: an intense but short-lived relationship had just ended, and the messages conveyed within these 216 pages spurned me on to relocate to Manchester, where - almost without trying - I landed a new job, a new house, a wife and a child. Within a year.
 

@@ -3,9 +3,8 @@ layout: post
 title:  "Working from home when you're not alone"
 excerpt: "Tips on maintaining your productivity (and sanity) when your family shares your workspace."
 date:   2022-08-04 12:00:00 +0100
+image: bbc-interview-gatecrash.gif
 ---
-
-![BBC - Robert Kelly interview gatecrashed by children](/assets/img/bbc-interview-gatecrash.gif)
 
 You probably all remember the famous news clip of the professor who was being interviewed by BBC News when he was surprisingly gatecrashed by his two children. (If you don't, or in case Professor Kelly was worried that we might all have forgotten about it, it's [archived on Twitter](https://twitter.com/colinjwright/status/840164970121830400) for the ages.)
 

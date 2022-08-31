@@ -5,9 +5,8 @@ excerpt: "Rather than multi-tasking, narrow your focus and knock down those domi
 date:   2022-08-19 10:00:00 +0100
 tags: books
 cover: book-the-one-thing.jpg
+image: bridge-of-spies-one-thing.gif
 ---
-
-![Bridge of Spies - Tom Hanks: "One Thing"](/assets/img/bridge-of-spies-one-thing.gif)
 
 <img src="/assets/img/book-the-one-thing.jpg" align="right">Productivity is a hot topic. Effective multi-tasking is treated as a superpower, when success is often more achievable and measurable if you prioritise the single most important piece of work which will sequentially unlock the next piece. By doing so, you create a "Domino Effect" similar to the one that's popular in internet memes, where you start by toppling a tiny domino, which knocks down another that's 50% bigger, and so on until you're knocking down the Empire State Building if you're not careful. It's a transfer of energy that's known as "geometric progression", and in _The One Thing_, author Gary Keller shows how we can apply this in our work as well.
 

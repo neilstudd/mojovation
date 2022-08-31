@@ -3,9 +3,8 @@ layout: post
 title:  "Shaping the ideal home working space"
 excerpt: "Maintaining a healthy work-life balance when your home is also your work."
 date:   2022-07-26 08:00:00 +0100
+image: simpsons-tidy-office.gif
 ---
-
-![Simpsons - Such a nice, tidy office.](/assets/img/simpsons-tidy-office.gif)
 
 For many of us, the home working revolution arrived rudely and without warning. Personally, I'd been fortunate to be in a permanent remote role for some years beforehand: I took a fully-remote position back in 2017, at least in part because it seemed like a fun novelty. Though even that move wasn't without its challenges: when I was interviewing for the role, I was living in a tiny village where the internet connection peaked at 1MB/sec, which was clearly not going to support videoconferencing or large file downloads. So I packed up and moved to a location which had the infrastructure to support my role (you may have seen a photograph of it in my [previous remote working post]({% post_url 2022-07-21-remote-working-as-an-exercise-in-trust %})).
 

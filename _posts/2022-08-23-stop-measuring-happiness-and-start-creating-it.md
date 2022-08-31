@@ -3,9 +3,8 @@ layout: post
 title:  "Stop measuring happiness and start creating it"
 excerpt: "Let's get beyond trend lines and response rates, and gather actionable data instead."
 date:   2022-08-23 01:00:00 +0100
+image: the-wire-back-with-numbers.gif
 ---
-
-![The Wire - Back with numbers](/assets/img/the-wire-back-with-numbers.gif)
 
 We're obsessed with measuring happiness within our organisations. For the most part, this is well-intentioned: we want to identify room for improvement, and address it. Sometimes, plotting the data can also give us actionable information, for instance if we observe happiness trending downwards. But the more we turn it into a numbers game, the more it becomes empirical data rather than a means for improvement. 
 

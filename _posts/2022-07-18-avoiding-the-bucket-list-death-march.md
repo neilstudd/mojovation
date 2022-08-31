@@ -3,9 +3,8 @@ layout: post
 title:  "Avoiding the Bucket List death march"
 excerpt: "Life is infinitely diverse - let's not overly catalog our dreams."
 date:   2022-07-18 11:00:00 +0100
+image: bucket-list.gif
 ---
-
-![Sonic the Hedgehog - I gotta check that off my bucket list.](/assets/img/bucket-list.gif)
 
 Perhaps it's just an inevitable stage of the passing of time (or more people watching [the 2007 film starring Jack Nicholson and Morgan Freeman](https://en.wikipedia.org/wiki/The_Bucket_List)), but everybody seems to be talking about bucket lists these days. The pandemic seems to have made us all more aware of the fleetingness of our time on this rock, and so many of us have started to compile a checklist of all the things that we'd like to do before we run out of time.
 

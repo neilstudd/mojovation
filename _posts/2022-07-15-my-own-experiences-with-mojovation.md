@@ -3,9 +3,8 @@ layout: post
 title:  "My own experiences with mojovation"
 excerpt: "Why this is a particularly important subject for me."
 date:   2022-07-15 10:00:00 +0100
+image: anchorman-this-is-hard.gif
 ---
-
-![Anchorman: "This is hard!](/assets/img/anchorman-this-is-hard.gif)
 
 Having given a quick overview of [what mojovation is]({% post_url 2022-07-14-what-is-mojovation %}), I wanted to give you some insight into what it means to me, in a brief post which will pre-empt at least a dozen more specific posts that I've already got planned!
 

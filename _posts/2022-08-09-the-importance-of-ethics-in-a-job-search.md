@@ -3,9 +3,8 @@ layout: post
 title:  "The importance of ethics in a job search"
 excerpt: "On how to avoid the temptation to sacrifice your personal principles, for money!"
 date:   2022-08-09 12:00:00 +0100
+image: picard-the-line-must-be-drawn-here.gif
 ---
-
-![Jean-Luc Picard - The line must be drawn here. This far... no further!](/assets/img/picard-the-line-must-be-drawn-here.gif)
 
 When I'm hunting for new job roles, there are a few quick filters which I tend to apply, in order to reduce the number of adverts that I'm scouring through. Some of these are obvious - is the role predominantly remote (which is a requirement of mine)? Would I be joining a company which portrays the sense of a strong internal community? But there's another less-concrete question which quite often streamlines the list: Is it a company that I would want to be seen to be working for?
 

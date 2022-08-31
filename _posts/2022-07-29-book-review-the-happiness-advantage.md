@@ -5,9 +5,8 @@ excerpt: "Our attitudes to how to 'achieve' happiness are back-to-front. Let's f
 date:   2022-07-29 08:00:00 +0100
 tags: books
 cover: book-the-happiness-advantage.jpg
+image: pharrell-williams-happy.gif
 ---
-
-![Pharrell Williams - Happy](/assets/img/pharrell-williams-happy.gif)
 
 <img src="/assets/img/book-the-happiness-advantage.jpg" align="right">**Every Friday, I'll be recommending a book which I've found personally meaningful on my own motivation journey.** And, honestly, there's only one book that I could begin with. I've plugged it on pretty much every podcast, article and presentation that I've ever given: Shawn Achor's book [_The Happiness Advantage_](https://www.shawnachor.com/books/happiness-advantage/) literally changed my life. I discovered it when I was at a low-point in my personal and professional life, and it made me realise that I'd been doing everything in my life back-to-front.
 

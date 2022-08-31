@@ -5,9 +5,8 @@ excerpt: "How to achieve focus and maintain energy to get important work done."
 date:   2022-08-12 01:00:00 +0100
 tags: books
 cover: book-make-time.jpg
+image: unbreakable-kimmy-schmidt-scrolling.gif
 ---
-
-![Unbreakable Kimmy Schmidt - Scrolling, Scrolling](/assets/img/unbreakable-kimmy-schmidt-scrolling.gif)
 
 <img src="/assets/img/book-make-time.jpg" align="right">We're all swimming in a world which is prone to providing us with two competing problems which affect our ability to get things done: busyness and distractions. We see busyness in all of our attempts to create to-do lists, reminders and project plans: as soon as we tick-off an item, three more take its place. Distractions come in many forms, the most dangerous being the so-called "Infinity Pools" which are offered by most modern social media apps and news websites. You think you're done? Keep scrolling and there's more.
 

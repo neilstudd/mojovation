@@ -3,9 +3,8 @@ layout: post
 title:  "'Do It For Her' - bringing meaning to your workspace"
 excerpt: "What our desks and our Zoom backgrounds say about ourselves and our colleagues."
 date:   2022-07-17 10:00:00 +0100
+image: simpsons-do-it-for-her.gif
 ---
-
-![The Simpsons - Do It For Her](/assets/img/simpsons-do-it-for-her.gif)
 
 Back when _The Simpsons_ was still regularly knocking out the hits (in an episode which is now somehow almost 30 years old), "And Maggie Makes Three" was a flashback episode which was built around one central question: Why are there no photos of Maggie in the family photo album? We discover that Homer quit his job at the power plant (literally burning his bridges as he did so) to take up his dream job, only to discover that Marge was pregnant with their third child, forcing him to return grovelling to Mr Burns to claim back his higher-paid role.
 

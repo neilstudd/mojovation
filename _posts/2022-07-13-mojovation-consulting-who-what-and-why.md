@@ -3,9 +3,8 @@ layout: post
 title:  "Mojovation Consulting: Who, what and why"
 excerpt: "A few frequently asked questions about our service."
 date:   2022-07-13 12:00:00 +0100
+image: destinys-child-question.gif
 ---
-
-![Destiny's Child - Independent Women, Pt. 1 - "Question"](/assets/img/destinys-child-question.gif)
 
 **We're just getting started!** In the meantime, while we begin to flex our writing muscles, here's a little more about the Mojovation Consulting vision, our roadmap, and how we can help you.
 

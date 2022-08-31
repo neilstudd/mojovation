@@ -3,9 +3,8 @@ layout: post
 title:  "Let's stop bragging about our resilience"
 excerpt: "Rather than working to overcome adversity, let's eliminate the adversity."
 date:   2022-08-18 13:00:00 +0100
+image: the-sopranos-very-resilient.gif
 ---
-
-![The Sopranos - Very resilient.](/assets/img/the-sopranos-very-resilient.gif)
 
 There are certain clichéd phrases in job advertisement which are worth watching for, as they can be indicative of underlying challenges within an organisation. For instance, "Thrives in a high-pressure environment" (why so much stress?), or "is always willing to go above and beyond" (why aren't expectations being managed?)
 

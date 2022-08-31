@@ -21,6 +21,7 @@ If you include a future timestamp on a post, the post won't get created until th
 * **To hide the contact CTA in a page footer:** add `hide_contact_cta: true` in front matter
 * **To hide a page from the sitemap XML:** add `sitemap: false` in the front matter
 * **To display a published date on a static page:** just add `date: <timestamp>` as per blog posts
+* **To display a cover image at the top of the post:** add `image: my-header-image.jpg` in the front matter
 * **To ensure books have a thumbnail on the [book review page](https://mojovation.co.uk/books):** add `cover: my-book-image.jpg` in the front matter
 
 ### Jekyll cheat sheets

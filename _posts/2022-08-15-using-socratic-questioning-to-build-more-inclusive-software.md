@@ -3,9 +3,8 @@ layout: post
 title:  "Using Socratic questioning to build more inclusive software"
 excerpt: "How to encourage healthy debate to uncover key use cases."
 date:   2022-08-15 19:00:00 +0100
+image: backstreet-boys-tell-me-why.gif
 ---
-
-![Backstreet Boys - Tell Me Why](/assets/img/backstreet-boys-tell-me-why.gif)
 
 The [Socratic method](https://en.wikipedia.org/wiki/Socratic_method) - the act of chaining together a repeated series of questions to move closer to the crux of an issue - gets something of a bad rap sometimes. It's too often assumed to be a high-pressure assault on students in law classes, or a technique used by politicians and journalists alike to trap each other in a contradiction. Yet as [Dictionary.com](https://www.dictionary.com/browse/socratic-method) highlights, there are actually two modes in which you can apply Socratic questioning:
 

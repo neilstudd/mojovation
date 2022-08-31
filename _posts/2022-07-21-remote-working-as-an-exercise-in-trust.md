@@ -3,9 +3,8 @@ layout: post
 title:  "Remote working as an exercise in trust"
 excerpt: "Reflecting on news reports from companies such as Frasers Group, who are removing remote working perks."
 date:   2022-07-21 08:00:00 +0100
+image: hank-scorpio-trust.gif
 ---
-
-![The Simpsons - Hank Scorpio - The key to motivation is trust.](/assets/img/hank-scorpio-trust.gif)
 
 Remote and hybrid working is undoubtedly a hot topic at the moment, especially on the subject of a so-called "return to the workplace" which has been happening as we look towards a post-pandemic world. The companies making the biggest headlines are the ones who are removing remote working privileges; most recently, [Frasers Group (owners of House of Fraser and Sports Direct) have ended their "Frasers Fridays" perk](https://www.theguardian.com/business/2022/jul/14/frasers-group-scraps-friday-home-working).
 

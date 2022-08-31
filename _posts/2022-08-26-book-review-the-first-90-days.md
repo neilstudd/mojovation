@@ -5,9 +5,8 @@ excerpt: "Tips for finding success when you first join an organisation."
 date:   2022-08-26 01:00:00 +0100
 tags: books
 cover: book-the-first-90-days.jpg
+image: sonic-welcome-to-the-team.gif
 ---
-
-![Sonic the Hedgehog 2 - Welcome to the team.](/assets/img/sonic-welcome-to-the-team.gif)
 
 <img src="/assets/img/book-the-first-90-days.jpg" align="right">While Michael D. Watkins' _The First 90 Days_ is primarily a leadership guide for managers joining an organisation (a book which falls into my "so good, I've bought it twice" category), it's full of useful advice for anybody who's onboarding with a new team, regardless of whether it's within a management role. It can be a difficult time for anybody, given that you want to make waves but without being seen to rock the boat (if you pardon the double-metaphor). 
 
