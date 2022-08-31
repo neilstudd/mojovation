@@ -3,7 +3,7 @@ layout: post
 title:  "What's in your \"Communications Readme\"?"
 excerpt: "Avoid mistaken micro-aggressions by codifying your boundaries."
 date:   2022-08-22 01:00:00 +0100
-image: parks-and-recreation-talk-to-me.gif
+image: /assets/img/parks-and-recreation-talk-to-me.gif
 ---
 
 I was first introduced to the concept of a Communications Readme by [this blog post from Simon Prior](https://simon-prior.uk/2021/07/05/introducing-the-communications-readme/). In essence, in the same way as we create readme files for our software projects, explaining how they work and any idiosyncrasies that you need to know, what if we each had a readme that explains how we function, for the benefit of our colleagues?

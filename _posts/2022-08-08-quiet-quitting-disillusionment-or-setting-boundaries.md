@@ -3,7 +3,7 @@ layout: post
 title:  "'Quiet Quitting': Disillusionment, or setting boundaries?"
 excerpt: "Taking a no-blame stance on saying that enough is enough."
 date:   2022-08-08 22:00:00 +0100
-image: the-simpsons-quiet-quitting.gif
+image: /assets/img/the-simpsons-quiet-quitting.gif
 ---
 
 [The Metro reports](https://metro.co.uk/2022/07/29/could-the-quiet-quitting-trend-be-the-answer-to-burnout-what-you-need-to-know-17085827/) on a growing trend of what's being termed "quiet quitting": a mindset-shift in which employees no longer go "above and beyond" within their roles, for instance by not picking up extra tasks which are outside their job description, or by actively shunning additional out-of-hours work.

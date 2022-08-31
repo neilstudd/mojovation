@@ -3,7 +3,7 @@ layout: post
 title:  "Everything matters, but nothing matters terribly"
 excerpt: "Some reflections on the things that keep us awake at night. (CONTENT WARNING: death, grief)"
 date:   2022-07-19 21:00:00 +0100
-image: everything-everywhere-nothing-matters.gif
+image: /assets/img/everything-everywhere-nothing-matters.gif
 ---
 
 ⚠️ **CONTENT WARNING: _death, grief_**

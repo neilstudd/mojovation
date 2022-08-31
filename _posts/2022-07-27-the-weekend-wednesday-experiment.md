@@ -3,7 +3,7 @@ layout: post
 title:  "The Weekend Wednesday experiment"
 excerpt: "Could we be a more invigorated workforce if we just flipped the week around a bit?"
 date:   2022-07-27 09:00:00 +0100
-image: hump-day.gif
+image: /assets/img/hump-day.gif
 ---
 
 It's Wednesday, which means that in companies around the world, everybody's celebrating "hump day": the motivational realisation that you're halfway through the week, and that Friday - and the weekend - is almost in reaching distance. And when we finally reach the weekend, we're often too exhausted to make the most of it. But does it have to be this way?

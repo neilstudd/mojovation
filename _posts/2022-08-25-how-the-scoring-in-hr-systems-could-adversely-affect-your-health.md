@@ -3,7 +3,7 @@ layout: post
 title:  "How the scoring in HR systems could adversely affect your health"
 excerpt: "A critical look at using the Bradford Factor to judge the 'quality' of sickness."
 date:   2022-08-25 01:00:00 +0100
-image: south-park-shenanigans.gif
+image: /assets/img/south-park-shenanigans.gif
 ---
 
 Following on from Tuesday's post about [measuring happiness]({% post_url 2022-08-23-stop-measuring-happiness-and-start-creating-it %}), there's a potentially more damaging metric which is sometimes used in large organisations (and which is pushed by vendors of HR systems), in order to judge the veracity of somebody's sick leave. It's known as the Bradford Factor, and if this is your first time hearing the term, you're most fortunate. But you need to be aware of what it is, in case it's being used against you.

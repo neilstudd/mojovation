@@ -4,8 +4,8 @@ title:  "BOOK REVIEW: Four Thousand Weeks"
 excerpt: "Embracing hard truths about the finitude of our existence, so that we can accomplish more."
 date:   2022-08-05 09:00:00 +0100
 tags: books
-cover: book-four-thousand-weeks.jpg
-image: picard-running-out-of-time.gif
+cover: /assets/img/book-four-thousand-weeks.jpg
+image: /assets/img/picard-running-out-of-time.gif
 ---
 
 <img src="/assets/img/book-four-thousand-weeks.jpg" align="right">Oliver Burkeman's _Four Thousand Weeks_ is a title that I've already referenced several times in my posts, as it's caused a transformative shift in my thinking during the past couple of months. Its central premise - that even if we're fortunate to live til we're 80, that only amounts to 4,000 weeks on the planet - initially seems to be nihilistic or demotivating, but the book delivers powerful messages about focusing on the right things, and learning to disregard those that are out of your control.

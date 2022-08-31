@@ -3,7 +3,7 @@ layout: post
 title:  "Beating burnout with rewards"
 excerpt: "A neat trick to boost both productivity and your opportunities for self-care."
 date:   2022-07-16 10:00:00 +0100
-image: my-me-time.gif
+image: /assets/img/my-me-time.gif
 ---
 
 This is a reworking of an article that I wrote in 2017, titled "Make limits and rewards a part of your development plan", but five years later it's one of the most engrained practices in my professional and personal life, so I'm going to continue to promote it!

@@ -3,7 +3,7 @@ layout: post
 title:  "Creating buffers and boundaries in your working life"
 excerpt: "Learning to recognise (and enforce) limits to your working."
 date:   2022-08-29 01:00:00 +0100
-image: lower-decks-buffer-time.gif
+image: /assets/img/lower-decks-buffer-time.gif
 ---
 
 It's a bank holiday in the UK - the last public holiday until Christmas (sigh) - which means that we should all be resting, or trying to barbecue under an umbrella. But if you're like me, you're probably finding yourself rather restless, as we've become attuned to being "always on", especially with remote working clouding our personal and work boundaries.

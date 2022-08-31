@@ -3,7 +3,7 @@ layout: post
 title:  "Find meaning in your work: Define your personal vision"
 excerpt: "An exercise to help you to move closer to your best work, by making change that lasts."
 date:   2022-08-01 18:00:00 +0100
-image: twin-peaks-vision-quest.gif
+image: /assets/img/twin-peaks-vision-quest.gif
 ---
 
 Recently I've found myself having conversations with people who are looking at their careers, and wondering whether they should be finding their day job more meaningful. While it's perfectly possible to make a healthy living as a skilled practitioner who remains detached from the substance of their role, having a sense of purpose about your work can help to deliver that motivational kick to get you through your toughest projects. ("Purpose" is one of the three tenets of motivation, as outlined by Daniel Pink in his seminal book _Drive_.)

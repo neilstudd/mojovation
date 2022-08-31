@@ -3,7 +3,7 @@ layout: post
 title:  "What is your happy place?"
 excerpt: "The importance of having a place to go for some 'me time'."
 date:   2022-07-20 22:00:00 +0100
-image: friends-happy-place.gif
+image: /assets/img/friends-happy-place.gif
 ---
 
 The concept of a "happy place" certainly isn't unique to self-care. The phrase has long been associated with meditation (as, for example, a way to calm the mind during a restless night's sleep) as well as with gratitude journalling, where positive thought can (for some) act as a barrier against some of life's everyday struggles.

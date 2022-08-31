@@ -3,7 +3,7 @@ layout: post
 title:  "What is mojovation?"
 excerpt: "Let's talk dictionary definitions, dated references, and strange trademark claims."
 date:   2022-07-14 12:00:00 +0100
-image: thor-made-up-word.gif
+image: /assets/img/thor-made-up-word.gif
 ---
 
 As a bit of background, for my first post on the site, let's talk etymology!

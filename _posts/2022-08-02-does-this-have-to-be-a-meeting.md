@@ -3,7 +3,7 @@ layout: post
 title:  "Does this have to be a meeting?"
 excerpt: "Tips for when your team is struggling to make collaboration and productivity mix."
 date:   2022-08-02 21:00:00 +0100
-image: the-office-no-more-meetings.gif
+image: /assets/img/the-office-no-more-meetings.gif
 ---
 
 One common complaint that I hear from people about interruptions to their daily working routine is the frequency and length of the meetings which they're asked to attend. While there's definite value to real-time collaboration and a pooling of ideas, "meeting culture" can become a slippery slope, especially when remote working has made meetings a more impactful, draining experience.

@@ -3,7 +3,7 @@ layout: post
 title:  "Extreme motivation: the Whiplash effect"
 excerpt: "Pushing people to succeed... but where's the limit?"
 date:   2022-07-25 08:00:00 +0100
-image: whiplash-good-job.gif
+image: /assets/img/whiplash-good-job.gif
 ---
 
 In case anybody thinks that my motivation-focused posts are a new thing, I wanted to revisit part of a talk that I gave at a meetup in Brighton back in 2016 ([the slides are available online](https://www.slideshare.net/NeilStudd1/good-job-a-story-of-motivation-encouragement-and-dramatic-failures), although they're mostly lacking in context).

@@ -3,7 +3,7 @@ layout: post
 title:  "Putting it all together: my Mojovation Planner"
 excerpt: "Building myself a schedule which allows for achievements, rewards and rest."
 date:   2022-08-30 01:00:00 +0100
-image: breaking-bad-we-need-a-plan.gif
+image: /assets/img/breaking-bad-we-need-a-plan.gif
 ---
 
 In previous posts, we've looked at the theories behind the concept of a "work-life balance", and whether such a balance is possible, or even desirable. One thing is for certain though: at a certain point, as per this quote from Gary Keller's _The One Thing_, we're going to need to knuckle-down and focus on the things that actually matter, rather than trying to appease everybody simultaneously:

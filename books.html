@@ -9,7 +9,7 @@ title: Book Reviews
 <p>To learn about a title, click on its thumbnail or scroll down for the full list of books with descriptions.</p>
 
 {% for post in site.tags.books %}
-<a href="{{ post.url | relative_url }}" title="{{ post.title | escape}}"><img src="/assets/img/{{ post.cover }}" width="130" height="200"></a> 
+<a href="{{ post.url | relative_url }}" title="{{ post.title | escape}}"><img src="{{ post.cover }}" width="130" height="200"></a> 
 {% endfor %}
 <br/><br/>
 <h3>The complete list of books:</h3>
