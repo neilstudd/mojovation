@@ -14,7 +14,7 @@ Add `--drafts` to the above command
 
 ### Automatically publishing posts:
 
-If you include a future timestamp on a post, the post won't get created until that time has passed. Unfortunately that doesn't happen automatically (requires a rebuild of the site in order for the post to be generated). For that reason, there's a GitHub Action which does a daily deployment at 7am UTC; so if you create a blog post with a timestamp of "tomorrow at 1am", it will go live at 7am tomorrow when the action runs. 🪄
+If you include a future timestamp on a post, the post won't get created until that time has passed. Unfortunately that doesn't happen automatically (requires a rebuild of the site in order for the post to be generated). For that reason, there's a GitHub Action which does a daily deployment at 5am UTC; so if you create a blog post with a timestamp of "tomorrow at 1am", it will go live at 5am tomorrow when the action runs. 🪄
 
 ### Configuration options
 

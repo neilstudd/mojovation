@@ -2,7 +2,7 @@ name: Trigger daily deployment
 
 on:
   schedule:
-    - cron:  '0 7 * * *' # Runs every morning (7am in GMT, 8am BST)
+    - cron:  '0 5 * * *' # Runs every morning (5am in GMT, 6am BST)
 
 jobs:
   refresh:
