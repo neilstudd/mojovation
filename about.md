@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
-image: /assets/img/destinys-child-question.gif
+image: /assets/img/elf-who-the-heck-are-you.gif
 ---
 
 Lovely fresh About content coming here soon.
