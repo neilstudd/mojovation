@@ -41,7 +41,7 @@ When you think of it this way, you can't develop habits overnight, but you can b
 
 ### Living your VPB
 
-I'm only skimming the surface of how _Your Best Work_ explains the benefits of a VPB, as the book also contains a wealth of advice on how to convert your VPB into actionable goals and tasks. If the concepts that I've covered above are interesting, then I'd definitely recommend picking up a copy, or I'd be happy to work through the exercise with you during a coaching session. (Shameless plug: [drop me a line](/about#contact).) 
+I'm only skimming the surface of how _Your Best Work_ explains the benefits of a VPB, as the book also contains a wealth of advice on how to convert your VPB into actionable goals and tasks. If the concepts that I've covered above are interesting, then I'd definitely recommend picking up a copy, or I'd be happy to work through the exercise with you during a coaching session. (Shameless plug: [drop me a line](/contact).) 
 
 > **_Key takeaways_** 📝  
 > * Goals often fail to create lasting change, as they're subsequently replaced with other - different - goals.

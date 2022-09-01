@@ -13,8 +13,8 @@ We offer **agile coaching**, **career advice** and **project consultancy** servi
 
 > **_Let's start a conversation!_** 👇  
 > * [Read our frequently asked questions.]({% post_url 2022-07-13-mojovation-consulting-who-what-and-why %})
-> * [Learn more about the services we provide.](/about.md) 
-> * [Contact us for a free consultation.](/about.md#contact)
+> * [Learn more about the services we provide.](/packages) 
+> * [Contact us for a free consultation.](/contact)
 
 
 

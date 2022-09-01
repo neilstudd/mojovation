@@ -3,28 +3,44 @@
 
 @import "{{ site.theme }}";
 
-header {
-  padding: 10px;
-}
-
+/* Centralised links for Previous/Next Page in blog index */
 .pagination {
   text-align: center;
 }
 
+/* Centralised links for "Previous/Next Blog Post" */
 .PageNavigation {
   text-align: center;
 }
 
-@media print, screen and (max-width:580px) {
-    header ul {
-      display:block;
-    }
-  
-    header p.view {
-      display:block;
-    }
-  
-    header p {
-      width:100%;
-    }
-  }
+img.cover {
+  float: right;
+  padding-left: 10px;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+/* Minimal theme - change link colour, and remove bold-on-hover annoyance */
+a { color: #396; text-decoration: none; }
+a:hover, a:focus { color: #063; font-weight: inherit; }
+
+/* Minimal theme - increase body font size */
+body { font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif }
+
+/* Minimal theme - increase width of main section, except on mobile */
+.wrapper { width: 1060px; }
+section { width: 700px; }
+@media print, screen and (max-width: 960px) {
+  section { width: auto; }
+}
+
+/* Minimal theme - keep nice blockquote styling from the Modernist theme */
+blockquote { 
+  border-radius: 25px;
+  border: 2px solid #063;
+  padding: 20px;
+  margin:0 -20px 20px; 
+  padding: 15px 15px 1px 25px; 
+  background:rgba(0,0,0,0.06); 
+  color: #000;
+}

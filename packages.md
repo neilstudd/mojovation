@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Our Services
-permalink: /about/
+title: About Our Packages
+permalink: /packages/
 hide_contact_cta: true
 ---
 
@@ -45,11 +45,3 @@ Here are a few kind words from people who've spoken with us recently:
 * "I like the fact that Neil took some of the issues I was thinking about and provided very pointed and targeted reading."
 * "I like the shared suggestions & notes that Neil sends at the end of each session."
 * "It's brilliant that you had resources that were new to me."
-
-### <a name="contact"></a>Contact Us
-
-If you're interested in learning more about how we might work together, simply complete the form below and we'll aim to respond by the following working day.
-
-Alternatively, you can email us directly at <a href="mailto:hello@mojovation.co.uk">hello@mojovation.co.uk</a>
-
-{% include contact-form.html %}

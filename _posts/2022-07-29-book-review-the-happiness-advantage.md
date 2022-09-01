@@ -8,7 +8,7 @@ cover: /assets/img/book-the-happiness-advantage.jpg
 image: /assets/img/pharrell-williams-happy.gif
 ---
 
-<img src="/assets/img/book-the-happiness-advantage.jpg" align="right">**Every Friday, I'll be recommending a book which I've found personally meaningful on my own motivation journey.** And, honestly, there's only one book that I could begin with. I've plugged it on pretty much every podcast, article and presentation that I've ever given: Shawn Achor's book [_The Happiness Advantage_](https://www.shawnachor.com/books/happiness-advantage/) literally changed my life. I discovered it when I was at a low-point in my personal and professional life, and it made me realise that I'd been doing everything in my life back-to-front.
+<img src="/assets/img/book-the-happiness-advantage.jpg" class="cover">**Every Friday, I'll be recommending a book which I've found personally meaningful on my own motivation journey.** And, honestly, there's only one book that I could begin with. I've plugged it on pretty much every podcast, article and presentation that I've ever given: Shawn Achor's book [_The Happiness Advantage_](https://www.shawnachor.com/books/happiness-advantage/) literally changed my life. I discovered it when I was at a low-point in my personal and professional life, and it made me realise that I'd been doing everything in my life back-to-front.
 
 Shawn also gave my all-time favourite TED talk, embedded below, which is a good primer on the subject and one of the funniest, most revelatory ten minutes that you'll see on YouTube.
 

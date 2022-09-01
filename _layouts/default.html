@@ -1,44 +1,54 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta property="og:image" content="/assets/img/social_logo.png">
 
-{% seo %}
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta property="og:image" content="/assets/img/social_logo.png">
+  {% include head-custom.html %}
+</head>
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<body>
+  <div class="wrapper">
+    <header>
+      {% if site.logo %}
+        <a href="/"><img src="{{site.logo | relative_url}}" alt="{{site.title}} logo" /></a>
+      {% endif %}
 
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="wrapper">
-        <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-            <h1><a href="{{ site.url }}"><img src="/assets/img/logo-transparent.png" style="width:50%;"></a></h1>
-            <ul>
-              <li><a href="/about">Get in <strong>Contact</strong></a></li>
-            </ul>
-          </header>
-      <section>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-      {{ content }}
+      <ul class="downloads">
+        <li><a href="{% post_url 2022-07-13-mojovation-consulting-who-what-and-why %}">Read our <strong>FAQs</strong></a></li>
+        <li><a href="/packages">View our <strong>Packages</strong></a></li>
+        <li><a href="/contact">Get in <strong>Contact</strong></a></li>
+      </ul>
+    </header>
+    <section>
+    {{ content }}
 
-      {% unless page.hide_contact_cta %}
-        <div><strong>{{ site.contact_cta }}</strong></div>
-      {% endunless %}
-      </section>
-    </div>
+    {% unless page.hide_contact_cta %}
+      <div><strong>{{ site.contact_cta }}</strong></div>
+    {% endunless %}
+    </section>
     <footer>
-      <p>Site built and maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+      <p>Some more text, huzzah</p>
+      <p>Built and maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
 </html>
+
+
+

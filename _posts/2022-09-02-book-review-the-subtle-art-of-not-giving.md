@@ -8,7 +8,7 @@ image: /assets/img/the-wire-i-dont-give.gif
 cover: /assets/img/book-the-subtle-art.jpg
 ---
 
-<img src="/assets/img/book-the-subtle-art.jpg" align="right">Sometimes, the perfect book enters your life at just the right moment. That was the case for me with Mark Manson's _The Subtle Art Of Not Giving A F*ck_, a provocatively (but aptly) titled tome which I first read in early 2019. It was a time of great upheaval for me personally: an intense but short-lived relationship had just ended, and the messages conveyed within these 216 pages spurned me on to relocate to Manchester, where - almost without trying - I landed a new job, a new house, a wife and a child. Within a year.
+Sometimes, the perfect book enters your life at just the right moment. That was the case for me with Mark Manson's _The Subtle Art Of Not Giving A F*ck_, a provocatively (but aptly) titled tome which I first read in early 2019. It was a time of great upheaval for me personally: an intense but short-lived relationship had just ended, and the messages conveyed within these 216 pages spurned me on to relocate to Manchester, where - almost without trying - I landed a new job, a new house, a wife and a child. Within a year.
 
 While the book's title might seem nihilistic, it's not about "not giving a fuck". The "subtle art" that's outlined in the title is the art of "giving a fuck" about fewer, more important things, and not sweating the infinite other ways that life could have taken us.
 

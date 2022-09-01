@@ -12,6 +12,6 @@ hide_contact_cta: true
 
 In the meantime, here are the areas of this website that you'll probably find most useful 👇
 
-* **View our [service offering](/about)** - a list of the work we do.
-* **Complete our [contact form](/about#contact)** - let's discuss how we can help you.
+* **View our [service offering](/packages)** - a list of the work we do.
+* **Complete our [contact form](/contact)** - let's discuss how we can help you.
 * **Visit our [blog archive](/blog)** to see all our latest posts.

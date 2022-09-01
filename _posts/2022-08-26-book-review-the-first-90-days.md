@@ -8,7 +8,7 @@ cover: /assets/img/book-the-first-90-days.jpg
 image: /assets/img/sonic-welcome-to-the-team.gif
 ---
 
-<img src="/assets/img/book-the-first-90-days.jpg" align="right">While Michael D. Watkins' _The First 90 Days_ is primarily a leadership guide for managers joining an organisation (a book which falls into my "so good, I've bought it twice" category), it's full of useful advice for anybody who's onboarding with a new team, regardless of whether it's within a management role. It can be a difficult time for anybody, given that you want to make waves but without being seen to rock the boat (if you pardon the double-metaphor). 
+<img src="/assets/img/book-the-first-90-days.jpg" class="cover">While Michael D. Watkins' _The First 90 Days_ is primarily a leadership guide for managers joining an organisation (a book which falls into my "so good, I've bought it twice" category), it's full of useful advice for anybody who's onboarding with a new team, regardless of whether it's within a management role. It can be a difficult time for anybody, given that you want to make waves but without being seen to rock the boat (if you pardon the double-metaphor). 
 
 Your early actions within an organisation are disproportionately impactful, because they are symbolic: they are indicative of your working style, your strategy and what you will be like to work with. Yet with so much that you _could_ do to make an impact, how do you make sure that you take the best actions to ensure your ongoing success?
 
