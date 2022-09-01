@@ -45,3 +45,7 @@ Here are a few kind words from people who've spoken with us recently:
 * "I like the fact that Neil took some of the issues I was thinking about and provided very pointed and targeted reading."
 * "I like the shared suggestions & notes that Neil sends at the end of each session."
 * "It's brilliant that you had resources that were new to me."
+
+### What's the next step?
+
+If you'd like to speak to us about how we might work together, please complete our [contact form](/contact).
