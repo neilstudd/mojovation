@@ -18,13 +18,12 @@ We offer **agile coaching**, **career advice** and **project consultancy** servi
 
 
 
-### 👉 This week's [blog posts](/blog/):
+### 👉 Read our latest [blog posts](/blog/):
 
 <ul>
-{%- assign date_format = site.minima.date_format | default: "%e-%b" -%}
   {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ post.url }}">{{ post.date | date: date_format }}: <i>{{ post.title }}</i></a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
   <li>Read all {{ site.posts | size}} posts in our <a href="/blog/">blog archive</a></li>
