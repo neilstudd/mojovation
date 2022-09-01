@@ -2,17 +2,17 @@
 layout: default
 ---
 <article class="post">
-
+  <h1 class="post-title">{{ page.title | escape }}</h1>
   <p class="post-meta">
     {%- assign date_format = site.minima.date_format | default: "%-d %B %Y" -%}
     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-    <img src="/assets/img/avatar.jpg"  style="border-radius: 50%; height: 30px; vertical-align: middle; width: auto; padding-right: 4pt;"/> Published by <a href="https://neilstudd.com" target="_blank"/>Neil Studd</a>
+    <img src="/assets/img/avatar.jpg"  style="border-radius: 50%; height: 30px; vertical-align: middle; width: auto; padding-right: 4pt;"/> Published by <a href="/about">Neil Studd</a>
     {% if page.date %}
       on {{ page.date | date: date_format }}
     {% endif %}
     </time>
   </p>
-  <h1 class="post-title">{{ page.title | escape }}</h1>
+
   {% if page.image %}
   <p><img src="{{ page.image }}" alt="Animated header GIF"/></p>
   {% endif %}
