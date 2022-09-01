@@ -13,7 +13,7 @@ We offer **agile coaching**, **career advice** and **project consultancy** servi
 
 > **_Let's start a conversation!_** 👇  
 > * [Learn more about our organisation.](/about)
-> * [Learn more about the services we provide.](/packages) 
+> * [Learn more about the service packages we provide.](/services) 
 > * [Contact us for a free consultation.](/contact)
 
 ### 👉 Read our latest [blog posts](/blog/):
