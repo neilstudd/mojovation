@@ -11,7 +11,7 @@ If you'd prefer, you can follow our content by subscribing to <a href="/feed.xml
 <div class="archive">
 {% for post in paginator.posts %}
   <article class="article">
-    <img src="{{ post.image }}" class="thumb" />
+    <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ post.image }}" class="thumb" /></a>
     <div><strong><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></strong><br/>
     {{ post.excerpt }}<br/><br/>
     </div>
