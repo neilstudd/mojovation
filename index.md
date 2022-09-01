@@ -12,11 +12,9 @@ Here at **Mojovation Consulting**, we want to help agile software development te
 We offer **agile coaching**, **career advice** and **project consultancy** services to both individuals and organisations. Whether you're starting the first steps of your career, or you're a veteran who's stuck in a rut - we'd love to talk to you about how we can recapture that mojo together. 🚀
 
 > **_Let's start a conversation!_** 👇  
-> * [Read our frequently asked questions.](/faqs)
+> * [Learn more about our organisation.](/about)
 > * [Learn more about the services we provide.](/packages) 
 > * [Contact us for a free consultation.](/contact)
-
-
 
 ### 👉 Read our latest [blog posts](/blog/):
 
