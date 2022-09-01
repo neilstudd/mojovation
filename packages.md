@@ -5,7 +5,7 @@ permalink: /packages/
 hide_contact_cta: true
 ---
 
-Thanks for visiting our site! We have [an FAQs post]({% post_url 2022-07-13-mojovation-consulting-who-what-and-why %}) if you'd like a bit of further background about how we came to be, but if you've arrived on this page, we're assuming you want to get straight to the juicy stuff.
+Thanks for visiting our site! We have [an FAQs page](/faqs) if you'd like a bit of further background about how we came to be, but if you've arrived on this page, we're assuming you want to get straight to the juicy stuff.
 
 ### Service Offering
 
