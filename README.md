@@ -1,8 +1,6 @@
 ### Notes to self
 
-Config currently coded to the [Modernist](https://github.com/pages-themes/modernist) theme, with specific layout/assets overrides to support customisations of that theme.
-
-If considering changing to another theme: for all that is holy, test it locally / on a branch before setting it all on fire...
+Config currently coded to the [Minimal](https://github.com/pages-themes/minimal) theme, with additional CSS tweaks which are annotated in `style.scss`.
 
 ### To run locally:
 
@@ -14,7 +12,7 @@ Add `--drafts` to the above command
 
 ### Automatically publishing posts:
 
-If you include a future timestamp on a post, the post won't get created until that time has passed. Unfortunately that doesn't happen automatically (requires a rebuild of the site in order for the post to be generated). For that reason, there's a GitHub Action which does a daily deployment at 5am UTC; so if you create a blog post with a timestamp of "tomorrow at 1am", it will go live at 5am tomorrow when the action runs. 🪄
+If you include a future timestamp on a post, the post won't get created until that time has passed. Unfortunately that doesn't happen automatically (requires a rebuild of the site in order for the post to be generated). For that reason, there's a GitHub Action which does a daily deployment at 5am UTC; so if you create a blog post with a timestamp of "tomorrow at 1am", it will go live at 5am tomorrow when the action runs. 🪄 
 
 ### Configuration options
 

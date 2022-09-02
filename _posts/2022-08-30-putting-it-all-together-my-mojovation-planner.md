@@ -16,7 +16,7 @@ This was the position that I found myself in when I recently decided to take a c
 
 Being me, I decided to combine different pieces of advice that I'd read recently, from books which are all featured in the [Book Reviews](/books) section of this site. From _The One Thing_, I decided to define a high-level goal for the week ahead. From _Make Time_, I set a "Daily Highlight" - my most important activity for that day - for each day of the week. And from Rebecca Seal's _Solo_, I split my mornings, afternoon and evenings into "time blocks", with a colour-coded high-level idea of what I wanted to do with that time.
 
-I named it the Mojovation Planner - it was actually the first time that I'd used the word "mojovation" (we have [an FAQs post]({% post_url 2022-07-13-mojovation-consulting-who-what-and-why %}) if you want to find more about how this site came to be). It evolved as the weeks progressed, but here's an extract of a week in early July (click the image to enlarge it):
+I named it the Mojovation Planner - it was actually the first time that I'd used the word "mojovation" (we have [an About Us page](/about) if you want to find more about how this site came to be). It evolved as the weeks progressed, but here's an extract of a week in early July (click the image to enlarge it):
 
 [![A sample of my Mojovation Planner](/assets/img/mojovation-planner-example.png)](/assets/img/mojovation-planner-example.png)
 

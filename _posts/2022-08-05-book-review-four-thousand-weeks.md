@@ -8,7 +8,7 @@ cover: /assets/img/book-four-thousand-weeks.jpg
 image: /assets/img/picard-running-out-of-time.gif
 ---
 
-<img src="/assets/img/book-four-thousand-weeks.jpg" align="right">Oliver Burkeman's _Four Thousand Weeks_ is a title that I've already referenced several times in my posts, as it's caused a transformative shift in my thinking during the past couple of months. Its central premise - that even if we're fortunate to live til we're 80, that only amounts to 4,000 weeks on the planet - initially seems to be nihilistic or demotivating, but the book delivers powerful messages about focusing on the right things, and learning to disregard those that are out of your control.
+<img src="/assets/img/book-four-thousand-weeks.jpg" class="cover">Oliver Burkeman's _Four Thousand Weeks_ is a title that I've already referenced several times in my posts, as it's caused a transformative shift in my thinking during the past couple of months. Its central premise - that even if we're fortunate to live til we're 80, that only amounts to 4,000 weeks on the planet - initially seems to be nihilistic or demotivating, but the book delivers powerful messages about focusing on the right things, and learning to disregard those that are out of your control.
 
 ### You'll never do _everything_
 

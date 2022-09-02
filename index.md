@@ -11,23 +11,24 @@ Here at **Mojovation Consulting**, we want to help agile software development te
 
 We offer **agile coaching**, **career advice** and **project consultancy** services to both individuals and organisations. Whether you're starting the first steps of your career, or you're a veteran who's stuck in a rut - we'd love to talk to you about how we can recapture that mojo together. 🚀
 
-> **_Let's start a conversation!_** 👇  
-> * [Read our frequently asked questions.]({% post_url 2022-07-13-mojovation-consulting-who-what-and-why %})
-> * [Learn more about the services we provide.](/about.md) 
-> * [Contact us for a free consultation.](/about.md#contact)
+> ### Let's start a conversation!  
+> * [Learn more about our organisation.](/about)
+> * [Learn more about the service packages we provide.](/services) 
+> * [Contact us for a free consultation.](/contact)
 
+## Latest blog posts
 
-
-### 👉 This week's [blog posts](/blog/):
-
-<ul>
-{%- assign date_format = site.minima.date_format | default: "%e-%b" -%}
-  {% for post in site.posts limit:5 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.date | date: date_format }}: <i>{{ post.title }}</i></a>
-    </li>
-  {% endfor %}
-  <li>Read all {{ site.posts | size}} posts in our <a href="/blog/">blog archive</a></li>
-  <li>Check out our {{ site.tags.books | size}} <a href="/books/">book reviews</a></li>
-  <li>Subscribe to our <a href="feed.xml">RSS feed</a></li>
-</ul>
+<div class="archive">
+{% for post in site.posts limit:6 %}
+  <article class="article">
+    <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ post.image }}" class="thumb" /></a>
+    <div><strong><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></strong><br/>
+    {{ post.excerpt }}<br/><br/>
+    </div>
+  </article>
+  {%- endfor -%}
+</div>
+<div class="pagination">
+    <p><strong><a href="/blog">View all blog posts</a></strong><br/>
+    <strong><a href="feed.xml">Subscribe to our RSS feed</a></strong></p>
+</div>

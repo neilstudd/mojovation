@@ -8,7 +8,7 @@ cover: /assets/img/book-make-time.jpg
 image: /assets/img/unbreakable-kimmy-schmidt-scrolling.gif
 ---
 
-<img src="/assets/img/book-make-time.jpg" align="right">We're all swimming in a world which is prone to providing us with two competing problems which affect our ability to get things done: busyness and distractions. We see busyness in all of our attempts to create to-do lists, reminders and project plans: as soon as we tick-off an item, three more take its place. Distractions come in many forms, the most dangerous being the so-called "Infinity Pools" which are offered by most modern social media apps and news websites. You think you're done? Keep scrolling and there's more.
+<img src="/assets/img/book-make-time.jpg" class="cover">We're all swimming in a world which is prone to providing us with two competing problems which affect our ability to get things done: busyness and distractions. We see busyness in all of our attempts to create to-do lists, reminders and project plans: as soon as we tick-off an item, three more take its place. Distractions come in many forms, the most dangerous being the so-called "Infinity Pools" which are offered by most modern social media apps and news websites. You think you're done? Keep scrolling and there's more.
 
 The book we reviewed last week, [Four Thousand Weeks]({% post_url 2022-08-05-book-review-four-thousand-weeks %}), was a wake-up call to the fragilty of life and the desire to focus on what really matters to us. _Make Time_ helps us to work out what matters, and then offers almost a hundred ideas about how to carve out the time to make sure it happens.
 

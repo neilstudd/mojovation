@@ -8,13 +8,16 @@ layout: default
 If you'd prefer, you can follow our content by subscribing to <a href="/feed.xml">our RSS feed</a> in a relevant reader.</h1></p>
 
 <!-- This loops through the paginated posts -->
-{%- assign date_format = site.minima.date_format | default: "%A %e %B %Y" -%}
+<div class="archive">
 {% for post in paginator.posts %}
-  <div>{{ post.date | date: date_format }}<br/>
-  <strong><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></strong><br/>
-  {{ post.excerpt }}<br/><br/>
-  </div>
+  <article class="article">
+    <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ post.image }}" class="thumb" /></a>
+    <div><strong><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></strong><br/>
+    {{ post.excerpt }}<br/><br/>
+    </div>
+  </article>
   {%- endfor -%}
+</div>
 
 <!-- Pagination links -->
 <div class="pagination">

@@ -21,12 +21,13 @@
 title: Mojovation Consulting
 email: neil@mojovation.co.uk
 author: Neil Studd
-description: Helping agile teams to succeed, grow and flourish.
+description: Helping you to succeed, grow and flourish within an agile world. 🌍
 baseurl: "" # the subpath of your site, e.g. /blog
+logo: /assets/img/logo-transparent.png
 url: "https://mojovation.co.uk"
 contact_cta: >- 
   ✉️ To learn more about how Mojovation Consulting can help you and your team to flourish, 
-  read our <a href="/about">services page</a> or complete our <a href="/about#contact">contact form</a>.
+  read about <a href="/services">our service packages</a> or complete <a href="/contact">our contact form</a>.
 twitter_username: neilstudd
 github_username:  neilstudd
 
@@ -38,7 +39,7 @@ feed:
   posts_limit: 20
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-sitemap
