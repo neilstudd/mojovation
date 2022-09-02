@@ -17,7 +17,7 @@ At Mojovation Consulting, we want to help individuals and organisations to excel
 
 > "My advice has no basis more reliable than my own meandering experience." - Baz Luhrmann
 
-In almost 20 years of working with agile teams, Neil Studd has worn many hats. He specialises in quality practices, agile coaching and management. Throughout this time, he has practised an empathetic and humanist approach to building and leading teams, and working with senior managers to ensure that the needs of individuals are being met. He is a qualified Mental Health First Aider, and a budding author (who's hoping to convert much of the material on these pages into a published book by 2023).
+In almost 20 years of working with agile teams, Neil Studd has worn many hats. He specialises in quality practices, agile coaching and management. Throughout this time, he has practised an empathetic and humanist approach to building and leading teams, and working with senior managers to ensure that the needs of individuals are being met. He is a Certified Scrum Master, a qualified Mental Health First Aider, and a budding author (who's hoping to convert much of the material on these pages into a published book by 2023).
 
 Before discovering a joy for testing, Neil was a journalism graduate, and he still displays this passion through a variety of media enterprises. Since 2017, he's hosted the [Testers' Island Discs podcast](https://www.testersislanddiscs.com), a monthly show where he interviews personalities from the testing industry about their careers, specialisms and musical tastes. He also co-hosts the [Tech Team Weekly](https://www.techteamweekly.com) show on YouTube, discussing the latest in UK technology news and how it affects our working lives.
 
@@ -33,11 +33,11 @@ Neil is a keen Peloton enthusiast, curator of Spotify playlists, and environment
 
 Maybe you're somebody who's trying to advance their career, or recapture the passion that made them set out on their career in the first place. Maybe you're a manager, team leader or executive who's trying to help their squads to find their identity. There are a variety of ways in which we can work with you to help with this: 
 
-* Development strategy, including agile process improvement 
+* Development strategy, including agile and scrum process improvement 
 * Career development roadmapping and mentoring (for individuals and teams)
 * Advice for your job search, including building the perfect CV 
 * Confidential discussions around mental health (Neil is MHFA certified)
-* Or let's just have a cuppa and talk through your workplace challenges!
+* _Or let's just have a cuppa and talk through your workplace challenges!_ 🍵
 
 You can find more specifics about our packages by visiting our [Services page](/services).
 
