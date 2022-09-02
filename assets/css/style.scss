@@ -9,12 +9,25 @@
 /* Centralised links for "Previous/Next Blog Post" */
 .PageNavigation { text-align: center; }
 
+/* Consistent formatting of book covers within blog posts */
 img.cover {
   float: right;
   padding-left: 10px;
   max-width: 300px;
   max-height: 300px;
 }
+
+/* Grid view for blog archive */
+.archive { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); grid-gap: 1em; }
+
+/* Fixed-height thumbnails for blog archive */
+img.thumb { height: 250px; object-fit: cover; border-radius: 15px; border: 2px solid #063;}
+
+/* Prevent embedded iframes (such as YouTube) from spilling beyond the page */
+iframe { width: 100%; }
+
+/* Highlights within blog posts */
+.highlight { background-color: #396; color: #000; font-weight: bold; border: 2px solid #063; }
 
 /* Minimal theme - change link colour, and remove bold-on-hover annoyance */
 a { color: #396; text-decoration: none; }
@@ -24,7 +37,7 @@ a:hover, a:focus { color: #063; font-weight: inherit; }
 body { font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif }
 
 /* Minimal theme - allow wider main section on desktop */
-@media print, screen and (min-width:1200px) and (max-width: 9999px) {
+@media print, screen and (min-width:1200px) {
   section { width: 700px; }
   .wrapper { width: 1060px; }
 }
@@ -39,9 +52,3 @@ blockquote {
   background:rgba(0,0,0,0.06); 
   color: #000;
 }
-
-/* Grid view for blog archive */
-.archive { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); grid-gap: 1em; }
-
-/* Fixed-height thumbnails for blog archive */
-img.thumb { height: 250px; object-fit: cover; border-radius: 15px; border: 2px solid #063;}

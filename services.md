@@ -7,7 +7,7 @@ hide_contact_cta: true
 
 Thanks for visiting our site! You can visit the [About Us page](/about) if you'd like a bit of further background about how we came to be, but if you've arrived on this page, we're assuming you want to get straight to the juicy stuff.
 
-### TODO: Mention Packages!!
+### TODO: Mention Packages!! in nice rounded boxes
 
 ### Service Offering
 

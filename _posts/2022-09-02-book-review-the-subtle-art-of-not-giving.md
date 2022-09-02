@@ -10,7 +10,7 @@ cover: /assets/img/book-the-subtle-art.jpg
 
 <img src="/assets/img/book-the-subtle-art.jpg" class="cover">Sometimes, the perfect book enters your life at just the right moment. That was the case for me with Mark Manson's _The Subtle Art Of Not Giving A F*ck_, a provocatively (but aptly) titled tome which I first read in early 2019. It was a time of great upheaval for me personally: an intense but short-lived relationship had just ended, and the messages conveyed within these 216 pages spurned me on to relocate to Manchester, where - almost without trying - I landed a new job, a new house, a wife and a child. Within a year.
 
-While the book's title might seem nihilistic, it's not about "not giving a fuck". The "subtle art" that's outlined in the title is the art of "giving a fuck" about fewer, more important things, and not sweating the infinite other ways that life could have taken us.
+While the book's title might seem nihilistic, it's not about "not giving a fuck". The "subtle art" that's outlined in the title is <span class="highlight">the art of "giving a fuck" about fewer, more important things</span>, and not sweating the infinite other ways that life could have taken us.
 
 ### Breaking the "Feedback Loop from Hell"
 
@@ -29,7 +29,7 @@ Our minds are often risk-averse. It's part of our survival mechanism. (Want to w
 
 > I asked myself a simple question: "Would I rather make decent money and work a job I hated, or play at Internet entrepreneur and be broke for a while?" The answer was immediate and clear for me: the latter. I then asked myself, "If I try this thing and fail in a few years and have to go get a job anyway, will I have really lost anything?" The answer was no. Instead of a broke and unemployed twenty-two-year-old with no experience, I'd be a broke and unemployed twenty-five-year-old with no experience. Who cares?
 
-Improvement comes by learning from thousands of tiny failures, the sort of which we're being conditioned to avoid by only seeing the "perfect selves" that people portray on television or social media. Pain is a part of the process, and we often go out of our way to avoid it, when in reality the best approach is "just shut up and get on with it". Manson shares a piece of advice from his high school math teacher, Mr Packwood: **Don't just sit there. _Do_ something. The answers will follow.**
+Improvement comes by learning from thousands of tiny failures, the sort of which we're being conditioned to avoid by only seeing the "perfect selves" that people portray on television or social media. Pain is a part of the process, and we often go out of our way to avoid it, when in reality the best approach is "just shut up and get on with it". Manson shares a piece of advice from his high school math teacher, Mr Packwood: <span class="highlight">Don't just sit there. _Do_ something. The answers will follow.</span>
 
 ### Getting more done by saying no
 
