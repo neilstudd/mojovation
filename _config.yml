@@ -38,12 +38,19 @@ paginate_path: "/blog/page:num/"
 feed:
   posts_limit: 20
 
+jekyll_get_json:
+  - data: ecologi
+    json: 'https://public.ecologi.com/users/neilstudd/impact'
+  - data: peloton
+    json: 'https://www.neilstudd.com/pelosummary.php'
+
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-get-json
 
 # Exclude from processing.
 # The following items will not be processed, by default.
