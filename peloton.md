@@ -7,7 +7,7 @@ hide_contact_cta: true
 image: /assets/img/peloton-cody.gif
 ---
 
-Neil has taken a total of **{{ site.data.peloton.workoutTotals.Overall }}** Peloton classes, including {{ site.data.peloton.workoutTotals.Cycling }} cycle rides and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
+Neil has taken a total of **{{ site.data.peloton.workoutTotals.Overall }}** Peloton classes, including {{ site.data.peloton.workoutTotals.Cycling }} cycle rides (covering {% include peloton-mileage-formatted.html %} miles) and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
 
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
 <img src="{{ site.data.peloton.latestRide.Photo }}"  style="float: left; border-radius: 50%; padding-right: 10pt;"/>
@@ -20,9 +20,15 @@ Neil has taken a total of **{{ site.data.peloton.workoutTotals.Overall }}** Pelo
 <br/>
 ## Top 10 Cycling Instructors
 {% for instructor in site.data.peloton.totalsByInstructorAndDiscipline.Cycling limit: 10 %}
-<strong>{{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
+<strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
 {% endfor %}
+<br/>
 
+## Top 5 Meditation Instructors
+{% for instructor in site.data.peloton.totalsByInstructorAndDiscipline.Meditation limit: 5 %}
+<strong>{{ forloop.index }}: {{ instructor[0] }}</strong> ({{ instructor[1]}} classes)<br/>
+{% endfor %}
+<br/>
 ## Personal Bests by Class Length
 
 {% for distance in site.data.peloton.PBs %}
