@@ -1,1 +1,233 @@
-{"latestRide":{"Timestamp":"2022-09-04 22:48 (+01)","Instructor":"Ross Rayburn","Ride Name":"15 min Sleep Meditation","Total Output":"","Live Ride":false},"workoutTotals":{"Overall":938,"Cycling":704,"Meditation":175,"Walking":22,"Stretching":13,"Cardio":13,"Running":5,"Strength":4,"Yoga":2},"totalsByInstructor":{"Sam Yo":221,"Ross Rayburn":81,"Ben Alldis":56,"Leanne Hainsby":50,"Bradley Rose":46,"Matt Wilpers":45,"Kristin McGee":40,"Denis Morton":35,"Robin Arzon":33,"Christine D'Ercole":30,"Cody Rigsby":30,"Hannah Corbin":24,"Emma Lovewell":23,"Tunde Oyeneyin":20,"Jenn Sherman":20,"Ally Love":19,"Aditi Shah":19,"Anna Greenberg":17,"Olivia Amato":15,"Jess King":14,"Kendall Toole":14,"Alex Toussaint":12,"Selena Samuela":8,"Kirra Michel":7,"Chelsea Jackson Roberts":6,"Hannah Frankson":5,"Rebecca Kennedy":4,"Rad Lopez":3,"Andy Speer":3,"Jon Hosking":3,"Jess Sims":2,"Cliff Dwenger":2,"Matty Maggiacomo":2,"Becs Gentry":2,"Joslyn Thompson Rule":2,"Nico Sarani":1,"Mariana Fernandez":1,"Adrian Williams":1,"Camila Ramon":1,"Multiple Instructors ":1,"Callie Gullickson":1,"Adrian & Tunde ":1,"Chase Tucker":1,"Alex & Tunde  ":1,"Erik Jager":1,"Irene Scholz":1,"Jess & Robin ":1},"totalsByInstructorAndDiscipline":{"Cycling":{"Sam Yo":213,"Ben Alldis":54,"Leanne Hainsby":50,"Bradley Rose":46,"Matt Wilpers":45,"Denis Morton":32,"Christine D'Ercole":30,"Robin Arzon":29,"Cody Rigsby":26,"Hannah Corbin":24,"Emma Lovewell":22,"Jenn Sherman":19,"Tunde Oyeneyin":19,"Ally Love":19,"Jess King":14,"Olivia Amato":14,"Alex Toussaint":12,"Kendall Toole":8,"Hannah Frankson":5,"Cliff Dwenger":2,"Irene Scholz":1,"Erik Jager":1,"Alex & Tunde  ":1,"Camila Ramon":1,"Jon Hosking":1,"Mariana Fernandez":1,"Jess Sims":1,"Jess & Robin ":1},"Stretching":{"Sam Yo":6,"Selena Samuela":3,"Ben Alldis":2,"Jenn Sherman":1,"Denis Morton":1},"Walking":{"Selena Samuela":3,"Andy Speer":3,"Rebecca Kennedy":3,"Robin Arzon":3,"Jon Hosking":2,"Chase Tucker":1,"Adrian & Tunde ":1,"Joslyn Thompson Rule":1,"Matty Maggiacomo":1,"Becs Gentry":1,"Jess Sims":1,"Olivia Amato":1,"Adrian Williams":1},"Strength":{"Sam Yo":2,"Tunde Oyeneyin":1,"Emma Lovewell":1},"Yoga":{"Denis Morton":1,"Anna Greenberg":1},"Meditation":{"Ross Rayburn":81,"Kristin McGee":40,"Aditi Shah":19,"Anna Greenberg":16,"Kirra Michel":7,"Chelsea Jackson Roberts":6,"Cody Rigsby":4,"Nico Sarani":1,"Denis Morton":1},"Cardio":{"Kendall Toole":6,"Rad Lopez":3,"Selena Samuela":2,"Multiple Instructors ":1,"Callie Gullickson":1},"Running":{"Becs Gentry":1,"Rebecca Kennedy":1,"Matty Maggiacomo":1,"Joslyn Thompson Rule":1,"Robin Arzon":1}},"PBs":{"30":{"Timestamp":"2022-08-21 12:00 (+01)","Instructor":"Sam Yo","Ride Name":"30 min AFO Ride: Muse","Total Output":"567","Live Ride":true},"20":{"Timestamp":"2022-03-20 09:27 (UTC)","Instructor":"Bradley Rose","Ride Name":"20 min Pop Ride","Total Output":"378","Live Ride":false},"45":{"Timestamp":"2022-06-28 09:16 (+01)","Instructor":"Sam Yo","Ride Name":"45 min 80s Ride","Total Output":"745","Live Ride":false},"15":{"Timestamp":"2022-08-31 10:56 (+01)","Instructor":"Hannah Corbin","Ride Name":"15 min Dance Music Ride","Total Output":"293","Live Ride":false},"10":{"Timestamp":"2022-08-31 17:00 (+01)","Instructor":"Bradley Rose","Ride Name":"10 min Climb Ride","Total Output":"212","Live Ride":false},"60":{"Timestamp":"2022-08-05 11:34 (+01)","Instructor":"","Ride Name":"60 min Scotland Ardverikie Estate Ride","Total Output":"865","Live Ride":false},"5":{"Timestamp":"2022-08-11 16:24 (+01)","Instructor":"Jess King","Ride Name":"5 min Warm Up Ride","Total Output":"112","Live Ride":false},"75":{"Timestamp":"2022-03-24 13:35 (UTC)","Instructor":"Matt Wilpers","Ride Name":"75 min Power Zone Endurance Ride","Total Output":"1024","Live Ride":false},"90":{"Timestamp":"2022-07-29 15:05 (+01)","Instructor":"Matt Wilpers","Ride Name":"90 min Power Zone Endurance Ride","Total Output":"1255","Live Ride":false}},"totalDistanceCycled":"4281.99"}
+{
+    "latestRide": {
+        "Timestamp": "2022-09-05 12:58 (+01)",
+        "Instructor": "Bradley Rose",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
+        "Ride Name": "20 min 2000s Rock Ride",
+        "Total Output": "264",
+        "Live Ride": false
+    },
+    "workoutTotals": {
+        "Overall": 940,
+        "Cycling": 706,
+        "Meditation": 175,
+        "Walking": 22,
+        "Stretching": 13,
+        "Cardio": 13,
+        "Running": 5,
+        "Strength": 4,
+        "Yoga": 2
+    },
+    "totalsByInstructor": {
+        "Sam Yo": 221,
+        "Ross Rayburn": 81,
+        "Ben Alldis": 57,
+        "Leanne Hainsby": 50,
+        "Bradley Rose": 47,
+        "Matt Wilpers": 45,
+        "Kristin McGee": 40,
+        "Denis Morton": 35,
+        "Robin Arzon": 33,
+        "Christine D'Ercole": 30,
+        "Cody Rigsby": 30,
+        "Hannah Corbin": 24,
+        "Emma Lovewell": 23,
+        "Tunde Oyeneyin": 20,
+        "Jenn Sherman": 20,
+        "Ally Love": 19,
+        "Aditi Shah": 19,
+        "Anna Greenberg": 17,
+        "Olivia Amato": 15,
+        "Jess King": 14,
+        "Kendall Toole": 14,
+        "Alex Toussaint": 12,
+        "Selena Samuela": 8,
+        "Kirra Michel": 7,
+        "Chelsea Jackson Roberts": 6,
+        "Hannah Frankson": 5,
+        "Rebecca Kennedy": 4,
+        "Rad Lopez": 3,
+        "Andy Speer": 3,
+        "Jon Hosking": 3,
+        "Jess Sims": 2,
+        "Cliff Dwenger": 2,
+        "Matty Maggiacomo": 2,
+        "Becs Gentry": 2,
+        "Joslyn Thompson Rule": 2,
+        "Nico Sarani": 1,
+        "Mariana Fernandez": 1,
+        "Adrian Williams": 1,
+        "Camila Ramon": 1,
+        "Multiple Instructors ": 1,
+        "Callie Gullickson": 1,
+        "Adrian & Tunde ": 1,
+        "Chase Tucker": 1,
+        "Alex & Tunde  ": 1,
+        "Erik Jager": 1,
+        "Irene Scholz": 1,
+        "Jess & Robin ": 1
+    },
+    "totalsByInstructorAndDiscipline": {
+        "Cycling": {
+            "Sam Yo": 213,
+            "Ben Alldis": 55,
+            "Leanne Hainsby": 50,
+            "Bradley Rose": 47,
+            "Matt Wilpers": 45,
+            "Denis Morton": 32,
+            "Christine D'Ercole": 30,
+            "Robin Arzon": 29,
+            "Cody Rigsby": 26,
+            "Hannah Corbin": 24,
+            "Emma Lovewell": 22,
+            "Jenn Sherman": 19,
+            "Tunde Oyeneyin": 19,
+            "Ally Love": 19,
+            "Jess King": 14,
+            "Olivia Amato": 14,
+            "Alex Toussaint": 12,
+            "Kendall Toole": 8,
+            "Hannah Frankson": 5,
+            "Cliff Dwenger": 2,
+            "Irene Scholz": 1,
+            "Erik Jager": 1,
+            "Alex & Tunde  ": 1,
+            "Camila Ramon": 1,
+            "Jon Hosking": 1,
+            "Mariana Fernandez": 1,
+            "Jess Sims": 1,
+            "Jess & Robin ": 1
+        },
+        "Stretching": {
+            "Sam Yo": 6,
+            "Selena Samuela": 3,
+            "Ben Alldis": 2,
+            "Jenn Sherman": 1,
+            "Denis Morton": 1
+        },
+        "Walking": {
+            "Selena Samuela": 3,
+            "Andy Speer": 3,
+            "Rebecca Kennedy": 3,
+            "Robin Arzon": 3,
+            "Jon Hosking": 2,
+            "Chase Tucker": 1,
+            "Adrian & Tunde ": 1,
+            "Joslyn Thompson Rule": 1,
+            "Matty Maggiacomo": 1,
+            "Becs Gentry": 1,
+            "Jess Sims": 1,
+            "Olivia Amato": 1,
+            "Adrian Williams": 1
+        },
+        "Strength": {
+            "Sam Yo": 2,
+            "Tunde Oyeneyin": 1,
+            "Emma Lovewell": 1
+        },
+        "Yoga": {
+            "Denis Morton": 1,
+            "Anna Greenberg": 1
+        },
+        "Meditation": {
+            "Ross Rayburn": 81,
+            "Kristin McGee": 40,
+            "Aditi Shah": 19,
+            "Anna Greenberg": 16,
+            "Kirra Michel": 7,
+            "Chelsea Jackson Roberts": 6,
+            "Cody Rigsby": 4,
+            "Nico Sarani": 1,
+            "Denis Morton": 1
+        },
+        "Cardio": {
+            "Kendall Toole": 6,
+            "Rad Lopez": 3,
+            "Selena Samuela": 2,
+            "Multiple Instructors ": 1,
+            "Callie Gullickson": 1
+        },
+        "Running": {
+            "Becs Gentry": 1,
+            "Rebecca Kennedy": 1,
+            "Matty Maggiacomo": 1,
+            "Joslyn Thompson Rule": 1,
+            "Robin Arzon": 1
+        }
+    },
+    "PBs": {
+        "5min": {
+            "Timestamp": "2022-08-11 16:24 (+01)",
+            "Instructor": "Jess King",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/f94160a5f6e14445840c8f60b5f86ae8",
+            "Ride Name": "5 min Warm Up Ride",
+            "Total Output": "112",
+            "Live Ride": false
+        },
+        "10min": {
+            "Timestamp": "2022-08-31 17:00 (+01)",
+            "Instructor": "Bradley Rose",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
+            "Ride Name": "10 min Climb Ride",
+            "Total Output": "212",
+            "Live Ride": false
+        },
+        "15min": {
+            "Timestamp": "2022-08-31 10:56 (+01)",
+            "Instructor": "Hannah Corbin",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/89edbd70efa446999ae4c48ef8717aed",
+            "Ride Name": "15 min Dance Music Ride",
+            "Total Output": "293",
+            "Live Ride": false
+        },
+        "20min": {
+            "Timestamp": "2022-03-20 09:27 (UTC)",
+            "Instructor": "Bradley Rose",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
+            "Ride Name": "20 min Pop Ride",
+            "Total Output": "378",
+            "Live Ride": false
+        },
+        "30min": {
+            "Timestamp": "2022-08-21 12:00 (+01)",
+            "Instructor": "Sam Yo",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
+            "Ride Name": "30 min AFO Ride: Muse",
+            "Total Output": "567",
+            "Live Ride": true
+        },
+        "45min": {
+            "Timestamp": "2022-06-28 09:16 (+01)",
+            "Instructor": "Sam Yo",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
+            "Ride Name": "45 min 80s Ride",
+            "Total Output": "745",
+            "Live Ride": false
+        },
+        "60min": {
+            "Timestamp": "2022-08-05 11:34 (+01)",
+            "Instructor": "N\/A",
+            "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
+            "Ride Name": "60 min Scotland Ardverikie Estate Ride",
+            "Total Output": "865",
+            "Live Ride": false
+        },
+        "75min": {
+            "Timestamp": "2022-03-24 13:35 (UTC)",
+            "Instructor": "Matt Wilpers",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1828d7105e1f4f44b8a95fe316405357",
+            "Ride Name": "75 min Power Zone Endurance Ride",
+            "Total Output": "1024",
+            "Live Ride": false
+        },
+        "90min": {
+            "Timestamp": "2022-07-29 15:05 (+01)",
+            "Instructor": "Matt Wilpers",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/1828d7105e1f4f44b8a95fe316405357",
+            "Ride Name": "90 min Power Zone Endurance Ride",
+            "Total Output": "1255",
+            "Live Ride": false
+        }
+    },
+    "totalDistanceCycled": "4291.05"
+}
