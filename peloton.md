@@ -13,10 +13,13 @@ Neil has taken a total of **{{ site.data.peloton.workoutTotals.Overall }}** Pelo
 <img src="{{ site.data.peloton.latestRide.Photo }}"  style="float: left; border-radius: 50%; padding-right: 10pt;"/>
 <h2>Latest Ride</h2>
 {% assign avgPerMin = site.data.peloton.latestRide['Total Output'] | plus: 0.0 | divided_by: site.data.peloton.latestRide.Length | round: 1 %}
-<p><strong>Date/Time:</strong> {{ site.data.peloton.latestRide.Timestamp | date: "%-d %B %Y %H:%M" }}<br/>
-<strong>Instructor:</strong> {{ site.data.peloton.latestRide.Instructor }}<br/>
-<strong>Ride Name:</strong> {{ site.data.peloton.latestRide['Ride Name'] }}<br/>
-<strong>Total Output:</strong> {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin }}kJ/min)</p>
+<p><strong>{{ site.data.peloton.latestRide['Ride Name'] }} with {{ site.data.peloton.latestRide.Instructor }}</strong>
+{% if site.data.peloton.latestRide['Live Ride'] %}
+<span class="highlight">LIVE</span>
+{% endif %}
+<br/>
+{{ site.data.peloton.latestRide.Timestamp | date: "%-d %B %Y at %H:%M" }}<br/>
+Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin }}kJ/min)</p>
 </div>
 <br/>
 ## Top 10 Cycling Instructors
@@ -37,9 +40,12 @@ Neil has taken a total of **{{ site.data.peloton.workoutTotals.Overall }}** Pelo
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
 <img src="{{ distance[1].Photo }}"  style="float: left; border-radius: 50%; padding-right: 10pt"/>
 <h2>{{ distance[0] }}min PB:</h2>
-<p><strong>Date/Time:</strong> {{ distance[1].Timestamp | date: "%-d %B %Y %H:%M" }}<br/>
-<strong>Instructor:</strong> {{ distance[1].Instructor }}<br/>
-<strong>Ride Name:</strong> {{ distance[1]['Ride Name'] }}<br/>
-<strong>Total Output:</strong> {{ distance[1]['Total Output'] }}kJ ({{ avgPerMin }}kJ/min)</p>
+<p><strong>{{ distance[1]['Ride Name'] }} with {{ distance[1].Instructor }}</strong>
+{% if distance[1]['Live Ride'] %}
+<span class="highlight">LIVE</span>
+{% endif %}
+<br/>
+{{ distance[1].Timestamp | date: "%-d %B %Y at %H:%M" }}<br/>
+Total Output: {{ distance[1]['Total Output'] }}kJ ({{ avgPerMin }}kJ/min)</p>
 </div><br/>
 {% endfor %}
