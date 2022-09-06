@@ -17,6 +17,9 @@ Neil has taken a total of **{{ site.data.peloton.workoutTotals.Overall }}** Pelo
 {% if site.data.peloton.latestRide['Live Ride'] %}
 <span class="highlight">LIVE</span>
 {% endif %}
+{% if site.data.peloton.latestRide.Timestamp == site.data.peloton.PBs[site.data.peloton.latestRide.Length].Timestamp %}
+<span class="highlight">🥇 PB</span>
+{% endif %}
 <br/>
 {{ site.data.peloton.latestRide.Timestamp | date: "%-d %B %Y at %H:%M" }}<br/>
 Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin }}kJ/min)</p>
