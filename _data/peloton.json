@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-09-06 11:47 (+01)",
-        "Instructor": "Bradley Rose",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
-        "Ride Name": "15 min Climb Ride",
-        "Total Output": "300",
-        "Length": "15",
+        "Timestamp": "2022-09-07 07:54 (+01)",
+        "Instructor": "Robin Arzon",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/98f012dc8a774a6a92f45c26d208a643",
+        "Ride Name": "30 min Madonna Ride",
+        "Total Output": "351",
+        "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 945,
-        "Cycling": 709,
-        "Meditation": 177,
+        "Overall": 950,
+        "Cycling": 713,
+        "Meditation": 178,
         "Walking": 22,
         "Cardio": 13,
         "Stretching": 13,
@@ -23,14 +23,14 @@
         "Sam Yo": 221,
         "Ross Rayburn": 81,
         "Ben Alldis": 57,
+        "Leanne Hainsby": 51,
         "Bradley Rose": 50,
-        "Leanne Hainsby": 50,
         "Matt Wilpers": 45,
         "Kristin McGee": 40,
         "Denis Morton": 35,
-        "Robin Arzon": 33,
+        "Robin Arzon": 35,
+        "Cody Rigsby": 31,
         "Christine D'Ercole": 30,
-        "Cody Rigsby": 30,
         "Hannah Corbin": 24,
         "Emma Lovewell": 23,
         "Aditi Shah": 21,
@@ -43,8 +43,8 @@
         "Kendall Toole": 14,
         "Alex Toussaint": 12,
         "Selena Samuela": 8,
+        "Chelsea Jackson Roberts": 7,
         "Kirra Michel": 7,
-        "Chelsea Jackson Roberts": 6,
         "Hannah Frankson": 5,
         "Rebecca Kennedy": 4,
         "Andy Speer": 3,
@@ -72,13 +72,13 @@
         "Cycling": {
             "Sam Yo": 213,
             "Ben Alldis": 55,
+            "Leanne Hainsby": 51,
             "Bradley Rose": 50,
-            "Leanne Hainsby": 50,
             "Matt Wilpers": 45,
             "Denis Morton": 32,
+            "Robin Arzon": 31,
             "Christine D'Ercole": 30,
-            "Robin Arzon": 29,
-            "Cody Rigsby": 26,
+            "Cody Rigsby": 27,
             "Hannah Corbin": 24,
             "Emma Lovewell": 22,
             "Ally Love": 19,
@@ -135,8 +135,8 @@
             "Kristin McGee": 40,
             "Aditi Shah": 21,
             "Anna Greenberg": 16,
+            "Chelsea Jackson Roberts": 7,
             "Kirra Michel": 7,
-            "Chelsea Jackson Roberts": 6,
             "Cody Rigsby": 4,
             "Denis Morton": 1,
             "Nico Sarani": 1
@@ -239,5 +239,5 @@
             "Live Ride": false
         }
     },
-    "totalDistanceCycled": "4303.77"
+    "totalDistanceCycled": "4321.32"
 }
