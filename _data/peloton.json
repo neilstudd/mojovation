@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-09-07 07:54 (+01)",
-        "Instructor": "Robin Arzon",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/98f012dc8a774a6a92f45c26d208a643",
-        "Ride Name": "30 min Madonna Ride",
-        "Total Output": "351",
-        "Length": "30",
+        "Timestamp": "2022-09-08 08:51 (+01)",
+        "Instructor": "Cody Rigsby",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/50b3d98e87f446f3b2e6dfde4d87b42d",
+        "Ride Name": "15 min 2000s Ride",
+        "Total Output": "189",
+        "Length": "15",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 950,
-        "Cycling": 713,
-        "Meditation": 178,
+        "Overall": 955,
+        "Cycling": 717,
+        "Meditation": 179,
         "Walking": 22,
         "Cardio": 13,
         "Stretching": 13,
@@ -21,15 +21,15 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 221,
-        "Ross Rayburn": 81,
+        "Ross Rayburn": 82,
         "Ben Alldis": 57,
         "Leanne Hainsby": 51,
         "Bradley Rose": 50,
         "Matt Wilpers": 45,
         "Kristin McGee": 40,
+        "Cody Rigsby": 35,
         "Denis Morton": 35,
         "Robin Arzon": 35,
-        "Cody Rigsby": 31,
         "Christine D'Ercole": 30,
         "Hannah Corbin": 24,
         "Emma Lovewell": 23,
@@ -76,9 +76,9 @@
             "Bradley Rose": 50,
             "Matt Wilpers": 45,
             "Denis Morton": 32,
+            "Cody Rigsby": 31,
             "Robin Arzon": 31,
             "Christine D'Ercole": 30,
-            "Cody Rigsby": 27,
             "Hannah Corbin": 24,
             "Emma Lovewell": 22,
             "Ally Love": 19,
@@ -131,7 +131,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 81,
+            "Ross Rayburn": 82,
             "Kristin McGee": 40,
             "Aditi Shah": 21,
             "Anna Greenberg": 16,
@@ -239,5 +239,5 @@
             "Live Ride": false
         }
     },
-    "totalDistanceCycled": "4321.32"
+    "totalDistanceCycled": "4335.56"
 }
