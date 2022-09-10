@@ -9,9 +9,9 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 955,
+        "Overall": 957,
         "Cycling": 717,
-        "Meditation": 179,
+        "Meditation": 181,
         "Walking": 22,
         "Cardio": 13,
         "Stretching": 13,
@@ -21,13 +21,13 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 221,
-        "Ross Rayburn": 82,
+        "Ross Rayburn": 83,
         "Ben Alldis": 57,
         "Leanne Hainsby": 51,
         "Bradley Rose": 50,
         "Matt Wilpers": 45,
         "Kristin McGee": 40,
-        "Cody Rigsby": 35,
+        "Cody Rigsby": 36,
         "Denis Morton": 35,
         "Robin Arzon": 35,
         "Christine D'Ercole": 30,
@@ -131,13 +131,13 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 82,
+            "Ross Rayburn": 83,
             "Kristin McGee": 40,
             "Aditi Shah": 21,
             "Anna Greenberg": 16,
             "Chelsea Jackson Roberts": 7,
             "Kirra Michel": 7,
-            "Cody Rigsby": 4,
+            "Cody Rigsby": 5,
             "Denis Morton": 1,
             "Nico Sarani": 1
         },
