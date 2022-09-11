@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-09-08 08:51 (+01)",
-        "Instructor": "Cody Rigsby",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/50b3d98e87f446f3b2e6dfde4d87b42d",
-        "Ride Name": "15 min 2000s Ride",
-        "Total Output": "189",
-        "Length": "15",
+        "Timestamp": "2022-09-10 10:14 (+01)",
+        "Instructor": "Hannah Corbin",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/89edbd70efa446999ae4c48ef8717aed",
+        "Ride Name": "10 min Low Impact Ride",
+        "Total Output": "102",
+        "Length": "10",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 957,
-        "Cycling": 717,
-        "Meditation": 181,
+        "Overall": 962,
+        "Cycling": 721,
+        "Meditation": 182,
         "Walking": 22,
         "Cardio": 13,
         "Stretching": 13,
@@ -31,7 +31,7 @@
         "Denis Morton": 35,
         "Robin Arzon": 35,
         "Christine D'Ercole": 30,
-        "Hannah Corbin": 24,
+        "Hannah Corbin": 28,
         "Emma Lovewell": 23,
         "Aditi Shah": 21,
         "Jenn Sherman": 20,
@@ -42,8 +42,8 @@
         "Jess King": 14,
         "Kendall Toole": 14,
         "Alex Toussaint": 12,
+        "Chelsea Jackson Roberts": 8,
         "Selena Samuela": 8,
-        "Chelsea Jackson Roberts": 7,
         "Kirra Michel": 7,
         "Hannah Frankson": 5,
         "Rebecca Kennedy": 4,
@@ -79,7 +79,7 @@
             "Cody Rigsby": 31,
             "Robin Arzon": 31,
             "Christine D'Ercole": 30,
-            "Hannah Corbin": 24,
+            "Hannah Corbin": 28,
             "Emma Lovewell": 22,
             "Ally Love": 19,
             "Jenn Sherman": 19,
@@ -135,7 +135,7 @@
             "Kristin McGee": 40,
             "Aditi Shah": 21,
             "Anna Greenberg": 16,
-            "Chelsea Jackson Roberts": 7,
+            "Chelsea Jackson Roberts": 8,
             "Kirra Michel": 7,
             "Cody Rigsby": 5,
             "Denis Morton": 1,
@@ -239,5 +239,5 @@
             "Live Ride": false
         }
     },
-    "totalDistanceCycled": "4335.56"
+    "totalDistanceCycled": "4345.76"
 }
