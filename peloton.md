@@ -7,6 +7,18 @@ hide_contact_cta: true
 image: /assets/img/peloton-cody.gif
 ---
 
+{% capture peloton_mileage %}
+{{ site.data.peloton.totalDistanceCycled }}
+{% endcapture %}
+
+{% capture peloton_rides %}
+{{ site.data.peloton.workoutTotals.Cycling }}
+{% endcapture %}
+
+{% capture peloton_total_classes %}
+{{ site.data.peloton.workoutTotals.Overall }}
+{% endcapture %}
+
 If you've found this page, congratulations! Either you've diligently read through every last paragraph on the [About page](/about), or you've been browsing our source code on GitHub; I wonder what other treats are hidden away on there?
 
 One of the downsides of Peloton is that they don't have the concept of a "public profile" to show-off your stats; it's one of the ways that they get you to buy into their ecosystem. ("Want to see stats? Sign up then!")
@@ -20,7 +32,7 @@ With all that in mind, below are all of the latest statistics - currently update
 
 ## Neil's Peloton statistics
 
-Neil has taken a total of **{{ site.data.peloton.workoutTotals.Overall }}** Peloton classes, including {{ site.data.peloton.workoutTotals.Cycling }} cycle rides (covering {% include peloton-mileage-formatted.html %} miles) and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
+Neil has taken a total of **{% include format-thousand-separators.html number=peloton_total_classes %}** Peloton classes, including {% include format-thousand-separators.html number=peloton_rides %} cycle rides (covering {% include format-thousand-separators.html number=peloton_mileage %} miles) and {{ site.data.peloton.workoutTotals.Meditation }} meditations.
 
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
 <img src="{{ site.data.peloton.latestRide.Photo }}"  style="float: left; border-radius: 50%; padding-right: 10pt;"/>
@@ -53,6 +65,10 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 
 {% for distance in site.data.peloton.PBs %}
 {% assign avgPerMin = distance[1]['Total Output'] | plus: 0.0 | divided_by: distance[0] | round: 1 %}
+{% capture peloton_output %}
+{{ distance[1]['Total Output'] }}
+{% endcapture %}
+
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
 <img src="{{ distance[1].Photo }}"  style="float: left; border-radius: 50%; padding-right: 10pt"/>
 <h2>{{ distance[0] }}min PB:</h2>
@@ -62,6 +78,6 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 {% endif %}
 <br/>
 {{ distance[1].Timestamp | date: "%-d %B %Y at %H:%M" }}<br/>
-Total Output: {{ distance[1]['Total Output'] }}kJ ({{ avgPerMin }}kJ/min)</p>
+Total Output: {% include format-thousand-separators.html number=peloton_output %}kJ ({{ avgPerMin }}kJ/min)</p>
 </div><br/>
 {% endfor %}
