@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-09-12 17:44 (+01)",
+        "Timestamp": "2022-09-15 13:16 (+01)",
         "Instructor": "Emma Lovewell",
         "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/aab0bbd729f94be0b835d08507410eea",
         "Ride Name": "10 min Low Impact Ride",
-        "Total Output": "76",
+        "Total Output": "90",
         "Length": "10",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 974,
-        "Cycling": 729,
-        "Meditation": 185,
+        "Overall": 979,
+        "Cycling": 733,
+        "Meditation": 186,
         "Walking": 23,
         "Cardio": 13,
         "Stretching": 13,
@@ -30,9 +30,9 @@
         "Cody Rigsby": 36,
         "Denis Morton": 35,
         "Robin Arzon": 35,
+        "Emma Lovewell": 32,
         "Hannah Corbin": 31,
         "Christine D'Ercole": 30,
-        "Emma Lovewell": 28,
         "Aditi Shah": 21,
         "Jenn Sherman": 20,
         "Tunde Oyeneyin": 20,
@@ -42,7 +42,7 @@
         "Jess King": 14,
         "Kendall Toole": 14,
         "Alex Toussaint": 12,
-        "Chelsea Jackson Roberts": 8,
+        "Chelsea Jackson Roberts": 9,
         "Selena Samuela": 8,
         "Kirra Michel": 7,
         "Hannah Frankson": 5,
@@ -77,10 +77,10 @@
             "Matt Wilpers": 45,
             "Denis Morton": 32,
             "Cody Rigsby": 31,
+            "Emma Lovewell": 31,
             "Hannah Corbin": 31,
             "Robin Arzon": 31,
             "Christine D'Ercole": 30,
-            "Emma Lovewell": 27,
             "Ally Love": 19,
             "Jenn Sherman": 19,
             "Tunde Oyeneyin": 19,
@@ -135,7 +135,7 @@
             "Kristin McGee": 41,
             "Aditi Shah": 21,
             "Anna Greenberg": 16,
-            "Chelsea Jackson Roberts": 8,
+            "Chelsea Jackson Roberts": 9,
             "Kirra Michel": 7,
             "Cody Rigsby": 5,
             "Denis Morton": 1,
@@ -239,5 +239,5 @@
             "Live Ride": false
         }
     },
-    "totalDistanceCycled": "4367.28"
+    "totalDistanceCycled": "4377.40"
 }
