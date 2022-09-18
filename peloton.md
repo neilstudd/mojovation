@@ -87,7 +87,7 @@ Total Output: <strong>{% include format-thousand-separators.html number=peloton_
 {% capture pr_output %}
 {{ progress['Total Output'] }}
 {% endcapture %}
-<tr><td>{{ progress.Timestamp | date: "%d-%b-%y" }}</td><td><strong>{% include format-thousand-separators.html number=pr_output %}kJ</strong></td><td>{%if progress.Instructor != "N/A" %}{{progress.Instructor}}{% endif %} {{progress['Ride Name']}} {% if progress['Live Ride'] %}<span class="highlight">LIVE</span>{% endif %}</td></tr>
+<tr><td>{{ progress.Timestamp | date: "%d/%m/%y" }}</td><td><strong>{% include format-thousand-separators.html number=pr_output %}kJ</strong></td><td>{%if progress.Instructor != "N/A" %}{{progress.Instructor}}{% endif %} {{progress['Ride Name']}} {% if progress['Live Ride'] %}<span class="highlight">LIVE</span>{% endif %}</td></tr>
 {% endfor %}
 </table>
 </details>
