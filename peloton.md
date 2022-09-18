@@ -72,12 +72,24 @@ Total Output: {{ site.data.peloton.latestRide['Total Output'] }}kJ ({{ avgPerMin
 <div style="border-radius: 25px; border: 2px solid #396; padding: 10px;">
 <img src="{{ distance[1].Photo }}"  style="float: left; border-radius: 50%; padding-right: 10pt"/>
 <h2>{{ distance[0] }}min PB:</h2>
-<p><strong>{{ distance[1]['Ride Name'] }} with {{ distance[1].Instructor }}</strong>
+<p><strong>{{ distance[1]['Ride Name'] }}{% if distance[1].Instructor != "N/A" %} with {{ distance[1].Instructor }}{% endif %}</strong>
 {% if distance[1]['Live Ride'] %}
 <span class="highlight">LIVE</span>
 {% endif %}
 <br/>
 {{ distance[1].Timestamp | date: "%-d %B %Y at %H:%M" }}<br/>
-Total Output: {% include format-thousand-separators.html number=peloton_output %}kJ ({{ avgPerMin }}kJ/min)</p>
+Total Output: <strong>{% include format-thousand-separators.html number=peloton_output %}kJ</strong> ({{ avgPerMin }}kJ/min)</p>
+
+<details>
+<summary>View {{ distance[1]['progressions'] | size }} previous {{ distance[0] }}min PBs</summary>
+<table>
+{% for progress in distance[1]['progressions'] %}
+{% capture pr_output %}
+{{ progress['Total Output'] }}
+{% endcapture %}
+<tr><td>{{ progress.Timestamp | date: "%d-%b-%y" }}</td><td><strong>{% include format-thousand-separators.html number=pr_output %}kJ</strong></td><td>{%if progress.Instructor != "N/A" %}{{progress.Instructor}}{% endif %} {{progress['Ride Name']}} {% if progress['Live Ride'] %}<span class="highlight">LIVE</span>{% endif %}</td></tr>
+{% endfor %}
+</table>
+</details>
 </div><br/>
 {% endfor %}
