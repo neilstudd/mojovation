@@ -1,18 +1,18 @@
 {
     "latestRide": {
-        "Timestamp": "2022-09-15 13:16 (+01)",
-        "Instructor": "Emma Lovewell",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/aab0bbd729f94be0b835d08507410eea",
-        "Ride Name": "10 min Low Impact Ride",
-        "Total Output": "90",
+        "Timestamp": "2022-09-17 15:41 (+01)",
+        "Instructor": "Bradley Rose",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
+        "Ride Name": "10 min Climb Ride",
+        "Total Output": "156",
         "Length": "10",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 980,
-        "Cycling": 733,
-        "Meditation": 187,
-        "Walking": 23,
+        "Overall": 986,
+        "Cycling": 736,
+        "Meditation": 188,
+        "Walking": 25,
         "Cardio": 13,
         "Stretching": 13,
         "Running": 5,
@@ -23,10 +23,10 @@
         "Sam Yo": 221,
         "Ross Rayburn": 85,
         "Ben Alldis": 57,
+        "Bradley Rose": 53,
         "Leanne Hainsby": 51,
-        "Bradley Rose": 50,
         "Matt Wilpers": 45,
-        "Kristin McGee": 41,
+        "Kristin McGee": 42,
         "Cody Rigsby": 36,
         "Denis Morton": 35,
         "Robin Arzon": 35,
@@ -46,15 +46,15 @@
         "Selena Samuela": 8,
         "Kirra Michel": 7,
         "Hannah Frankson": 5,
-        "Rebecca Kennedy": 4,
+        "Rebecca Kennedy": 5,
         "Andy Speer": 3,
         "Jon Hosking": 3,
+        "Joslyn Thompson Rule": 3,
         "Matty Maggiacomo": 3,
         "Rad Lopez": 3,
         "Becs Gentry": 2,
         "Cliff Dwenger": 2,
         "Jess Sims": 2,
-        "Joslyn Thompson Rule": 2,
         "Adrian & Tunde ": 1,
         "Adrian Williams": 1,
         "Alex & Tunde  ": 1,
@@ -72,8 +72,8 @@
         "Cycling": {
             "Sam Yo": 213,
             "Ben Alldis": 55,
+            "Bradley Rose": 53,
             "Leanne Hainsby": 51,
-            "Bradley Rose": 50,
             "Matt Wilpers": 45,
             "Denis Morton": 32,
             "Cody Rigsby": 31,
@@ -107,18 +107,18 @@
             "Jenn Sherman": 1
         },
         "Walking": {
+            "Rebecca Kennedy": 4,
             "Andy Speer": 3,
-            "Rebecca Kennedy": 3,
             "Robin Arzon": 3,
             "Selena Samuela": 3,
             "Jon Hosking": 2,
+            "Joslyn Thompson Rule": 2,
             "Matty Maggiacomo": 2,
             "Adrian & Tunde ": 1,
             "Adrian Williams": 1,
             "Becs Gentry": 1,
             "Chase Tucker": 1,
             "Jess Sims": 1,
-            "Joslyn Thompson Rule": 1,
             "Olivia Amato": 1
         },
         "Strength": {
@@ -132,7 +132,7 @@
         },
         "Meditation": {
             "Ross Rayburn": 85,
-            "Kristin McGee": 41,
+            "Kristin McGee": 42,
             "Aditi Shah": 22,
             "Anna Greenberg": 16,
             "Chelsea Jackson Roberts": 9,
@@ -239,5 +239,5 @@
             "Live Ride": false
         }
     },
-    "totalDistanceCycled": "4377.40"
+    "totalDistanceCycled": "4384.49"
 }
