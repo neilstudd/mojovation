@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When positivity becomes toxic"
-excerpt: "TODO"
+excerpt: "Why we sometimes end up denying people's emotions."
 date:   2022-09-19 01:00:00 +0100
 image: /assets/img/britney-spears-toxic.gif
 ---
