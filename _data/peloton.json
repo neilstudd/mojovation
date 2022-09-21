@@ -9,9 +9,9 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 991,
-        "Cycling": 739,
-        "Meditation": 190,
+        "Overall": 994,
+        "Cycling": 741,
+        "Meditation": 191,
         "Walking": 25,
         "Cardio": 13,
         "Stretching": 13,
@@ -20,7 +20,7 @@
         "Yoga": 2
     },
     "totalsByInstructor": {
-        "Sam Yo": 221,
+        "Sam Yo": 223,
         "Ross Rayburn": 86,
         "Ben Alldis": 57,
         "Bradley Rose": 56,
@@ -37,7 +37,7 @@
         "Jenn Sherman": 20,
         "Tunde Oyeneyin": 20,
         "Ally Love": 19,
-        "Anna Greenberg": 17,
+        "Anna Greenberg": 18,
         "Olivia Amato": 15,
         "Jess King": 14,
         "Kendall Toole": 14,
@@ -70,7 +70,7 @@
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
-            "Sam Yo": 213,
+            "Sam Yo": 215,
             "Bradley Rose": 56,
             "Ben Alldis": 55,
             "Leanne Hainsby": 51,
@@ -134,7 +134,7 @@
             "Ross Rayburn": 86,
             "Kristin McGee": 42,
             "Aditi Shah": 23,
-            "Anna Greenberg": 16,
+            "Anna Greenberg": 17,
             "Chelsea Jackson Roberts": 9,
             "Kirra Michel": 7,
             "Cody Rigsby": 5,
@@ -1283,5 +1283,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4399.22"
+    "totalDistanceCycled": "4404.51"
 }
