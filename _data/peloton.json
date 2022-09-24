@@ -9,13 +9,13 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1001,
+        "Overall": 1002,
         "Cycling": 745,
         "Meditation": 193,
         "Walking": 26,
         "Cardio": 13,
         "Stretching": 13,
-        "Running": 5,
+        "Running": 6,
         "Strength": 4,
         "Yoga": 2
     },
@@ -28,8 +28,8 @@
         "Matt Wilpers": 45,
         "Kristin McGee": 42,
         "Cody Rigsby": 36,
+        "Robin Arzon": 36,
         "Denis Morton": 35,
-        "Robin Arzon": 35,
         "Emma Lovewell": 32,
         "Hannah Corbin": 31,
         "Christine D'Ercole": 30,
@@ -149,11 +149,11 @@
             "Multiple Instructors ": 1
         },
         "Running": {
+            "Robin Arzon": 2,
             "Becs Gentry": 1,
             "Joslyn Thompson Rule": 1,
             "Matty Maggiacomo": 1,
-            "Rebecca Kennedy": 1,
-            "Robin Arzon": 1
+            "Rebecca Kennedy": 1
         }
     },
     "PBs": {
