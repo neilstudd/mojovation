@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-09-21 08:38 (+01)",
-        "Instructor": "Leanne Hainsby",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/065e607d145944309aef36f99a0e7a68",
-        "Ride Name": "20 min 90s Rock Ride",
-        "Total Output": "242",
-        "Length": "20",
+        "Timestamp": "2022-09-25 11:40 (+01)",
+        "Instructor": "Bradley & Sam ",
+        "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
+        "Ride Name": "30 min Moulin Rouge Two for One Ride",
+        "Total Output": "387",
+        "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1003,
-        "Cycling": 745,
-        "Meditation": 194,
+        "Overall": 1007,
+        "Cycling": 748,
+        "Meditation": 195,
         "Walking": 26,
         "Cardio": 13,
         "Stretching": 13,
@@ -20,10 +20,10 @@
         "Yoga": 2
     },
     "totalsByInstructor": {
-        "Sam Yo": 223,
+        "Sam Yo": 224,
         "Ross Rayburn": 87,
+        "Bradley Rose": 58,
         "Ben Alldis": 57,
-        "Bradley Rose": 57,
         "Leanne Hainsby": 52,
         "Matt Wilpers": 45,
         "Kristin McGee": 42,
@@ -42,7 +42,7 @@
         "Jess King": 14,
         "Kendall Toole": 14,
         "Alex Toussaint": 12,
-        "Chelsea Jackson Roberts": 9,
+        "Chelsea Jackson Roberts": 10,
         "Selena Samuela": 8,
         "Kirra Michel": 7,
         "Hannah Frankson": 5,
@@ -58,6 +58,7 @@
         "Adrian & Tunde ": 1,
         "Adrian Williams": 1,
         "Alex & Tunde  ": 1,
+        "Bradley & Sam ": 1,
         "Callie Gullickson": 1,
         "Camila Ramon": 1,
         "Chase Tucker": 1,
@@ -70,8 +71,8 @@
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
-            "Sam Yo": 215,
-            "Bradley Rose": 57,
+            "Sam Yo": 216,
+            "Bradley Rose": 58,
             "Ben Alldis": 55,
             "Leanne Hainsby": 52,
             "Matt Wilpers": 45,
@@ -91,6 +92,7 @@
             "Hannah Frankson": 5,
             "Cliff Dwenger": 2,
             "Alex & Tunde  ": 1,
+            "Bradley & Sam ": 1,
             "Camila Ramon": 1,
             "Erik Jager": 1,
             "Irene Scholz": 1,
@@ -135,7 +137,7 @@
             "Kristin McGee": 42,
             "Aditi Shah": 25,
             "Anna Greenberg": 17,
-            "Chelsea Jackson Roberts": 9,
+            "Chelsea Jackson Roberts": 10,
             "Kirra Michel": 7,
             "Cody Rigsby": 5,
             "Denis Morton": 1,
@@ -1283,5 +1285,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4425.13"
+    "totalDistanceCycled": "4439.20"
 }
