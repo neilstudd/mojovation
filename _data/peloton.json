@@ -1,16 +1,16 @@
 {
     "latestRide": {
-        "Timestamp": "2022-09-27 18:03 (+01)",
-        "Instructor": "Bradley Rose",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
-        "Ride Name": "20 min Pop Ride",
-        "Total Output": "236",
+        "Timestamp": "2022-09-28 15:08 (+01)",
+        "Instructor": "Sam Yo",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
+        "Ride Name": "20 min Power Zone Beginner Ride",
+        "Total Output": "224",
         "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1015,
-        "Cycling": 754,
+        "Overall": 1017,
+        "Cycling": 756,
         "Meditation": 197,
         "Walking": 26,
         "Cardio": 13,
@@ -20,7 +20,7 @@
         "Yoga": 2
     },
     "totalsByInstructor": {
-        "Sam Yo": 225,
+        "Sam Yo": 227,
         "Ross Rayburn": 88,
         "Bradley Rose": 61,
         "Ben Alldis": 57,
@@ -71,7 +71,7 @@
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
-            "Sam Yo": 217,
+            "Sam Yo": 219,
             "Bradley Rose": 61,
             "Ben Alldis": 55,
             "Leanne Hainsby": 53,
@@ -1285,5 +1285,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4464.09"
+    "totalDistanceCycled": "4472.52"
 }
