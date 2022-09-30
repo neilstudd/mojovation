@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-09-28 15:08 (+01)",
-        "Instructor": "Sam Yo",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
-        "Ride Name": "20 min Power Zone Beginner Ride",
-        "Total Output": "224",
+        "Timestamp": "2022-09-29 18:12 (+01)",
+        "Instructor": "Robin Arzon",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/98f012dc8a774a6a92f45c26d208a643",
+        "Ride Name": "20 min 90s Ride",
+        "Total Output": "313",
         "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1017,
-        "Cycling": 756,
-        "Meditation": 197,
+        "Overall": 1021,
+        "Cycling": 759,
+        "Meditation": 198,
         "Walking": 26,
         "Cardio": 13,
         "Stretching": 13,
@@ -20,15 +20,15 @@
         "Yoga": 2
     },
     "totalsByInstructor": {
-        "Sam Yo": 227,
+        "Sam Yo": 228,
         "Ross Rayburn": 88,
         "Bradley Rose": 61,
         "Ben Alldis": 57,
         "Leanne Hainsby": 53,
         "Matt Wilpers": 45,
-        "Kristin McGee": 43,
+        "Kristin McGee": 44,
+        "Robin Arzon": 37,
         "Cody Rigsby": 36,
-        "Robin Arzon": 36,
         "Denis Morton": 35,
         "Emma Lovewell": 32,
         "Hannah Corbin": 31,
@@ -45,7 +45,7 @@
         "Chelsea Jackson Roberts": 10,
         "Selena Samuela": 8,
         "Kirra Michel": 7,
-        "Hannah Frankson": 5,
+        "Hannah Frankson": 6,
         "Rebecca Kennedy": 5,
         "Joslyn Thompson Rule": 4,
         "Andy Speer": 3,
@@ -71,16 +71,16 @@
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
-            "Sam Yo": 219,
+            "Sam Yo": 220,
             "Bradley Rose": 61,
             "Ben Alldis": 55,
             "Leanne Hainsby": 53,
             "Matt Wilpers": 45,
             "Denis Morton": 32,
+            "Robin Arzon": 32,
             "Cody Rigsby": 31,
             "Emma Lovewell": 31,
             "Hannah Corbin": 31,
-            "Robin Arzon": 31,
             "Christine D'Ercole": 30,
             "Ally Love": 22,
             "Jenn Sherman": 19,
@@ -89,7 +89,7 @@
             "Olivia Amato": 14,
             "Alex Toussaint": 12,
             "Kendall Toole": 8,
-            "Hannah Frankson": 5,
+            "Hannah Frankson": 6,
             "Cliff Dwenger": 2,
             "Alex & Tunde  ": 1,
             "Bradley & Sam ": 1,
@@ -134,7 +134,7 @@
         },
         "Meditation": {
             "Ross Rayburn": 88,
-            "Kristin McGee": 43,
+            "Kristin McGee": 44,
             "Aditi Shah": 25,
             "Anna Greenberg": 17,
             "Chelsea Jackson Roberts": 10,
@@ -1285,5 +1285,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4472.52"
+    "totalDistanceCycled": "4483.61"
 }
