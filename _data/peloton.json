@@ -9,19 +9,19 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1037,
+        "Overall": 1039,
         "Cycling": 765,
-        "Meditation": 207,
+        "Meditation": 208,
         "Walking": 26,
         "Cardio": 13,
         "Stretching": 13,
-        "Running": 7,
+        "Running": 8,
         "Strength": 4,
         "Yoga": 2
     },
     "totalsByInstructor": {
         "Sam Yo": 230,
-        "Ross Rayburn": 94,
+        "Ross Rayburn": 95,
         "Bradley Rose": 61,
         "Ben Alldis": 59,
         "Leanne Hainsby": 53,
@@ -47,9 +47,9 @@
         "Kirra Michel": 7,
         "Hannah Frankson": 6,
         "Rebecca Kennedy": 5,
+        "Jon Hosking": 4,
         "Joslyn Thompson Rule": 4,
         "Andy Speer": 3,
-        "Jon Hosking": 3,
         "Matty Maggiacomo": 3,
         "Rad Lopez": 3,
         "Becs Gentry": 2,
@@ -133,7 +133,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 94,
+            "Ross Rayburn": 95,
             "Kristin McGee": 45,
             "Aditi Shah": 26,
             "Anna Greenberg": 17,
@@ -153,6 +153,7 @@
         "Running": {
             "Robin Arzon": 2,
             "Becs Gentry": 1,
+            "Jon Hosking": 1,
             "Joslyn Thompson Rule": 1,
             "Matt Wilpers": 1,
             "Matty Maggiacomo": 1,
