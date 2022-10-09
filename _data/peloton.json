@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-10-04 17:30 (+01)",
-        "Instructor": "Ben Alldis",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4aa24c3fba07458f8084df128df4f979",
-        "Ride Name": "30 min Climb Ride",
-        "Total Output": "519",
-        "Length": "30",
+        "Timestamp": "2022-10-08 16:54 (+01)",
+        "Instructor": "Leanne Hainsby",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/065e607d145944309aef36f99a0e7a68",
+        "Ride Name": "20 min 90s Rock Ride",
+        "Total Output": "265",
+        "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1039,
-        "Cycling": 765,
-        "Meditation": 208,
+        "Overall": 1044,
+        "Cycling": 769,
+        "Meditation": 209,
         "Walking": 26,
         "Cardio": 13,
         "Stretching": 13,
@@ -21,10 +21,10 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 230,
-        "Ross Rayburn": 95,
+        "Ross Rayburn": 96,
         "Bradley Rose": 61,
-        "Ben Alldis": 59,
-        "Leanne Hainsby": 53,
+        "Ben Alldis": 60,
+        "Leanne Hainsby": 55,
         "Matt Wilpers": 46,
         "Kristin McGee": 45,
         "Cody Rigsby": 37,
@@ -39,9 +39,9 @@
         "Tunde Oyeneyin": 20,
         "Anna Greenberg": 18,
         "Olivia Amato": 15,
+        "Alex Toussaint": 14,
         "Jess King": 14,
         "Kendall Toole": 14,
-        "Alex Toussaint": 13,
         "Chelsea Jackson Roberts": 10,
         "Selena Samuela": 8,
         "Kirra Michel": 7,
@@ -73,8 +73,8 @@
         "Cycling": {
             "Sam Yo": 222,
             "Bradley Rose": 61,
-            "Ben Alldis": 57,
-            "Leanne Hainsby": 53,
+            "Ben Alldis": 58,
+            "Leanne Hainsby": 55,
             "Matt Wilpers": 45,
             "Denis Morton": 32,
             "Robin Arzon": 32,
@@ -85,9 +85,9 @@
             "Ally Love": 23,
             "Jenn Sherman": 19,
             "Tunde Oyeneyin": 19,
+            "Alex Toussaint": 14,
             "Jess King": 14,
             "Olivia Amato": 14,
-            "Alex Toussaint": 13,
             "Kendall Toole": 8,
             "Hannah Frankson": 6,
             "Cliff Dwenger": 2,
@@ -133,7 +133,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 95,
+            "Ross Rayburn": 96,
             "Kristin McGee": 45,
             "Aditi Shah": 26,
             "Anna Greenberg": 17,
@@ -1287,5 +1287,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4510.70"
+    "totalDistanceCycled": "4528.81"
 }
