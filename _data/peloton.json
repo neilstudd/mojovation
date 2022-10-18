@@ -9,13 +9,13 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1059,
+        "Overall": 1062,
         "Cycling": 772,
-        "Meditation": 218,
+        "Meditation": 219,
         "Walking": 29,
         "Cardio": 13,
         "Stretching": 13,
-        "Running": 8,
+        "Running": 10,
         "Strength": 4,
         "Yoga": 2
     },
@@ -33,7 +33,7 @@
         "Emma Lovewell": 32,
         "Hannah Corbin": 31,
         "Christine D'Ercole": 30,
-        "Aditi Shah": 26,
+        "Aditi Shah": 27,
         "Ally Love": 25,
         "Jenn Sherman": 20,
         "Tunde Oyeneyin": 20,
@@ -43,11 +43,11 @@
         "Jess King": 14,
         "Kendall Toole": 14,
         "Chelsea Jackson Roberts": 11,
-        "Selena Samuela": 8,
+        "Selena Samuela": 9,
         "Kirra Michel": 7,
         "Rebecca Kennedy": 7,
         "Hannah Frankson": 6,
-        "Jon Hosking": 4,
+        "Jon Hosking": 5,
         "Joslyn Thompson Rule": 4,
         "Matty Maggiacomo": 4,
         "Andy Speer": 3,
@@ -135,7 +135,7 @@
         "Meditation": {
             "Ross Rayburn": 102,
             "Kristin McGee": 46,
-            "Aditi Shah": 26,
+            "Aditi Shah": 27,
             "Anna Greenberg": 18,
             "Chelsea Jackson Roberts": 11,
             "Kirra Michel": 7,
@@ -151,13 +151,14 @@
             "Multiple Instructors ": 1
         },
         "Running": {
+            "Jon Hosking": 2,
             "Robin Arzon": 2,
             "Becs Gentry": 1,
-            "Jon Hosking": 1,
             "Joslyn Thompson Rule": 1,
             "Matt Wilpers": 1,
             "Matty Maggiacomo": 1,
-            "Rebecca Kennedy": 1
+            "Rebecca Kennedy": 1,
+            "Selena Samuela": 1
         }
     },
     "PBs": {
