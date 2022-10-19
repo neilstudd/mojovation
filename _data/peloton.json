@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-10-12 07:40 (+01)",
-        "Instructor": "Sam Yo",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
-        "Ride Name": "30 min 90s Pop Ride",
-        "Total Output": "404",
+        "Timestamp": "2022-10-18 13:10 (+01)",
+        "Instructor": "N\/A",
+        "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
+        "Ride Name": "30 min Big Sur Ride",
+        "Total Output": "355",
         "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1062,
-        "Cycling": 772,
-        "Meditation": 219,
+        "Overall": 1066,
+        "Cycling": 775,
+        "Meditation": 220,
         "Walking": 29,
         "Cardio": 13,
         "Stretching": 13,
@@ -22,7 +22,7 @@
     "totalsByInstructor": {
         "Sam Yo": 231,
         "Ross Rayburn": 102,
-        "Bradley Rose": 61,
+        "Bradley Rose": 62,
         "Ben Alldis": 60,
         "Leanne Hainsby": 55,
         "Kristin McGee": 46,
@@ -33,14 +33,14 @@
         "Emma Lovewell": 32,
         "Hannah Corbin": 31,
         "Christine D'Ercole": 30,
-        "Aditi Shah": 27,
+        "Aditi Shah": 28,
         "Ally Love": 25,
         "Jenn Sherman": 20,
         "Tunde Oyeneyin": 20,
         "Anna Greenberg": 19,
+        "Jess King": 15,
         "Olivia Amato": 15,
         "Alex Toussaint": 14,
-        "Jess King": 14,
         "Kendall Toole": 14,
         "Chelsea Jackson Roberts": 11,
         "Selena Samuela": 9,
@@ -72,7 +72,7 @@
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 223,
-            "Bradley Rose": 61,
+            "Bradley Rose": 62,
             "Ben Alldis": 58,
             "Leanne Hainsby": 55,
             "Matt Wilpers": 45,
@@ -85,8 +85,8 @@
             "Ally Love": 25,
             "Jenn Sherman": 19,
             "Tunde Oyeneyin": 19,
+            "Jess King": 15,
             "Alex Toussaint": 14,
-            "Jess King": 14,
             "Olivia Amato": 14,
             "Kendall Toole": 8,
             "Hannah Frankson": 6,
@@ -135,7 +135,7 @@
         "Meditation": {
             "Ross Rayburn": 102,
             "Kristin McGee": 46,
-            "Aditi Shah": 27,
+            "Aditi Shah": 28,
             "Anna Greenberg": 18,
             "Chelsea Jackson Roberts": 11,
             "Kirra Michel": 7,
@@ -163,11 +163,11 @@
     },
     "PBs": {
         "5": {
-            "Timestamp": "2022-08-11 16:24 (+01)",
+            "Timestamp": "2022-10-18 13:03 (+01)",
             "Instructor": "Jess King",
             "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/f94160a5f6e14445840c8f60b5f86ae8",
             "Ride Name": "5 min Warm Up Ride",
-            "Total Output": "112",
+            "Total Output": "114",
             "Length": "5",
             "Live Ride": false,
             "progressions": [
@@ -294,6 +294,15 @@
                     "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/f94160a5f6e14445840c8f60b5f86ae8",
                     "Ride Name": "5 min Warm Up Ride",
                     "Total Output": "112",
+                    "Length": "5",
+                    "Live Ride": false
+                },
+                {
+                    "Timestamp": "2022-10-18 13:03 (+01)",
+                    "Instructor": "Jess King",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/f94160a5f6e14445840c8f60b5f86ae8",
+                    "Ride Name": "5 min Warm Up Ride",
+                    "Total Output": "114",
                     "Length": "5",
                     "Live Ride": false
                 }
@@ -1288,5 +1297,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4542.80"
+    "totalDistanceCycled": "4557.37"
 }
