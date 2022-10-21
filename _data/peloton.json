@@ -9,10 +9,10 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1067,
+        "Overall": 1070,
         "Cycling": 775,
-        "Meditation": 221,
-        "Walking": 29,
+        "Meditation": 223,
+        "Walking": 30,
         "Cardio": 13,
         "Stretching": 13,
         "Running": 10,
@@ -21,7 +21,7 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 231,
-        "Ross Rayburn": 102,
+        "Ross Rayburn": 103,
         "Bradley Rose": 62,
         "Ben Alldis": 60,
         "Leanne Hainsby": 55,
@@ -44,7 +44,7 @@
         "Kendall Toole": 14,
         "Chelsea Jackson Roberts": 11,
         "Selena Samuela": 9,
-        "Kirra Michel": 7,
+        "Kirra Michel": 8,
         "Rebecca Kennedy": 7,
         "Hannah Frankson": 6,
         "Jon Hosking": 5,
@@ -65,6 +65,7 @@
         "Erik Jager": 1,
         "Irene Scholz": 1,
         "Jess & Robin ": 1,
+        "Kirsten Ferguson": 1,
         "Mariana Fernandez": 1,
         "Multiple Instructors ": 1,
         "Nico Sarani": 1
@@ -121,6 +122,7 @@
             "Becs Gentry": 1,
             "Chase Tucker": 1,
             "Jess Sims": 1,
+            "Kirsten Ferguson": 1,
             "Olivia Amato": 1
         },
         "Strength": {
@@ -133,12 +135,12 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 102,
+            "Ross Rayburn": 103,
             "Kristin McGee": 46,
             "Aditi Shah": 29,
             "Anna Greenberg": 18,
             "Chelsea Jackson Roberts": 11,
-            "Kirra Michel": 7,
+            "Kirra Michel": 8,
             "Cody Rigsby": 6,
             "Denis Morton": 1,
             "Nico Sarani": 1
