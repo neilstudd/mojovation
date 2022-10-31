@@ -9,13 +9,13 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1090,
+        "Overall": 1092,
         "Cycling": 781,
         "Meditation": 230,
-        "Walking": 36,
+        "Walking": 37,
         "Cardio": 13,
         "Stretching": 13,
-        "Running": 11,
+        "Running": 12,
         "Strength": 4,
         "Yoga": 2
     },
@@ -43,8 +43,8 @@
         "Alex Toussaint": 14,
         "Kendall Toole": 14,
         "Chelsea Jackson Roberts": 11,
-        "Selena Samuela": 10,
-        "Rebecca Kennedy": 9,
+        "Selena Samuela": 11,
+        "Rebecca Kennedy": 10,
         "Kirra Michel": 8,
         "Hannah Frankson": 6,
         "Jon Hosking": 5,
@@ -111,8 +111,8 @@
         },
         "Walking": {
             "Rebecca Kennedy": 8,
+            "Selena Samuela": 5,
             "Joslyn Thompson Rule": 4,
-            "Selena Samuela": 4,
             "Andy Speer": 3,
             "Matty Maggiacomo": 3,
             "Robin Arzon": 3,
@@ -155,11 +155,11 @@
         "Running": {
             "Becs Gentry": 2,
             "Jon Hosking": 2,
+            "Rebecca Kennedy": 2,
             "Robin Arzon": 2,
             "Joslyn Thompson Rule": 1,
             "Matt Wilpers": 1,
             "Matty Maggiacomo": 1,
-            "Rebecca Kennedy": 1,
             "Selena Samuela": 1
         }
     },
