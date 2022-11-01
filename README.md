@@ -1,6 +1,6 @@
 ### Notes to self
 
-Config currently coded to the [Minimal](https://github.com/pages-themes/minimal) theme, with additional CSS tweaks which are annotated in `style.scss`.
+Config currently coded to the [Minimal](https://github.com/pages-themes/minimal) theme, with additional CSS tweaks which are annotated in `style.scss`
 
 ### To run locally:
 
