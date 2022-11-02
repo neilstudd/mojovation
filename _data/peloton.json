@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-10-27 10:15 (+01)",
-        "Instructor": "Sam Yo",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
-        "Ride Name": "30 min 80s Ride",
-        "Total Output": "423",
-        "Length": "30",
+        "Timestamp": "2022-11-01 13:45 (UTC)",
+        "Instructor": "Bradley Rose",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
+        "Ride Name": "20 min Pop Ride",
+        "Total Output": "345",
+        "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1094,
-        "Cycling": 781,
-        "Meditation": 231,
+        "Overall": 1099,
+        "Cycling": 784,
+        "Meditation": 233,
         "Walking": 38,
         "Cardio": 13,
         "Stretching": 13,
@@ -21,11 +21,11 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 232,
-        "Ross Rayburn": 108,
-        "Bradley Rose": 63,
+        "Ross Rayburn": 109,
+        "Bradley Rose": 64,
         "Ben Alldis": 60,
         "Leanne Hainsby": 55,
-        "Kristin McGee": 48,
+        "Kristin McGee": 49,
         "Matt Wilpers": 48,
         "Cody Rigsby": 37,
         "Robin Arzon": 37,
@@ -73,7 +73,7 @@
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 224,
-            "Bradley Rose": 63,
+            "Bradley Rose": 64,
             "Ben Alldis": 58,
             "Leanne Hainsby": 55,
             "Matt Wilpers": 47,
@@ -135,8 +135,8 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 108,
-            "Kristin McGee": 48,
+            "Ross Rayburn": 109,
+            "Kristin McGee": 49,
             "Aditi Shah": 29,
             "Anna Greenberg": 19,
             "Chelsea Jackson Roberts": 11,
@@ -1317,5 +1317,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4644.06"
+    "totalDistanceCycled": "4658.41"
 }
