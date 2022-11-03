@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-11-01 13:45 (UTC)",
-        "Instructor": "Bradley Rose",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
-        "Ride Name": "20 min Pop Ride",
-        "Total Output": "345",
+        "Timestamp": "2022-11-02 13:16 (UTC)",
+        "Instructor": "Sam Yo",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
+        "Ride Name": "20 min 2000s Ride",
+        "Total Output": "312",
         "Length": "20",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1099,
-        "Cycling": 784,
-        "Meditation": 233,
+        "Overall": 1103,
+        "Cycling": 787,
+        "Meditation": 234,
         "Walking": 38,
         "Cardio": 13,
         "Stretching": 13,
@@ -20,9 +20,9 @@
         "Yoga": 2
     },
     "totalsByInstructor": {
-        "Sam Yo": 232,
-        "Ross Rayburn": 109,
-        "Bradley Rose": 64,
+        "Sam Yo": 233,
+        "Ross Rayburn": 110,
+        "Bradley Rose": 65,
         "Ben Alldis": 60,
         "Leanne Hainsby": 55,
         "Kristin McGee": 49,
@@ -72,8 +72,8 @@
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
-            "Sam Yo": 224,
-            "Bradley Rose": 64,
+            "Sam Yo": 225,
+            "Bradley Rose": 65,
             "Ben Alldis": 58,
             "Leanne Hainsby": 55,
             "Matt Wilpers": 47,
@@ -135,7 +135,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 109,
+            "Ross Rayburn": 110,
             "Kristin McGee": 49,
             "Aditi Shah": 29,
             "Anna Greenberg": 19,
@@ -1317,5 +1317,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4658.41"
+    "totalDistanceCycled": "4672.84"
 }
