@@ -1,16 +1,16 @@
 {
     "latestRide": {
-        "Timestamp": "2022-11-02 13:16 (UTC)",
-        "Instructor": "Sam Yo",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
-        "Ride Name": "20 min 2000s Ride",
-        "Total Output": "312",
-        "Length": "20",
+        "Timestamp": "2022-11-05 22:13 (UTC)",
+        "Instructor": "N\/A",
+        "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
+        "Ride Name": "5 min Hoge Veluwe National Park Ride",
+        "Total Output": "37",
+        "Length": "5",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1105,
-        "Cycling": 787,
+        "Overall": 1117,
+        "Cycling": 799,
         "Meditation": 236,
         "Walking": 38,
         "Cardio": 13,
@@ -23,11 +23,11 @@
         "Sam Yo": 233,
         "Ross Rayburn": 110,
         "Bradley Rose": 65,
-        "Ben Alldis": 60,
-        "Leanne Hainsby": 55,
+        "Ben Alldis": 61,
+        "Leanne Hainsby": 56,
         "Kristin McGee": 49,
         "Matt Wilpers": 48,
-        "Cody Rigsby": 37,
+        "Cody Rigsby": 38,
         "Robin Arzon": 37,
         "Denis Morton": 35,
         "Hannah Corbin": 33,
@@ -74,13 +74,13 @@
         "Cycling": {
             "Sam Yo": 225,
             "Bradley Rose": 65,
-            "Ben Alldis": 58,
-            "Leanne Hainsby": 55,
+            "Ben Alldis": 59,
+            "Leanne Hainsby": 56,
             "Matt Wilpers": 47,
             "Hannah Corbin": 33,
+            "Cody Rigsby": 32,
             "Denis Morton": 32,
             "Robin Arzon": 32,
-            "Cody Rigsby": 31,
             "Emma Lovewell": 31,
             "Christine D'Ercole": 30,
             "Ally Love": 25,
@@ -1317,5 +1317,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4672.84"
+    "totalDistanceCycled": "4704.81"
 }
