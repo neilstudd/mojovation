@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-11-05 22:13 (UTC)",
-        "Instructor": "N\/A",
-        "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
-        "Ride Name": "5 min Hoge Veluwe National Park Ride",
-        "Total Output": "37",
-        "Length": "5",
-        "Live Ride": false
+        "Timestamp": "2022-11-07 07:25 (UTC)",
+        "Instructor": "Sam Yo",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
+        "Ride Name": "20 min 90s Rock Ride",
+        "Total Output": "314",
+        "Length": "20",
+        "Live Ride": true
     },
     "workoutTotals": {
-        "Overall": 1118,
-        "Cycling": 799,
-        "Meditation": 237,
+        "Overall": 1121,
+        "Cycling": 801,
+        "Meditation": 238,
         "Walking": 38,
         "Cardio": 13,
         "Stretching": 13,
@@ -20,7 +20,7 @@
         "Yoga": 2
     },
     "totalsByInstructor": {
-        "Sam Yo": 233,
+        "Sam Yo": 235,
         "Ross Rayburn": 111,
         "Bradley Rose": 65,
         "Ben Alldis": 61,
@@ -41,8 +41,8 @@
         "Jess King": 15,
         "Olivia Amato": 15,
         "Alex Toussaint": 14,
+        "Chelsea Jackson Roberts": 14,
         "Kendall Toole": 14,
-        "Chelsea Jackson Roberts": 13,
         "Selena Samuela": 11,
         "Rebecca Kennedy": 10,
         "Kirra Michel": 8,
@@ -72,7 +72,7 @@
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
-            "Sam Yo": 225,
+            "Sam Yo": 227,
             "Bradley Rose": 65,
             "Ben Alldis": 59,
             "Leanne Hainsby": 56,
@@ -139,7 +139,7 @@
             "Kristin McGee": 49,
             "Aditi Shah": 29,
             "Anna Greenberg": 19,
-            "Chelsea Jackson Roberts": 13,
+            "Chelsea Jackson Roberts": 14,
             "Kirra Michel": 8,
             "Cody Rigsby": 6,
             "Denis Morton": 1,
@@ -1317,5 +1317,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4704.81"
+    "totalDistanceCycled": "4720.16"
 }
