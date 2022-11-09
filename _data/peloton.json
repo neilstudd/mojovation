@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-11-07 07:25 (UTC)",
-        "Instructor": "Sam Yo",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/fc452163352a466c91a8dcc26e9a182d",
-        "Ride Name": "20 min 90s Rock Ride",
-        "Total Output": "314",
+        "Timestamp": "2022-11-08 08:01 (UTC)",
+        "Instructor": "Camila Ramon",
+        "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
+        "Ride Name": "20 min 90s Ride",
+        "Total Output": "265",
         "Length": "20",
-        "Live Ride": true
+        "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1121,
-        "Cycling": 801,
-        "Meditation": 238,
+        "Overall": 1126,
+        "Cycling": 804,
+        "Meditation": 240,
         "Walking": 38,
         "Cardio": 13,
         "Stretching": 13,
@@ -21,7 +21,7 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 235,
-        "Ross Rayburn": 111,
+        "Ross Rayburn": 113,
         "Bradley Rose": 65,
         "Ben Alldis": 61,
         "Leanne Hainsby": 56,
@@ -30,8 +30,8 @@
         "Cody Rigsby": 38,
         "Robin Arzon": 37,
         "Denis Morton": 35,
+        "Emma Lovewell": 34,
         "Hannah Corbin": 33,
-        "Emma Lovewell": 32,
         "Christine D'Ercole": 30,
         "Aditi Shah": 29,
         "Ally Love": 25,
@@ -53,6 +53,7 @@
         "Andy Speer": 3,
         "Becs Gentry": 3,
         "Rad Lopez": 3,
+        "Camila Ramon": 2,
         "Cliff Dwenger": 2,
         "Jess Sims": 2,
         "Adrian & Tunde ": 1,
@@ -60,7 +61,6 @@
         "Alex & Tunde  ": 1,
         "Bradley & Sam ": 1,
         "Callie Gullickson": 1,
-        "Camila Ramon": 1,
         "Chase Tucker": 1,
         "Erik Jager": 1,
         "Irene Scholz": 1,
@@ -77,11 +77,11 @@
             "Ben Alldis": 59,
             "Leanne Hainsby": 56,
             "Matt Wilpers": 47,
+            "Emma Lovewell": 33,
             "Hannah Corbin": 33,
             "Cody Rigsby": 32,
             "Denis Morton": 32,
             "Robin Arzon": 32,
-            "Emma Lovewell": 31,
             "Christine D'Ercole": 30,
             "Ally Love": 25,
             "Jenn Sherman": 19,
@@ -91,10 +91,10 @@
             "Olivia Amato": 14,
             "Kendall Toole": 8,
             "Hannah Frankson": 6,
+            "Camila Ramon": 2,
             "Cliff Dwenger": 2,
             "Alex & Tunde  ": 1,
             "Bradley & Sam ": 1,
-            "Camila Ramon": 1,
             "Erik Jager": 1,
             "Irene Scholz": 1,
             "Jess & Robin ": 1,
@@ -135,7 +135,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 111,
+            "Ross Rayburn": 113,
             "Kristin McGee": 49,
             "Aditi Shah": 29,
             "Anna Greenberg": 19,
@@ -1317,5 +1317,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4720.16"
+    "totalDistanceCycled": "4730.41"
 }
