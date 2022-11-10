@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-11-08 08:01 (UTC)",
-        "Instructor": "Camila Ramon",
+        "Timestamp": "2022-11-09 22:06 (UTC)",
+        "Instructor": "N\/A",
         "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
-        "Ride Name": "20 min 90s Ride",
-        "Total Output": "265",
-        "Length": "20",
+        "Ride Name": "30 min Streets of London Ride",
+        "Total Output": "225",
+        "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1126,
-        "Cycling": 804,
-        "Meditation": 240,
+        "Overall": 1129,
+        "Cycling": 806,
+        "Meditation": 241,
         "Walking": 38,
         "Cardio": 13,
         "Stretching": 13,
@@ -21,7 +21,7 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 235,
-        "Ross Rayburn": 113,
+        "Ross Rayburn": 114,
         "Bradley Rose": 65,
         "Ben Alldis": 61,
         "Leanne Hainsby": 56,
@@ -135,7 +135,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 113,
+            "Ross Rayburn": 114,
             "Kristin McGee": 49,
             "Aditi Shah": 29,
             "Anna Greenberg": 19,
@@ -1317,5 +1317,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4730.41"
+    "totalDistanceCycled": "4753.05"
 }
