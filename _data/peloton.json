@@ -9,13 +9,13 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1132,
+        "Overall": 1134,
         "Cycling": 806,
         "Meditation": 243,
-        "Walking": 39,
+        "Walking": 40,
         "Cardio": 13,
+        "Running": 13,
         "Stretching": 13,
-        "Running": 12,
         "Strength": 4,
         "Yoga": 2
     },
@@ -38,13 +38,13 @@
         "Anna Greenberg": 20,
         "Jenn Sherman": 20,
         "Tunde Oyeneyin": 20,
+        "Olivia Amato": 16,
         "Jess King": 15,
-        "Olivia Amato": 15,
         "Alex Toussaint": 14,
         "Chelsea Jackson Roberts": 14,
         "Kendall Toole": 14,
+        "Rebecca Kennedy": 11,
         "Selena Samuela": 11,
-        "Rebecca Kennedy": 10,
         "Kirra Michel": 8,
         "Hannah Frankson": 6,
         "Jon Hosking": 5,
@@ -118,12 +118,12 @@
             "Robin Arzon": 3,
             "Jon Hosking": 2,
             "Kirsten Ferguson": 2,
+            "Olivia Amato": 2,
             "Adrian & Tunde ": 1,
             "Adrian Williams": 1,
             "Becs Gentry": 1,
             "Chase Tucker": 1,
-            "Jess Sims": 1,
-            "Olivia Amato": 1
+            "Jess Sims": 1
         },
         "Strength": {
             "Sam Yo": 2,
@@ -153,9 +153,9 @@
             "Multiple Instructors ": 1
         },
         "Running": {
+            "Rebecca Kennedy": 3,
             "Becs Gentry": 2,
             "Jon Hosking": 2,
-            "Rebecca Kennedy": 2,
             "Robin Arzon": 2,
             "Joslyn Thompson Rule": 1,
             "Matt Wilpers": 1,
