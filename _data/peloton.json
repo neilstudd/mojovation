@@ -1,17 +1,17 @@
 {
     "latestRide": {
-        "Timestamp": "2022-11-13 16:47 (UTC)",
+        "Timestamp": "2022-11-14 17:20 (UTC)",
         "Instructor": "Ben Alldis",
         "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4aa24c3fba07458f8084df128df4f979",
-        "Ride Name": "20 min 90s Rock Ride",
-        "Total Output": "300",
-        "Length": "20",
+        "Ride Name": "Extra 10: Climb Ride",
+        "Total Output": "216",
+        "Length": "10",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1139,
-        "Cycling": 809,
-        "Meditation": 245,
+        "Overall": 1143,
+        "Cycling": 812,
+        "Meditation": 246,
         "Walking": 40,
         "Cardio": 13,
         "Running": 13,
@@ -22,15 +22,15 @@
     "totalsByInstructor": {
         "Sam Yo": 235,
         "Ross Rayburn": 115,
-        "Bradley Rose": 65,
-        "Ben Alldis": 62,
+        "Bradley Rose": 66,
+        "Ben Alldis": 63,
         "Leanne Hainsby": 58,
         "Kristin McGee": 51,
         "Matt Wilpers": 48,
         "Cody Rigsby": 38,
         "Robin Arzon": 37,
         "Denis Morton": 35,
-        "Emma Lovewell": 34,
+        "Emma Lovewell": 35,
         "Hannah Corbin": 33,
         "Christine D'Ercole": 30,
         "Aditi Shah": 29,
@@ -45,7 +45,7 @@
         "Kendall Toole": 14,
         "Rebecca Kennedy": 11,
         "Selena Samuela": 11,
-        "Kirra Michel": 9,
+        "Kirra Michel": 10,
         "Hannah Frankson": 6,
         "Jon Hosking": 5,
         "Joslyn Thompson Rule": 5,
@@ -73,11 +73,11 @@
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
             "Sam Yo": 227,
-            "Bradley Rose": 65,
-            "Ben Alldis": 60,
+            "Bradley Rose": 66,
+            "Ben Alldis": 61,
             "Leanne Hainsby": 58,
             "Matt Wilpers": 47,
-            "Emma Lovewell": 33,
+            "Emma Lovewell": 34,
             "Hannah Corbin": 33,
             "Cody Rigsby": 32,
             "Denis Morton": 32,
@@ -140,7 +140,7 @@
             "Aditi Shah": 29,
             "Anna Greenberg": 19,
             "Chelsea Jackson Roberts": 14,
-            "Kirra Michel": 9,
+            "Kirra Michel": 10,
             "Cody Rigsby": 6,
             "Denis Morton": 1,
             "Nico Sarani": 1
@@ -311,11 +311,11 @@
             ]
         },
         "10": {
-            "Timestamp": "2022-08-31 17:00 (+01)",
-            "Instructor": "Bradley Rose",
-            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
-            "Ride Name": "10 min Climb Ride",
-            "Total Output": "212",
+            "Timestamp": "2022-11-14 17:20 (UTC)",
+            "Instructor": "Ben Alldis",
+            "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4aa24c3fba07458f8084df128df4f979",
+            "Ride Name": "Extra 10: Climb Ride",
+            "Total Output": "216",
             "Length": "10",
             "Live Ride": false,
             "progressions": [
@@ -451,6 +451,15 @@
                     "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/dfff95abccd045ac87db396119d6395f",
                     "Ride Name": "10 min Climb Ride",
                     "Total Output": "212",
+                    "Length": "10",
+                    "Live Ride": false
+                },
+                {
+                    "Timestamp": "2022-11-14 17:20 (UTC)",
+                    "Instructor": "Ben Alldis",
+                    "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/4aa24c3fba07458f8084df128df4f979",
+                    "Ride Name": "Extra 10: Climb Ride",
+                    "Total Output": "216",
                     "Length": "10",
                     "Live Ride": false
                 }
@@ -1317,5 +1326,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4763.89"
+    "totalDistanceCycled": "4771.35"
 }
