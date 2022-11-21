@@ -10,12 +10,12 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1151,
+        "Overall": 1153,
         "Cycling": 815,
         "Meditation": 250,
         "Walking": 41,
+        "Running": 15,
         "Cardio": 13,
-        "Running": 13,
         "Stretching": 13,
         "Strength": 4,
         "Yoga": 2
@@ -27,7 +27,7 @@
         "Ben Alldis": 63,
         "Leanne Hainsby": 61,
         "Kristin McGee": 51,
-        "Matt Wilpers": 48,
+        "Matt Wilpers": 49,
         "Cody Rigsby": 38,
         "Robin Arzon": 37,
         "Denis Morton": 35,
@@ -69,7 +69,8 @@
         "Jess & Robin ": 1,
         "Mariana Fernandez": 1,
         "Multiple Instructors ": 1,
-        "Nico Sarani": 1
+        "Nico Sarani": 1,
+        "Susie Chan": 1
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
@@ -157,11 +158,12 @@
             "Rebecca Kennedy": 3,
             "Becs Gentry": 2,
             "Jon Hosking": 2,
+            "Matt Wilpers": 2,
             "Robin Arzon": 2,
             "Joslyn Thompson Rule": 1,
-            "Matt Wilpers": 1,
             "Matty Maggiacomo": 1,
-            "Selena Samuela": 1
+            "Selena Samuela": 1,
+            "Susie Chan": 1
         }
     },
     "PBs": {
