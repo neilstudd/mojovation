@@ -1,18 +1,18 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-11-16 13:31 (UTC)",
-        "Instructor": "Leanne Hainsby",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/065e607d145944309aef36f99a0e7a68",
-        "Ride Name": "30 min 80s Ride",
-        "Total Output": "390",
+        "Timestamp": "2022-11-26 17:48 (UTC)",
+        "Instructor": "Ally Love",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/85182219e21c43b39aa1251dd8f12adb",
+        "Ride Name": "30 min Taylor Swift Midnights Ride",
+        "Total Output": "455",
         "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1158,
-        "Cycling": 815,
-        "Meditation": 255,
+        "Overall": 1162,
+        "Cycling": 818,
+        "Meditation": 256,
         "Walking": 41,
         "Running": 15,
         "Cardio": 13,
@@ -22,10 +22,10 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 235,
-        "Ross Rayburn": 122,
+        "Ross Rayburn": 123,
         "Bradley Rose": 66,
         "Ben Alldis": 63,
-        "Leanne Hainsby": 61,
+        "Leanne Hainsby": 63,
         "Kristin McGee": 52,
         "Matt Wilpers": 49,
         "Cody Rigsby": 38,
@@ -35,7 +35,7 @@
         "Hannah Corbin": 33,
         "Aditi Shah": 30,
         "Christine D'Ercole": 30,
-        "Ally Love": 25,
+        "Ally Love": 26,
         "Anna Greenberg": 20,
         "Jenn Sherman": 20,
         "Tunde Oyeneyin": 20,
@@ -76,8 +76,8 @@
         "Cycling": {
             "Sam Yo": 227,
             "Bradley Rose": 66,
+            "Leanne Hainsby": 63,
             "Ben Alldis": 61,
-            "Leanne Hainsby": 61,
             "Matt Wilpers": 47,
             "Emma Lovewell": 34,
             "Hannah Corbin": 33,
@@ -85,7 +85,7 @@
             "Denis Morton": 32,
             "Robin Arzon": 32,
             "Christine D'Ercole": 30,
-            "Ally Love": 25,
+            "Ally Love": 26,
             "Jenn Sherman": 19,
             "Tunde Oyeneyin": 19,
             "Jess King": 15,
@@ -137,7 +137,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 122,
+            "Ross Rayburn": 123,
             "Kristin McGee": 52,
             "Aditi Shah": 30,
             "Anna Greenberg": 19,
@@ -1329,5 +1329,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4785.39"
+    "totalDistanceCycled": "4801.57"
 }
