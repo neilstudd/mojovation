@@ -1,19 +1,19 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-11-26 17:48 (UTC)",
-        "Instructor": "Ally Love",
-        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/85182219e21c43b39aa1251dd8f12adb",
+        "Timestamp": "2022-11-30 13:29 (UTC)",
+        "Instructor": "Mayla Wedekind",
+        "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
         "Ride Name": "30 min Taylor Swift Midnights Ride",
-        "Total Output": "455",
+        "Total Output": "413",
         "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1167,
-        "Cycling": 818,
-        "Meditation": 259,
-        "Walking": 43,
+        "Overall": 1172,
+        "Cycling": 821,
+        "Meditation": 260,
+        "Walking": 44,
         "Running": 15,
         "Cardio": 13,
         "Stretching": 13,
@@ -21,8 +21,8 @@
         "Yoga": 2
     },
     "totalsByInstructor": {
-        "Sam Yo": 235,
-        "Ross Rayburn": 126,
+        "Sam Yo": 237,
+        "Ross Rayburn": 127,
         "Bradley Rose": 66,
         "Ben Alldis": 63,
         "Leanne Hainsby": 63,
@@ -68,13 +68,14 @@
         "Irene Scholz": 1,
         "Jess & Robin ": 1,
         "Mariana Fernandez": 1,
+        "Mayla Wedekind": 1,
         "Multiple Instructors ": 1,
         "Nico Sarani": 1,
         "Susie Chan": 1
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
-            "Sam Yo": 227,
+            "Sam Yo": 229,
             "Bradley Rose": 66,
             "Leanne Hainsby": 63,
             "Ben Alldis": 61,
@@ -102,7 +103,8 @@
             "Jess & Robin ": 1,
             "Jess Sims": 1,
             "Jon Hosking": 1,
-            "Mariana Fernandez": 1
+            "Mariana Fernandez": 1,
+            "Mayla Wedekind": 1
         },
         "Stretching": {
             "Sam Yo": 6,
@@ -137,7 +139,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 126,
+            "Ross Rayburn": 127,
             "Kristin McGee": 52,
             "Aditi Shah": 30,
             "Anna Greenberg": 19,
@@ -1329,5 +1331,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4801.57"
+    "totalDistanceCycled": "4817.66"
 }
