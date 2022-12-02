@@ -1,19 +1,19 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-11-30 13:29 (UTC)",
-        "Instructor": "Mayla Wedekind",
+        "Timestamp": "2022-12-01 13:17 (UTC)",
+        "Instructor": "Camila Ramon",
         "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
-        "Ride Name": "30 min Taylor Swift Midnights Ride",
-        "Total Output": "413",
-        "Length": "30",
+        "Ride Name": "15 min 90s Pop Ride",
+        "Total Output": "286",
+        "Length": "15",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1172,
-        "Cycling": 821,
+        "Overall": 1176,
+        "Cycling": 824,
         "Meditation": 260,
-        "Walking": 44,
+        "Walking": 45,
         "Running": 15,
         "Cardio": 13,
         "Stretching": 13,
@@ -39,9 +39,9 @@
         "Anna Greenberg": 20,
         "Jenn Sherman": 20,
         "Tunde Oyeneyin": 20,
-        "Olivia Amato": 16,
+        "Olivia Amato": 17,
+        "Alex Toussaint": 15,
         "Jess King": 15,
-        "Alex Toussaint": 14,
         "Chelsea Jackson Roberts": 14,
         "Kendall Toole": 14,
         "Rebecca Kennedy": 11,
@@ -53,8 +53,8 @@
         "Matty Maggiacomo": 4,
         "Andy Speer": 3,
         "Becs Gentry": 3,
+        "Camila Ramon": 3,
         "Rad Lopez": 3,
-        "Camila Ramon": 2,
         "Cliff Dwenger": 2,
         "Jess Sims": 2,
         "Kirsten Ferguson": 2,
@@ -89,12 +89,12 @@
             "Ally Love": 26,
             "Jenn Sherman": 19,
             "Tunde Oyeneyin": 19,
+            "Alex Toussaint": 15,
             "Jess King": 15,
-            "Alex Toussaint": 14,
-            "Olivia Amato": 14,
+            "Olivia Amato": 15,
             "Kendall Toole": 8,
             "Hannah Frankson": 6,
-            "Camila Ramon": 2,
+            "Camila Ramon": 3,
             "Cliff Dwenger": 2,
             "Alex & Tunde  ": 1,
             "Bradley & Sam ": 1,
@@ -1331,5 +1331,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4817.66"
+    "totalDistanceCycled": "4827.39"
 }
