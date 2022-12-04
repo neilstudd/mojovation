@@ -1,17 +1,17 @@
 {
     "currentRide": [],
     "latestRide": {
-        "Timestamp": "2022-12-01 13:17 (UTC)",
-        "Instructor": "Camila Ramon",
-        "Photo": "https:\/\/i.imgur.com\/PAcGJM9.jpg",
-        "Ride Name": "15 min 90s Pop Ride",
-        "Total Output": "286",
-        "Length": "15",
+        "Timestamp": "2022-12-03 11:22 (UTC)",
+        "Instructor": "Emma Lovewell",
+        "Photo": "https:\/\/res.cloudinary.com\/peloton-cycle\/image\/fetch\/dpr_2.0,f_auto,q_auto:best,w_60\/https:\/\/s3.amazonaws.com\/workout-metric-images-prod\/aab0bbd729f94be0b835d08507410eea",
+        "Ride Name": "30 min Holiday: 90s Ride",
+        "Total Output": "401",
+        "Length": "30",
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1178,
-        "Cycling": 824,
+        "Overall": 1181,
+        "Cycling": 827,
         "Meditation": 262,
         "Walking": 45,
         "Running": 15,
@@ -24,14 +24,14 @@
         "Sam Yo": 237,
         "Ross Rayburn": 129,
         "Bradley Rose": 66,
+        "Leanne Hainsby": 65,
         "Ben Alldis": 63,
-        "Leanne Hainsby": 63,
         "Kristin McGee": 52,
         "Matt Wilpers": 49,
         "Cody Rigsby": 38,
         "Robin Arzon": 37,
+        "Emma Lovewell": 36,
         "Denis Morton": 35,
-        "Emma Lovewell": 35,
         "Hannah Corbin": 33,
         "Aditi Shah": 30,
         "Christine D'Ercole": 30,
@@ -77,10 +77,10 @@
         "Cycling": {
             "Sam Yo": 229,
             "Bradley Rose": 66,
-            "Leanne Hainsby": 63,
+            "Leanne Hainsby": 65,
             "Ben Alldis": 61,
             "Matt Wilpers": 47,
-            "Emma Lovewell": 34,
+            "Emma Lovewell": 35,
             "Hannah Corbin": 33,
             "Cody Rigsby": 32,
             "Denis Morton": 32,
@@ -1331,5 +1331,5 @@
             ]
         }
     },
-    "totalDistanceCycled": "4827.39"
+    "totalDistanceCycled": "4843.13"
 }
