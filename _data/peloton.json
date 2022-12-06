@@ -10,11 +10,11 @@
         "Live Ride": false
     },
     "workoutTotals": {
-        "Overall": 1186,
+        "Overall": 1189,
         "Cycling": 829,
-        "Meditation": 264,
+        "Meditation": 265,
         "Walking": 45,
-        "Running": 15,
+        "Running": 17,
         "Stretching": 14,
         "Cardio": 13,
         "Strength": 4,
@@ -22,7 +22,7 @@
     },
     "totalsByInstructor": {
         "Sam Yo": 237,
-        "Ross Rayburn": 130,
+        "Ross Rayburn": 131,
         "Bradley Rose": 67,
         "Leanne Hainsby": 66,
         "Ben Alldis": 63,
@@ -55,6 +55,7 @@
         "Becs Gentry": 3,
         "Camila Ramon": 3,
         "Rad Lopez": 3,
+        "Susie Chan": 3,
         "Cliff Dwenger": 2,
         "Jess Sims": 2,
         "Kirsten Ferguson": 2,
@@ -70,8 +71,7 @@
         "Mariana Fernandez": 1,
         "Mayla Wedekind": 1,
         "Multiple Instructors ": 1,
-        "Nico Sarani": 1,
-        "Susie Chan": 1
+        "Nico Sarani": 1
     },
     "totalsByInstructorAndDiscipline": {
         "Cycling": {
@@ -140,7 +140,7 @@
             "Denis Morton": 1
         },
         "Meditation": {
-            "Ross Rayburn": 130,
+            "Ross Rayburn": 131,
             "Kristin McGee": 52,
             "Aditi Shah": 31,
             "Anna Greenberg": 19,
@@ -159,14 +159,14 @@
         },
         "Running": {
             "Rebecca Kennedy": 3,
+            "Susie Chan": 3,
             "Becs Gentry": 2,
             "Jon Hosking": 2,
             "Matt Wilpers": 2,
             "Robin Arzon": 2,
             "Joslyn Thompson Rule": 1,
             "Matty Maggiacomo": 1,
-            "Selena Samuela": 1,
-            "Susie Chan": 1
+            "Selena Samuela": 1
         }
     },
     "PBs": {
