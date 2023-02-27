@@ -6,7 +6,7 @@ date:   2022-10-10 01:00:00 +0100
 image: /assets/img/star-trek-discovery-not-okay.gif
 ---
 
-10th October is [World Mental Health Day 2022](https://mentalhealth-uk.org/get-involved/mental-health-awareness-days/world-mental-health-day-2022/), with a theme this year of making mental health your number one priority. Specifically this year, it's about taking back control: recognising what you can change (and acknowleding what you can't). With that in mind, I wanted to broadly share the story of my own mental health journey during the past decade.
+10th October is [World Mental Health Day 2022](https://mentalhealth-uk.org/get-involved/mental-health-awareness-days/world-mental-health-day-2022/), with a theme this year of making mental health your number one priority. Specifically this year, it's about taking back control: recognising what you can change (and acknowledging what you can't). With that in mind, I wanted to broadly share the story of my own mental health journey during the past decade.
 
 ### The ghosts of the past
 
