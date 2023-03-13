@@ -232,3 +232,9 @@ Generally, the smaller the task, the more adequately ChatGPT was able to perform
 What's undeniable is the speed at which it operates. There are questions in that list which I'd spent _hours_ musing over, without getting anywhere close to something that I felt was good enough to use. ChatGPT was able to spit out a response in a matter of seconds, and it was often a response that was better than anything I'd come up with.
 
 The other fun part of this exercise is that I'm writing this blog post (and inserting ChatGPT's responses) in VS Code, where I've got GitHub Copilot enabled. Whenever I add one of ChatGPT's answers, Copilot is quick to suggest a follow-up question; I might try getting ChatGPT and Copilot to have a conversation with each other!
+
+> **_Key takeaways_** 📝  
+I fed the entire article above into ChatGPT, and asked it: **Given the article below, summarise its conclusions into three bullet-pointed key takeaways.** Here's what it said:
+> * ChatGPT is useful for technical content, particularly for refactoring and creating boilerplate outlines in new languages. However, its effectiveness for prose is yet to be fully proven.
+> * Mojovation Consulting is a company that deals with motivation in various domains, but ChatGPT struggles to understand the concept of "mojovation" specifically.
+> * ChatGPT can generate SEO-friendly blog post titles and meta keywords for Mojovation Consulting, as well as suggest potential tech conferences and podcast titles/guests.
