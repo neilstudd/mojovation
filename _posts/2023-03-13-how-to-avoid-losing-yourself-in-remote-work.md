@@ -6,7 +6,7 @@ date:   2023-03-13 01:00:00 +0100
 image: /assets/img/eminem-lose-yourself.gif
 ---
 
-The world of work - especially tech work - has been evolving rapidly in recent years In part this has been driven by employees' needs and demands, but COVID has obviously played a massive part too, and nowhere is this most apparent than in the world of remote work.
+The world of work - especially tech work - has been evolving rapidly in recent years. In part this has been driven by employees' needs and demands, but COVID has obviously played a massive part too, and nowhere is this most apparent than in the world of remote work.
 
 I've been working remotely almost permanently since 2017, when I took a job specifically because of the novelty of a fully-remote position. At that time, many people perceived remote working as something of a "doss job", or that we'd be working in our pyjamas or doing the gardening (hopefully not both at the same time).
 
