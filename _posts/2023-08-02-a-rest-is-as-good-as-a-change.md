@@ -48,7 +48,7 @@ Spiritual doesn't need to mean religious (although it can be that, if it fits yo
 
 If you're feeling tired, it's worth considering which of these types of rest you may be missing. It's not always easy to find the time to rest, but it's important to remember that not all rest is the same. If you're feeling tired, it's worth considering which of these types of rest you may be missing.
 
-You can view Sharon's TEDx talk in full below!
+You can view Saundra's TEDx talk in full below!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGNN4EPJzGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
