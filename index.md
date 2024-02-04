@@ -14,21 +14,4 @@ We offer **agile coaching**, **career advice** and **project consultancy** servi
 > ### Let's start a conversation!  
 > * [Learn more about our organisation.](/about)
 > * [Learn more about the service packages we provide.](/services) 
-> * [Contact us for a free consultation.](/contact)
-
-## Latest blog posts
-
-<div class="archive">
-{% for post in site.posts limit:6 %}
-  <article class="article">
-    <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ post.image }}" class="thumb" /></a>
-    <div><strong><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></strong><br/>
-    {{ post.excerpt }}<br/><br/>
-    </div>
-  </article>
-  {%- endfor -%}
-</div>
-<div class="pagination">
-    <p><strong><a href="/blog">View all blog posts</a></strong><br/>
-    <strong><a href="feed.xml">Subscribe to our RSS feed</a></strong></p>
-</div>
+> * [Contact us for a free consultation.](/contact) 
