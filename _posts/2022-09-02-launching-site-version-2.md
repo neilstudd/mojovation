@@ -35,7 +35,7 @@ We've also settled into a regular cadence for publishing content on this site:
 * **Thursdays:** Live "Office Hours" on Twitch _(starting soon!)_
 * **Fridays:** New book review 
 
-You can always subscribe to our <a href="feed.xml">RSS feed</a> to keep up-to-date.
+You can always subscribe to our <a href="/feed.xml">RSS feed</a> to keep up-to-date.
 
 ### What's coming next?
 
