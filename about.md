@@ -6,7 +6,7 @@ image: /assets/img/elf-who-the-heck-are-you.gif
 ---
 
 {% capture ecologi_mileage %}
-{{ site.data.ecologi.carbonOffset | times: 2481 }}
+{{ site.data.ecologi.carbonOffset | times: 2547 }}
 {% endcapture %}
 
 ## Our Mission
